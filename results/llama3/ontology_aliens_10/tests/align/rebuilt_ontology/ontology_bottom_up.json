@@ -1,0 +1,117 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Pyron": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystal",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Pyron": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystal",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Pyron": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystal",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Pyron": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystal",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Pyron": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystal",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    }
+  }
+}

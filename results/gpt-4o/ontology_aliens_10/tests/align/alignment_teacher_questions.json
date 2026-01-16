@@ -1,0 +1,202 @@
+{
+    "0": {
+        "entity": {
+            "missing": 4,
+            "correct": 6,
+            "extra": 0
+        },
+        "feature": {
+            "missing": 2,
+            "correct": 3,
+            "extra": 1
+        },
+        "value": {
+            "missing": 11,
+            "correct": 15,
+            "extra": 1
+        },
+        "feature_value": {
+            "missing": 14,
+            "correct": 12,
+            "extra": 4
+        },
+        "entity_feature": {
+            "missing": 32,
+            "correct": 18,
+            "extra": 6
+        },
+        "triplet": {
+            "missing": 35,
+            "correct": 15,
+            "extra": 9
+        },
+        "ground_truth": {
+            "entities": 10,
+            "features": 5,
+            "values": 26,
+            "feature_values": 26,
+            "entity_features": 50,
+            "triplets": 50
+        }
+    },
+    "1": {
+        "entity": {
+            "missing": 4,
+            "correct": 6,
+            "extra": 0
+        },
+        "feature": {
+            "missing": 2,
+            "correct": 3,
+            "extra": 1
+        },
+        "value": {
+            "missing": 11,
+            "correct": 15,
+            "extra": 1
+        },
+        "feature_value": {
+            "missing": 14,
+            "correct": 12,
+            "extra": 4
+        },
+        "entity_feature": {
+            "missing": 32,
+            "correct": 18,
+            "extra": 6
+        },
+        "triplet": {
+            "missing": 35,
+            "correct": 15,
+            "extra": 9
+        },
+        "ground_truth": {
+            "entities": 10,
+            "features": 5,
+            "values": 26,
+            "feature_values": 26,
+            "entity_features": 50,
+            "triplets": 50
+        }
+    },
+    "2": {
+        "entity": {
+            "missing": 4,
+            "correct": 6,
+            "extra": 0
+        },
+        "feature": {
+            "missing": 2,
+            "correct": 3,
+            "extra": 1
+        },
+        "value": {
+            "missing": 11,
+            "correct": 15,
+            "extra": 1
+        },
+        "feature_value": {
+            "missing": 14,
+            "correct": 12,
+            "extra": 4
+        },
+        "entity_feature": {
+            "missing": 32,
+            "correct": 18,
+            "extra": 6
+        },
+        "triplet": {
+            "missing": 35,
+            "correct": 15,
+            "extra": 9
+        },
+        "ground_truth": {
+            "entities": 10,
+            "features": 5,
+            "values": 26,
+            "feature_values": 26,
+            "entity_features": 50,
+            "triplets": 50
+        }
+    },
+    "3": {
+        "entity": {
+            "missing": 4,
+            "correct": 6,
+            "extra": 0
+        },
+        "feature": {
+            "missing": 2,
+            "correct": 3,
+            "extra": 1
+        },
+        "value": {
+            "missing": 11,
+            "correct": 15,
+            "extra": 1
+        },
+        "feature_value": {
+            "missing": 14,
+            "correct": 12,
+            "extra": 4
+        },
+        "entity_feature": {
+            "missing": 32,
+            "correct": 18,
+            "extra": 6
+        },
+        "triplet": {
+            "missing": 35,
+            "correct": 15,
+            "extra": 9
+        },
+        "ground_truth": {
+            "entities": 10,
+            "features": 5,
+            "values": 26,
+            "feature_values": 26,
+            "entity_features": 50,
+            "triplets": 50
+        }
+    },
+    "4": {
+        "entity": {
+            "missing": 4,
+            "correct": 6,
+            "extra": 0
+        },
+        "feature": {
+            "missing": 1,
+            "correct": 4,
+            "extra": 1
+        },
+        "value": {
+            "missing": 11,
+            "correct": 15,
+            "extra": 1
+        },
+        "feature_value": {
+            "missing": 12,
+            "correct": 14,
+            "extra": 2
+        },
+        "entity_feature": {
+            "missing": 26,
+            "correct": 24,
+            "extra": 6
+        },
+        "triplet": {
+            "missing": 29,
+            "correct": 21,
+            "extra": 3
+        },
+        "ground_truth": {
+            "entities": 10,
+            "features": 5,
+            "values": 26,
+            "feature_values": 26,
+            "entity_features": 50,
+            "triplets": 50
+        }
+    }
+}

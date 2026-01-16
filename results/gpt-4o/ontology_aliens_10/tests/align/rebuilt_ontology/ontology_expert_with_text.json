@@ -1,0 +1,362 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "armoured exoskeleton",
+      "movement": "crawl slowly",
+      "social": "solitude"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body": "gelatinous",
+      "movement": "float",
+      "social": "communal clusters"
+    },
+    "Crystar": {
+      "diet": "consumes metallic substances",
+      "habitat": "crystal",
+      "body": "metallic",
+      "movement": "slide",
+      "social": "solitude"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "winged",
+      "movement": "float",
+      "social": "communes"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "quadrupedal",
+      "movement": "bound",
+      "social": "communal herds"
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "body": "tentacled",
+      "movement": "swim",
+      "social": "solitary"
+    },
+    "Pyron": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "protective armour",
+      "movement": "crawl",
+      "social": "communal"
+    },
+    "Zephyrian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "feathered",
+      "movement": "float",
+      "social": "solitary"
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal",
+      "body": "thick fur",
+      "movement": "slide",
+      "social": "communal packs"
+    },
+    "Floran": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "petal-like",
+      "movement": "flutter",
+      "social": "solitary"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "armoured exoskeleton",
+      "movement": "crawl slowly",
+      "social": "solitude"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body": "gelatinous",
+      "movement": "float",
+      "social": "communal clusters"
+    },
+    "Crystar": {
+      "diet": "consumes metallic substances",
+      "habitat": "crystal",
+      "body": "metallic",
+      "movement": "slide",
+      "social": "solitude"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "winged",
+      "movement": "float",
+      "social": "communes"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "quadrupedal",
+      "movement": "bound",
+      "social": "communal herds"
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "body": "tentacled",
+      "movement": "swim",
+      "social": "solitary"
+    },
+    "Pyron": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "protective armour",
+      "movement": "crawl",
+      "social": "communal"
+    },
+    "Zephyrian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "feathered",
+      "movement": "float",
+      "social": "solitary"
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal",
+      "body": "thick fur",
+      "movement": "slide",
+      "social": "communal packs"
+    },
+    "Floran": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "petal-like",
+      "movement": "flutter",
+      "social": "solitary"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "armoured exoskeleton",
+      "movement": "crawl slowly",
+      "social": "solitude"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body": "gelatinous",
+      "movement": "float",
+      "social": "communal clusters"
+    },
+    "Crystar": {
+      "diet": "consumes metallic substances",
+      "habitat": "crystal",
+      "body": "metallic",
+      "movement": "slide",
+      "social": "solitude"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "winged",
+      "movement": "float",
+      "social": "communes"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "quadrupedal",
+      "movement": "bound",
+      "social": "communal herds"
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "body": "tentacled",
+      "movement": "swim",
+      "social": "solitary"
+    },
+    "Pyron": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "protective armour",
+      "movement": "crawl",
+      "social": "communal"
+    },
+    "Zephyrian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "feathered",
+      "movement": "float",
+      "social": "solitary"
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal",
+      "body": "thick fur",
+      "movement": "slide",
+      "social": "communal packs"
+    },
+    "Floran": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "petal-like",
+      "movement": "flutter",
+      "social": "solitary"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "armoured exoskeleton",
+      "movement": "crawl slowly",
+      "social": "solitude"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body": "gelatinous",
+      "movement": "float",
+      "social": "communal clusters"
+    },
+    "Crystar": {
+      "diet": "consumes metallic substances",
+      "habitat": "crystal",
+      "body": "metallic",
+      "movement": "slide",
+      "social": "solitude"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "winged",
+      "movement": "float",
+      "social": "communes"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "quadrupedal",
+      "movement": "bound",
+      "social": "communal herds"
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "body": "tentacled",
+      "movement": "swim",
+      "social": "solitary"
+    },
+    "Pyron": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "protective armour",
+      "movement": "crawl",
+      "social": "communal"
+    },
+    "Zephyrian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "feathered",
+      "movement": "float",
+      "social": "solitary"
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal",
+      "body": "thick fur",
+      "movement": "slide",
+      "social": "communal packs"
+    },
+    "Floran": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "petal-like",
+      "movement": "flutter",
+      "social": "solitary"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "armoured exoskeleton",
+      "movement": "crawl slowly",
+      "social": "solitude"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body": "gelatinous",
+      "movement": "float",
+      "social": "communal clusters"
+    },
+    "Crystar": {
+      "diet": "consumes metallic substances",
+      "habitat": "crystal",
+      "body": "metallic",
+      "movement": "slide",
+      "social": "solitude"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "winged",
+      "movement": "float",
+      "social": "communes"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "quadrupedal",
+      "movement": "bound",
+      "social": "communal herds"
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "body": "tentacled",
+      "movement": "swim",
+      "social": "solitary"
+    },
+    "Pyron": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "protective armour",
+      "movement": "crawl",
+      "social": "communal"
+    },
+    "Zephyrian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "feathered",
+      "movement": "float",
+      "social": "solitary"
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal",
+      "body": "thick fur",
+      "movement": "slide",
+      "social": "communal packs"
+    },
+    "Floran": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "petal-like",
+      "movement": "flutter",
+      "social": "solitary"
+    }
+  }
+}

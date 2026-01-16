@@ -1,0 +1,369 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedijig": "Bibeqe",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Physical": "Camouflage ability",
+        "Behavioral": "Adaptive hunting strategies",
+        "EcologicalRole": "Survivor in diverse environments"
+      }
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Physical": "Vibrant coloration",
+        "Behavioral": "Collaborative social interactions",
+        "EcologicalRole": "Integral to social cohesion and communication"
+      }
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedijig": "Requhu",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Physical": "Crystalline structure",
+        "Behavioral": "Resonant communication",
+        "EcologicalRole": "Nutrient cycling mechanism"
+      }
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Physical": "Translucent body structure",
+        "Behavioral": "Peaceful social dynamics",
+        "EcologicalRole": "Key air purifier in ecosystems"
+      }
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedijig": "Sicezi",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Physical": "Robust and heavy-set",
+        "Behavioral": "Territorial and protective",
+        "EcologicalRole": "Soil health and stability maintainer"
+      }
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedijig": "Woqufe",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Physical": "Fluid and undulating body",
+        "Behavioral": "Sociable and cooperative",
+        "EcologicalRole": "Predator and nutrient cycling agent in aquatic ecosystems"
+      }
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedijig": "Yajahi",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Physical": "Plant-like features",
+        "Behavioral": "Cooperative community dynamics",
+        "EcologicalRole": "Primary producer and energy stabilizer"
+      }
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedijig": "Bibeqe",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Adaptation": "Camouflage and physical features",
+        "Ecological Role": "Predator",
+        "Social Behavior": "Independent",
+        "Skills": "Hunting and survival"
+      }
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Adaptation": "Reflective and colorful skin",
+        "Ecological Role": "Cooperative species",
+        "Social Behavior": "Visual communication",
+        "Skills": "Manipulating light"
+      }
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedijig": "Requhu",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Adaptation": "Crystalline structure",
+        "Ecological Role": "Nutrient cycling",
+        "Social Behavior": "Vibrational communication",
+        "Skills": "Echo-location and digging"
+      }
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Adaptation": "Translucent and ethereal form",
+        "Ecological Role": "Air purifier",
+        "Social Behavior": "Cooperative groups",
+        "Skills": "Manipulating air currents and communication"
+      }
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedijig": "Sicezi",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Adaptation": "Robust and heavy-set body",
+        "Ecological Role": "Soil health maintenance",
+        "Social Behavior": "Territorial and protective",
+        "Skills": "Physical strength and digging"
+      }
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedijig": "Woqufe",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Adaptation": "Fluid and undulating structure",
+        "Ecological Role": "Predator and prey",
+        "Social Behavior": "Sociable and cooperative",
+        "Skills": "Echolocation and swimming"
+      }
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedijig": "Yajahi",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Adaptation": "Plant-like features",
+        "Ecological Role": "Primary producer",
+        "Social Behavior": "Cooperative and communal",
+        "Skills": "Photosynthesis and nutrient sharing"
+      }
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedijig": "Bibeqe",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Role": "Camouflage and survival",
+        "Physical Adaptation": "Possesses features for blending into the environment",
+        "Behavior": "Engages in social interactions potentially centered around survival"
+      }
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Role": "Visual communication and social cohesion",
+        "Physical Adaptation": "Reflective skin for communication and camouflage",
+        "Behavior": "Forms cooperative groups for resource sharing"
+      }
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedijig": "Requhu",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Role": "Ecosystem engineering and nutrient cycling",
+        "Physical Adaptation": "Crystalline structure for defense and communication",
+        "Behavior": "Utilizes resonant signals for long-distance communication"
+      }
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Role": "Air purification and social cooperation",
+        "Physical Adaptation": "Translucent body structure for camouflage and communication",
+        "Behavior": "Forms harmonious communities with shared resources"
+      }
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedijig": "Sicezi",
+      "Holesoy": "Qatiso",
+      "Characteristics": {
+        "Role": "Soil health and territorial protection",
+        "Physical Adaptation": "Robust body suitable for rugged environments",
+        "Behavior": "Territorial and protective of their young and resources"
+      }
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedijig": "Woqufe",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Role": "Ecosystem navigation and collective hunting",
+        "Physical Adaptation": "Fluid body structure for agility in water",
+        "Behavior": "Forms schools or pods for hunting and protection"
+      }
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedijig": "Yajahi",
+      "Holesoy": "Galewe",
+      "Characteristics": {
+        "Role": "Primary producer and energy sustainer",
+        "Physical Adaptation": "Plant-like features for camouflage and photosynthesis",
+        "Behavior": "Cooperative sharing and mutual support within communities"
+      }
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedijig": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedijig": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedijig": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedijig": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedijig": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedijig": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedijig": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedijig": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedijig": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedijig": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedijig": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  }
+}

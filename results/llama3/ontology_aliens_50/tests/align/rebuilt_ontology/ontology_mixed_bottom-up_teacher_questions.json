@@ -1,0 +1,187 @@
+{
+  "Test 1": {
+    "Nebulon": {
+      "Diet": "Ionized particles",
+      "Habitat": "Nebulae",
+      "Morphology": "Gaseous body",
+      "Locomotion": "Gas manipulation",
+      "Social Structure": "Colonial"
+    },
+    "Echoflux": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged, aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Aerotrope": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged, aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Graviton": {
+      "Diet": "Gravitational potential energy",
+      "Habitat": "Massive celestial bodies",
+      "Morphology": "Dense, compact body",
+      "Locomotion": "Gravity manipulation",
+      "Social Structure": "Solitary"
+    },
+    "Electrope": {
+      "Diet": "Electromagnetic radiation",
+      "Habitat": "High-energy plasma environments",
+      "Morphology": "Filamentous, electrically conductive body",
+      "Locomotion": "Electromagnetically propelled",
+      "Social Structure": "Colonial"
+    }
+  },
+  "Test 2": {
+    "Nebulon": {
+      "Diet": "Ionized particles",
+      "Habitat": "Nebulae",
+      "Morphology": "Gaseous body",
+      "Locomotion": "Gas manipulation",
+      "Social Structure": "Colonial"
+    },
+    "Echoflux": {
+      "Diet": "Resonant frequencies",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged, aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Aerotrope": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged, aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Graviton": {
+      "Diet": "Gravitational potential energy",
+      "Habitat": "Massive celestial bodies",
+      "Morphology": "Dense, compact body",
+      "Locomotion": "Gravity manipulation",
+      "Social Structure": "Solitary"
+    },
+    "Electrope": {
+      "Diet": "Electromagnetic radiation",
+      "Habitat": "High-energy plasma environments",
+      "Morphology": "Filamentous, electrically conductive body",
+      "Locomotion": "Electromagnetically propelled",
+      "Social Structure": "Colonial"
+    }
+  },
+  "Test 3": {
+    "Nebulon": {
+      "Diet": "Ionized particles",
+      "Habitat": "Nebulae",
+      "Morphology": "Gaseous body",
+      "Locomotion": "Gas manipulation",
+      "Social Structure": "Colonial"
+    },
+    "Graviton": {
+      "Diet": "Gravitational potential energy",
+      "Habitat": "Massive celestial bodies",
+      "Morphology": "Dense compact body",
+      "Locomotion": "Gravity manipulation",
+      "Social Structure": "Solitary"
+    },
+    "Echoflux": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Aerotrope": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Electrope": {
+      "Diet": "Electromagnetic radiation",
+      "Habitat": "High-energy plasma environments",
+      "Morphology": "Filamentous electrically conductive body",
+      "Locomotion": "Electromagnetically propelled",
+      "Social Structure": "Colonial"
+    }
+  },
+  "Test 4": {
+    "Nebulon": {
+      "Diet": "Ionized particles",
+      "Habitat": "Nebulae",
+      "Morphology": "Gaseous body",
+      "Locomotion": "Gas manipulation",
+      "Social Structure": "Colonial"
+    },
+    "Graviton": {
+      "Diet": "Gravitational potential energy",
+      "Habitat": "Massive celestial bodies",
+      "Morphology": "Dense compact body",
+      "Locomotion": "Gravity manipulation",
+      "Social Structure": "Solitary"
+    },
+    "Echoflux": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Aerotrope": {
+      "Diet": "Aerodynamic forces",
+      "Habitat": "Atmospheric vortexes",
+      "Morphology": "Winged aerodynamic body",
+      "Locomotion": "Wind manipulation",
+      "Social Structure": "Migratory"
+    },
+    "Electrope": {
+      "Diet": "Electromagnetic radiation",
+      "Habitat": "High-energy plasma environments",
+      "Morphology": "Filamentous electrically conductive body",
+      "Locomotion": "Electromagnetically propelled",
+      "Social Structure": "Colonial"
+    }
+  },
+  "Test 5": {
+    "Nebulon": {
+      "diet": "ionized particles",
+      "habitat": "nebulae",
+      "morphology": "gaseous body",
+      "locomotion": "gas manipulation",
+      "social structure": "colonial"
+    },
+    "Graviton": {
+      "diet": "gravitational potential energy",
+      "habitat": "massive celestial bodies",
+      "morphology": "dense compact body",
+      "locomotion": "gravity manipulation",
+      "social structure": "solitary"
+    },
+    "Echoflux": {
+      "diet": "resonant frequencies",
+      "habitat": "atmospheric vortexes",
+      "morphology": "winged aerodynamic body",
+      "locomotion": "wind manipulation",
+      "social structure": "migratory"
+    },
+    "Aerotrope": {
+      "diet": "aerodynamic forces",
+      "habitat": "atmospheric vortexes",
+      "morphology": "winged aerodynamic body",
+      "locomotion": "wind manipulation",
+      "social structure": "migratory"
+    },
+    "Electrope": {
+      "diet": "electromagnetic radiation",
+      "habitat": "high-energy plasma environments",
+      "morphology": "filamentous electrically conductive body",
+      "locomotion": "electromagnetically propelled",
+      "social structure": "colonial"
+    }
+  }
+}

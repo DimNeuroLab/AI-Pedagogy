@@ -1,0 +1,10 @@
+Terbelith: Terbeliths are solitary aquatic creatures with metallic bodies. Herbivorous and energetic, they bound across underwater terrain, grazing on submerged flora.
+Vorvenvor: Vorvenvors are gelatinous, phototrophic beings of the skies. They float communally among sunlight streams, their translucent forms pulsing with absorbed energy.
+Vamir: Vamirs are winged forest predators that flutter through dense canopies in search of prey. They are solitary and elusive, blending seamlessly into the foliage.
+Selnelsha: Selnelshas are armored metallic-eaters dwelling in desert oases. They swim through mineral-rich sands in coordinated groups, their reflective shells glinting under harsh sunlight.
+Lumven: Lumvens are tentacled phototrophs that inhabit crystal biomes. They flutter through beams of refracted light, thriving communally amid a radiant crystal environment.
+Tultha: Tulthas are furry crystal dwellers that float serenely through luminous caverns. Herbivorous and solitary, they feed on the crystalline flora that grows in shimmering clusters.
+Janrax: Janraxes are petal-like aerial carnivores that crawl along wind currents in search of food. They live in solitude, their petal bodies catching the light like drifting flowers.
+Narzephva: Narzephvas are gelatinous forest dwellers that consume metals from roots and stones. They slide in communal networks beneath the canopy, leaving trails of reflective residue.
+Jansol: Jansols are winged aquatic beings that feed on light energy. They swim together in radiant formations, their wings glimmering as they harvest sunlight beneath the water’s surface.
+Janpho: Janphos are desert-dwelling herbivores with tentacled bodies that allow them to bound swiftly over sand. They live solitary lives, feeding on hardy desert flora.

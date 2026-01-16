@@ -1,0 +1,398 @@
+{
+    "metrics": {
+        "total_known_facts": [
+            0,
+            40,
+            66
+        ],
+        "coverage": {
+            "entities": [
+                0.0,
+                0.10256410256410256
+            ],
+            "features": [
+                1.2,
+                1.2
+            ],
+            "values": [
+                0.21794871794871795,
+                0.21794871794871795
+            ],
+            "features_values": [
+                0.21794871794871795,
+                0.21794871794871795
+            ],
+            "entities_features": [
+                0.0,
+                0.05641025641025641
+            ],
+            "triplets": [
+                0.0,
+                0.05641025641025641
+            ]
+        },
+        "novelty": {
+            "entities": [
+                0,
+                4
+            ],
+            "features": [
+                6,
+                0
+            ],
+            "values": [
+                17,
+                0
+            ],
+            "features_values": [
+                17,
+                0
+            ],
+            "entities_features": [
+                0,
+                11
+            ],
+            "triplets": [
+                0,
+                11
+            ]
+        },
+        "history": []
+    },
+    "facts": {
+        "entities": [
+            [],
+            [],
+            [
+                "gemling",
+                "zyloxian",
+                "skyglider",
+                "glimmeron"
+            ]
+        ],
+        "features": [
+            [],
+            [
+                "socialstructure",
+                "diet",
+                "habitat",
+                "morphology",
+                "locomotion",
+                "social_structure"
+            ],
+            [
+                "socialstructure",
+                "habitat",
+                "morphology",
+                "locomotion",
+                "social_structure",
+                "diet"
+            ]
+        ],
+        "values": [
+            [],
+            [
+                "metallic-eater",
+                "gliding",
+                "phototrophic",
+                "crawling",
+                "swarm-based",
+                "gelatinous",
+                "desert caves",
+                "hovering",
+                "crystal jungles",
+                "solitary",
+                "duopolistic",
+                "slithering",
+                "floating archipelagos",
+                "carnivorous",
+                "tunnelling",
+                "metallic shell",
+                "multi-limbed"
+            ],
+            [
+                "metallic-eater",
+                "gliding",
+                "phototrophic",
+                "crawling",
+                "swarm-based",
+                "gelatinous",
+                "desert caves",
+                "hovering",
+                "crystal jungles",
+                "solitary",
+                "duopolistic",
+                "slithering",
+                "floating archipelagos",
+                "carnivorous",
+                "tunnelling",
+                "metallic shell",
+                "multi-limbed"
+            ]
+        ],
+        "features_values": [
+            [],
+            [
+                [
+                    "habitat",
+                    "crystal jungles"
+                ],
+                [
+                    "morphology",
+                    "gelatinous"
+                ],
+                [
+                    "locomotion",
+                    "gliding"
+                ],
+                [
+                    "social_structure",
+                    "solitary"
+                ],
+                [
+                    "locomotion",
+                    "hovering"
+                ],
+                [
+                    "social_structure",
+                    "swarm-based"
+                ],
+                [
+                    "locomotion",
+                    "slithering"
+                ],
+                [
+                    "habitat",
+                    "desert caves"
+                ],
+                [
+                    "morphology",
+                    "multi-limbed"
+                ],
+                [
+                    "diet",
+                    "phototrophic"
+                ],
+                [
+                    "locomotion",
+                    "crawling"
+                ],
+                [
+                    "diet",
+                    "carnivorous"
+                ],
+                [
+                    "social_structure",
+                    "duopolistic"
+                ],
+                [
+                    "diet",
+                    "metallic-eater"
+                ],
+                [
+                    "morphology",
+                    "metallic shell"
+                ],
+                [
+                    "locomotion",
+                    "tunnelling"
+                ],
+                [
+                    "habitat",
+                    "floating archipelagos"
+                ]
+            ],
+            [
+                [
+                    "habitat",
+                    "crystal jungles"
+                ],
+                [
+                    "morphology",
+                    "gelatinous"
+                ],
+                [
+                    "locomotion",
+                    "gliding"
+                ],
+                [
+                    "social_structure",
+                    "solitary"
+                ],
+                [
+                    "locomotion",
+                    "hovering"
+                ],
+                [
+                    "social_structure",
+                    "swarm-based"
+                ],
+                [
+                    "locomotion",
+                    "slithering"
+                ],
+                [
+                    "habitat",
+                    "desert caves"
+                ],
+                [
+                    "morphology",
+                    "multi-limbed"
+                ],
+                [
+                    "diet",
+                    "phototrophic"
+                ],
+                [
+                    "locomotion",
+                    "crawling"
+                ],
+                [
+                    "diet",
+                    "carnivorous"
+                ],
+                [
+                    "social_structure",
+                    "duopolistic"
+                ],
+                [
+                    "diet",
+                    "metallic-eater"
+                ],
+                [
+                    "morphology",
+                    "metallic shell"
+                ],
+                [
+                    "locomotion",
+                    "tunnelling"
+                ],
+                [
+                    "habitat",
+                    "floating archipelagos"
+                ]
+            ]
+        ],
+        "entities_features": [
+            [],
+            [],
+            [
+                [
+                    "glimmeron",
+                    "morphology"
+                ],
+                [
+                    "glimmeron",
+                    "habitat"
+                ],
+                [
+                    "gemling",
+                    "habitat"
+                ],
+                [
+                    "zyloxian",
+                    "habitat"
+                ],
+                [
+                    "skyglider",
+                    "locomotion"
+                ],
+                [
+                    "zyloxian",
+                    "social_structure"
+                ],
+                [
+                    "glimmeron",
+                    "diet"
+                ],
+                [
+                    "zyloxian",
+                    "diet"
+                ],
+                [
+                    "zyloxian",
+                    "locomotion"
+                ],
+                [
+                    "glimmeron",
+                    "locomotion"
+                ],
+                [
+                    "zyloxian",
+                    "morphology"
+                ]
+            ]
+        ],
+        "triplets": [
+            [],
+            [],
+            [
+                [
+                    "zyloxian",
+                    "social_structure",
+                    "solitary"
+                ],
+                [
+                    "zyloxian",
+                    "diet",
+                    "carnivorous"
+                ],
+                [
+                    "zyloxian",
+                    "habitat",
+                    "desert caves"
+                ],
+                [
+                    "glimmeron",
+                    "locomotion",
+                    "hovering"
+                ],
+                [
+                    "skyglider",
+                    "locomotion",
+                    "gliding"
+                ],
+                [
+                    "gemling",
+                    "habitat",
+                    "crystal jungles"
+                ],
+                [
+                    "glimmeron",
+                    "habitat",
+                    "floating archipelagos"
+                ],
+                [
+                    "glimmeron",
+                    "morphology",
+                    "gelatinous"
+                ],
+                [
+                    "zyloxian",
+                    "locomotion",
+                    "tunnelling"
+                ],
+                [
+                    "zyloxian",
+                    "morphology",
+                    "multi-limbed"
+                ],
+                [
+                    "glimmeron",
+                    "diet",
+                    "phototrophic"
+                ]
+            ]
+        ]
+    },
+    "fact_checking": {
+        "0": [
+            [
+                null,
+                "SocialStructure",
+                null
+            ]
+        ],
+        "1": []
+    }
+}

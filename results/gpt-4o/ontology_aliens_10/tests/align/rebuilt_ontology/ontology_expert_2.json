@@ -1,0 +1,362 @@
+{
+  "Test 1": {
+    "Loflo": {
+      "Diet": "metallic-eater",
+      "Habitat": "aquatic",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Vorven": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "gelatinous",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Sylpho": {
+      "Diet": "herbivorous",
+      "Habitat": "crystal",
+      "Morphology": "feathered",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Venrin": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Seltha": {
+      "Diet": "metallic-eater",
+      "Habitat": "forest",
+      "Morphology": "furry",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    },
+    "Seldra": {
+      "Diet": "carnivorous",
+      "Habitat": "forest",
+      "Morphology": "tentacled",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Xpy": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "SocialStructure": "communal"
+    },
+    "Shavarcrys": {
+      "Diet": "phototrophic",
+      "Habitat": "crystal",
+      "Morphology": "petal-like",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Janzeph": {
+      "Diet": "carnivorous",
+      "Habitat": "aerial",
+      "Morphology": "feathered",
+      "Locomotion": "sliding",
+      "SocialStructure": "solitary"
+    },
+    "Vapyx": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "quadrupedal",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    }
+  },
+  "Test 2": {
+    "Loflo": {
+      "Diet": "metallic-eater",
+      "Habitat": "aquatic",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Vorven": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "gelatinous",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Sylpho": {
+      "Diet": "herbivorous",
+      "Habitat": "crystal",
+      "Morphology": "feathered",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Venrin": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Seltha": {
+      "Diet": "metallic-eater",
+      "Habitat": "forest",
+      "Morphology": "furry",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    },
+    "Seldra": {
+      "Diet": "carnivorous",
+      "Habitat": "forest",
+      "Morphology": "tentacled",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Xpy": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "SocialStructure": "communal"
+    },
+    "Shavarcrys": {
+      "Diet": "phototrophic",
+      "Habitat": "crystal",
+      "Morphology": "petal-like",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Janzeph": {
+      "Diet": "carnivorous",
+      "Habitat": "aerial",
+      "Morphology": "feathered",
+      "Locomotion": "sliding",
+      "SocialStructure": "solitary"
+    },
+    "Vapyx": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "quadrupedal",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    }
+  },
+  "Test 3": {
+    "Loflo": {
+      "Diet": "metallic-eater",
+      "Habitat": "aquatic",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Vorven": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "gelatinous",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Sylpho": {
+      "Diet": "herbivorous",
+      "Habitat": "crystal",
+      "Morphology": "feathered",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Venrin": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Seltha": {
+      "Diet": "metallic-eater",
+      "Habitat": "forest",
+      "Morphology": "furry",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    },
+    "Seldra": {
+      "Diet": "carnivorous",
+      "Habitat": "forest",
+      "Morphology": "tentacled",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Xpy": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "SocialStructure": "communal"
+    },
+    "Shavarcrys": {
+      "Diet": "phototrophic",
+      "Habitat": "crystal",
+      "Morphology": "petal-like",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Janzeph": {
+      "Diet": "carnivorous",
+      "Habitat": "aerial",
+      "Morphology": "feathered",
+      "Locomotion": "sliding",
+      "SocialStructure": "solitary"
+    },
+    "Vapyx": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "quadrupedal",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    }
+  },
+  "Test 4": {
+    "Loflo": {
+      "Diet": "metallic-eater",
+      "Habitat": "aquatic",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Vorven": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "gelatinous",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Sylpho": {
+      "Diet": "herbivorous",
+      "Habitat": "crystal",
+      "Morphology": "feathered",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Venrin": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Seltha": {
+      "Diet": "metallic-eater",
+      "Habitat": "forest",
+      "Morphology": "furry",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    },
+    "Seldra": {
+      "Diet": "carnivorous",
+      "Habitat": "forest",
+      "Morphology": "tentacled",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Xpy": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "SocialStructure": "communal"
+    },
+    "Shavarcrys": {
+      "Diet": "phototrophic",
+      "Habitat": "crystal",
+      "Morphology": "petal-like",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Janzeph": {
+      "Diet": "carnivorous",
+      "Habitat": "aerial",
+      "Morphology": "feathered",
+      "Locomotion": "sliding",
+      "SocialStructure": "solitary"
+    },
+    "Vapyx": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "quadrupedal",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    }
+  },
+  "Test 5": {
+    "Loflo": {
+      "Diet": "metallic-eater",
+      "Habitat": "aquatic",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Vorven": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "gelatinous",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Sylpho": {
+      "Diet": "herbivorous",
+      "Habitat": "crystal",
+      "Morphology": "feathered",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Venrin": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "bounding",
+      "SocialStructure": "communal"
+    },
+    "Seltha": {
+      "Diet": "metallic-eater",
+      "Habitat": "forest",
+      "Morphology": "furry",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    },
+    "Seldra": {
+      "Diet": "carnivorous",
+      "Habitat": "forest",
+      "Morphology": "tentacled",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    },
+    "Xpy": {
+      "Diet": "metallic-eater",
+      "Habitat": "desert",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "SocialStructure": "communal"
+    },
+    "Shavarcrys": {
+      "Diet": "phototrophic",
+      "Habitat": "crystal",
+      "Morphology": "petal-like",
+      "Locomotion": "swimming",
+      "SocialStructure": "solitary"
+    },
+    "Janzeph": {
+      "Diet": "carnivorous",
+      "Habitat": "aerial",
+      "Morphology": "feathered",
+      "Locomotion": "sliding",
+      "SocialStructure": "solitary"
+    },
+    "Vapyx": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "quadrupedal",
+      "Locomotion": "crawling",
+      "SocialStructure": "communal"
+    }
+  }
+}

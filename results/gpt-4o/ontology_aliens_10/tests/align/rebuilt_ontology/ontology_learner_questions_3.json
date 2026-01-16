@@ -1,0 +1,257 @@
+{
+  "Test 1": {
+    "Vorvenvor": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Selnelsha": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal"
+    },
+    "Janrax": {
+      "Diet": null,
+      "Habitat": "Aerial",
+      "Morphology": null,
+      "Locomotion": "Crawling",
+      "Social Structure": null
+    },
+    "Vamir": {
+      "Diet": "Carnivorous",
+      "Habitat": "Forest",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": null
+    },
+    "Lumven": {
+      "Diet": "Phototrophic",
+      "Habitat": "Crystal",
+      "Morphology": null,
+      "Locomotion": null,
+      "Social Structure": null
+    },
+    "Janpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Tentacled",
+      "Locomotion": null,
+      "Social Structure": null
+    },
+    "Narzephva": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Forest",
+      "Morphology": null,
+      "Locomotion": null,
+      "Social Structure": null
+    }
+  },
+  "Test 2": {
+    "Vorvenvor": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Selnelsha": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal"
+    },
+    "Janrax": {
+      "Diet": "Carnivorous",
+      "Habitat": "Aerial",
+      "Morphology": "Unknown",
+      "Locomotion": "Crawling",
+      "Social Structure": "Unknown"
+    },
+    "Vamir": {
+      "Diet": "Carnivorous",
+      "Habitat": "Forest",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Unknown"
+    },
+    "Lumven": {
+      "Diet": "Phototrophic",
+      "Habitat": "Crystal",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Janpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Tentacled",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Narzephva": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Forest",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    }
+  },
+  "Test 3": {
+    "Vorvenvor": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Selnelsha": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal"
+    },
+    "Janrax": {
+      "Diet": null,
+      "Habitat": "Aerial",
+      "Morphology": null,
+      "Locomotion": "Crawling",
+      "Social Structure": null
+    },
+    "Vamir": {
+      "Diet": null,
+      "Habitat": "Forest",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": null
+    },
+    "Lumven": {
+      "Diet": "Phototrophic",
+      "Habitat": "Crystal",
+      "Morphology": null,
+      "Locomotion": null,
+      "Social Structure": null
+    },
+    "Janpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Tentacled",
+      "Locomotion": null,
+      "Social Structure": null
+    },
+    "Narzephva": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Forest",
+      "Morphology": null,
+      "Locomotion": null,
+      "Social Structure": null
+    }
+  },
+  "Test 4": {
+    "Vorvenvor": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Selnelsha": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal"
+    },
+    "Janrax": {
+      "Diet": "Carnivorous",
+      "Habitat": "Aerial",
+      "Morphology": "Unknown",
+      "Locomotion": "Crawling",
+      "Social Structure": "Unknown"
+    },
+    "Vamir": {
+      "Diet": "Carnivorous",
+      "Habitat": "Forest",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Unknown"
+    },
+    "Lumven": {
+      "Diet": "Phototrophic",
+      "Habitat": "Crystal",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Janpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Tentacled",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Narzephva": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Forest",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    }
+  },
+  "Test 5": {
+    "Vorvenvor": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Selnelsha": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal"
+    },
+    "Janrax": {
+      "Diet": "Carnivorous",
+      "Habitat": "Aerial",
+      "Morphology": "Not specified",
+      "Locomotion": "Crawling",
+      "Social Structure": "Not specified"
+    },
+    "Vamir": {
+      "Diet": "Not specified",
+      "Habitat": "Forest",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Not specified"
+    },
+    "Lumven": {
+      "Diet": "Phototrophic",
+      "Habitat": "Crystal",
+      "Morphology": "Not specified",
+      "Locomotion": "Not specified",
+      "Social Structure": "Not specified"
+    },
+    "Janpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Tentacled",
+      "Locomotion": "Not specified",
+      "Social Structure": "Not specified"
+    },
+    "Narzephva": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Forest",
+      "Morphology": "Not specified",
+      "Locomotion": "Not specified",
+      "Social Structure": "Not specified"
+    }
+  }
+}

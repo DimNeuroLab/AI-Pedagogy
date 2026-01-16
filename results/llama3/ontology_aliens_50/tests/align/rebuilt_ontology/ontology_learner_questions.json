@@ -1,0 +1,147 @@
+{
+  "Test 1": {
+    "Aerthys": {
+      "Chronophore Structure": "Perovskite",
+      "Metal Ion Interaction": "Strong bonds through electrostatic and covalent interactions",
+      "ATP Production Modulation": "Hydroxyl groups regulate enzyme activity",
+      "Mechanical Stress Response": "Generate electric dipole moment in response to mechanical stress",
+      "Cooperative Behaviors": "Mutual grooming, hunting, etc. influenced by dopamine receptor modulation"
+    },
+    "Frostonians": {
+      "Chronophore Structure": "Unknown",
+      "Communication System": "Vibrational patterns for burrowing behavior coordination"
+    },
+    "Glimmerwings": {
+      "Resonance Chamber": "Modulates migratory patterns and navigates complex spatial structures",
+      "Decision-Making Process": "Resonance-modulated decision-making"
+    },
+    "Nexarions": {
+      "Chronophore Structure": "Unknown",
+      "Communication System": "Vibrational patterns for schooling behavior coordination"
+    }
+  },
+  "Test 2": {
+    "Aerthys": {
+      "Chronophores": "Perovskite structure",
+      "Mechanical Stress Response": "Strong bonds with metal ions",
+      "ATP Production": "Regulated by hydroxyl groups",
+      "Dopamine Receptor Modulation": "Influences cooperative behaviors"
+    },
+    "Frostonians": {
+      "Chronophores": "Generate vibrational patterns",
+      "Burrowing Behavior": "Coordinated by chronophores"
+    },
+    "Glimmerwings": {
+      "Resonance Chambers": "Modulate migratory patterns",
+      "Spatial Navigation": "Enabled by resonance chambers"
+    },
+    "Nexarions": {
+      "Chronophores": "Generate vibrational patterns",
+      "Schooling Behavior": "Coordinated by chronophores"
+    }
+  },
+  "Test 3": {
+    "Aerthys": {
+      "Chronophores": true,
+      "Perovskite Structure": true,
+      "Oxygen Atoms": {
+        "Ionic Radius": "high",
+        "Electronegativity": "high"
+      },
+      "Metal Ions": {
+        "Ionic Radius": "high",
+        "Electronegativity": "high"
+      },
+      "ATP Production": {
+        "Modulated by Hydroxyl Groups": true
+      },
+      "Cooperative Behaviors": {
+        "Influenced by Dopamine Receptor Modulation": true
+      }
+    },
+    "Frostonians": {
+      "Chronophores": true,
+      "Burrowing Behavior": {
+        "Coordinated by Vibrational Patterns": true
+      }
+    },
+    "Glimmerwings": {
+      "Resonance Chambers": true,
+      "Migratory Patterns": {
+        "Modulated by Resonance": true
+      },
+      "Navigation": {
+        "Through Complex Spatial Structures": true
+      }
+    },
+    "Nexarions": {
+      "Chronophores": true,
+      "Schooling Behavior": {
+        "Coordinated by Vibrational Patterns": true
+      }
+    }
+  },
+  "Test 4": {
+    "Aerthys": {
+      "chronophores": true,
+      "perovskite_structure": true,
+      "oxygen_atoms_ionic_radius": "high",
+      "oxygen_atoms_electronegativity": "high",
+      "dopamine_receptor_modulation": true,
+      "cooperative_behaviors": [
+        "mutual_grooming",
+        "hunting"
+      ],
+      "ATP_production_regulation": true,
+      "hydroxyl_groups_enzyme_activity_modulation": true
+    },
+    "Frostonians": {
+      "chronophores": true,
+      "vibrational_patterns_burrowing_behavior": true
+    },
+    "Glimmerwings": {
+      "resonance_chambers": true,
+      "migratory_patterns_complex_spatial_structures": true
+    },
+    "Nexarions": {
+      "chronophores": true,
+      "schooling_behavior_vibrational_patterns": true
+    }
+  },
+  "Test 5": {
+    "Aerthys": {
+      "Chronophores": {
+        "Structure": "Perovskite",
+        "Metal Ions": true,
+        "Mechanical Stress Response": true
+      },
+      "ATP Production": {
+        "Regulation": "Hydroxyl Groups",
+        "Energy Metabolism": true
+      },
+      "Cooperative Behaviors": {
+        "Dopamine Receptor Modulation": true,
+        "Reproductive Success": true,
+        "Evolutionary Trajectory": true
+      }
+    },
+    "Frostonians": {
+      "Chronophores": {
+        "Vibrational Patterns": true,
+        "Burrowing Behavior": true
+      }
+    },
+    "Glimmerwings": {
+      "Resonance Chambers": {
+        "Migratory Patterns": true,
+        "Spatial Navigation": true
+      }
+    },
+    "Nexarions": {
+      "Chronophores": {
+        "Vibrational Patterns": true,
+        "Schooling Behavior": true
+      }
+    }
+  }
+}

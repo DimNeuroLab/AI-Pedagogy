@@ -1,0 +1,152 @@
+{
+  "Test 1": {
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Maximize Sunlight Exposure": true,
+        "Resource Sharing": true,
+        "Environmental Navigation": true
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Buoyant Living": true,
+        "Light Absorption": true,
+        "Cooperative Floating": true
+      }
+    },
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Enhanced Hunting Skills": true,
+        "Territory Management": true,
+        "Heat Management": true
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Digestive Specializations": true,
+        "Climbing Features": true,
+        "Resource Sharing": true
+      }
+    }
+  },
+  "Test 2": {
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "morphology": "winged",
+      "social_structure": "communal"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "morphology": "gelatinous",
+      "social_structure": "communal"
+    },
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "morphology": "adapted for hunting",
+      "social_structure": "solitary"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "morphology": "adapted for climbing",
+      "social_structure": "group living"
+    }
+  },
+  "Test 3": {
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Social Structure": "Communal"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Social Structure": "Communal"
+    },
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Adapted for hunting",
+      "Social Structure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Adapted for climbing and feeding",
+      "Social Structure": "Group living"
+    }
+  },
+  "Test 4": {
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "SocialStructure": "Communal"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "SocialStructure": "Communal"
+    },
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Adaptations for hunting, heat management",
+      "SocialStructure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Climbing adaptations, digestive adaptations",
+      "SocialStructure": "Group living"
+    }
+  },
+  "Test 5": {
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Social Structure": "Communal"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Social Structure": "Communal"
+    },
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Adapted for Hunting",
+      "Social Structure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Adapted for Climbing",
+      "Social Structure": "Group Living"
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Behavioral": [
+          "Optimizing foraging strategies",
+          "Forming alliances in resource scarcity"
+        ],
+        "Morphological": [
+          "More robust protective armor",
+          "Streamlined body for energy conservation"
+        ]
+      },
+      "Reproductive Strategies": "Adjusted based on resource availability"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Feeding": [
+          "Increased foraging intensity during nutrient influx",
+          "Changing position for optimal light exposure"
+        ],
+        "Reproductive": "Responsive to environmental factors like nutrient influx"
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Mineral-rich environments",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Competitive": [
+          "Enhanced digestive enzymes",
+          "Resource partitioning"
+        ],
+        "Protective": [
+          "Camouflage in mineral-rich habitats",
+          "Chemical defenses"
+        ]
+      },
+      "Habitat Influence": "Mineral-rich habitats influence health and lifespan"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Social": [
+          "Increased cooperation during resource abundance",
+          "Refined communication methods during stress"
+        ],
+        "Foraging": "Changes in response to seasonal variations"
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Nesting": [
+          "Flexible nesting strategies in response to environmental changes",
+          "Cooperation for enhanced feeding efficiency"
+        ],
+        "Teaching": "Behavioral strategies for enculturating young"
+      }
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Social Dynamics": "Changes in hierarchy based on resource availability",
+        "Reproductive Strategy": "Breeding behaviors adjusted based on food sources",
+        "Responses to Competition": "Forming alliances, territorial foraging"
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Feeding Strategies": "Altered foraging during nutrient influx",
+        "Reproductive Triggers": "Seasonal conditions influence reproductive cycles",
+        "Competition Adaptations": "Efficient nutrient absorption, strategic habitat use"
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Competition Methods": "Specialized mineral extraction strategies",
+        "Health Influences": "Lifespan affected by mineral availability",
+        "Symbiotic Relationships": "Interaction with bacteria/fungi for nutrient exchange"
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Social Cohesion": "Enhanced bonding during resource abundance",
+        "Communication Changes": "New signals during environmental stress",
+        "Seasonal Responses": "Adaptation of foraging behavior in response to seasonal shifts"
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Resource Management": "Cooperative feeding during critical periods",
+        "Nesting Strategies": "Altered construction based on environmental changes",
+        "Enculturation": "Teaching behaviors to instill survival skills in young"
+      }
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Behavioral Adaptations": {
+        "Social Dynamics": "Formation of alliances and shifting hierarchies in response to resource availability.",
+        "Breeding Behavior": "Adjust reproductive strategies based on food sources."
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Behavioral Adaptations": {
+        "Feeding Strategies": "Alter foraging behaviors to maximize nutrient intake during peak conditions.",
+        "Reproductive Triggers": "Responds to environmental factors like nutrient influxes for breeding."
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal-rich environment",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Behavioral Adaptations": {
+        "Competition": "Develops specialized adaptations for mineral extraction.",
+        "Habitat Influence": "Mineral-rich habitats impact health; certain minerals can be beneficial or detrimental."
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Behavioral Adaptations": {
+        "Social Behaviors": "Engage in cooperative foraging and courtship during resource abundance.",
+        "Seasonal Adaptations": "Changes in food supply lead to shifts in foraging and social structure."
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Behavioral Adaptations": {
+        "Adaptability to Change": "Modifies nesting and foraging in response to environmental changes.",
+        "Teaching and Learning": "Exhibits behaviors to enculturate young in survival skills and social norms."
+      }
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Behavioral": {
+          "Social Hierarchy": "Changes in response to resource availability",
+          "Collaborative Behaviors": "Forming alliances with lower-ranking members"
+        },
+        "Morphological": {
+          "Resilience": "Adaptive armor for temperature extremes"
+        }
+      },
+      "Breeding Behavior": "Adjusts based on food availability"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Feeding Strategies": {
+          "Nutrient Fluctuations": "Alters foraging intensity during peak flows"
+        },
+        "Reproductive Triggers": "Nutrient influxes and environmental conditions"
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Mineral-rich environments",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Competition": {
+          "Mineral Extraction": "Enhanced digestive enzymes",
+          "Resource Partitioning": "Targeting less exploited minerals"
+        },
+        "Health Influences": "Influenced by mineral composition of habitat"
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Cooperative Behaviors": "Strengthened social bonds during resource abundance",
+        "Communication Changes": "Adapting signals in response to stress"
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Nesting Strategies": "Changes in response to environmental threats",
+        "Teaching Behaviors": "Enculturation of young with survival skills"
+      }
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Behavioral Adaptations": {
+        "Social Dynamics": "Adaptive hierarchies and alliances during resource scarcity",
+        "Breeding Behavior": "Adjust reproductive strategies based on food availability"
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Behavioral Adaptations": {
+        "Feeding Strategies": "Alter foraging behavior based on nutrient fluctuations",
+        "Reproductive Triggers": "Increase reproductive activity during nutrient-rich conditions"
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Behavioral Adaptations": {
+        "Competition": "Utilize specialized adaptations for mineral extraction",
+        "Habitat Influence": "Affected by specific minerals that can promote or hinder health"
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Behavioral Adaptations": {
+        "Social Behaviors": "Engage in cooperative foraging and courtship during resource abundance",
+        "Seasonal Adaptations": "Adapt foraging and social structures in response to seasonal food supply changes"
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Behavioral Adaptations": {
+        "Adaptability": "Change nesting strategies and foraging behaviors in response to human-induced changes",
+        "Teaching and Learning": "Exhibit behaviors to enculturate young with survival skills"
+      }
+    }
+  }
+}

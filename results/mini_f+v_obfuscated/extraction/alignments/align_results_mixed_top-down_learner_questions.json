@@ -1,0 +1,1352 @@
+{
+    "0": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Fabofot",
+                "average_similarity": 0.2677779497764018,
+                "name_similarity": 1.0,
+                "blended_score": 0.6338889748882008,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Sedigij",
+                "average_similarity": 0.26715155181579864,
+                "name_similarity": 1.0,
+                "blended_score": 0.6335757759078993,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Holesoy",
+                "average_similarity": 0.2998491704374057,
+                "name_similarity": 1.0,
+                "blended_score": 0.6499245852187029,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Jogasiv",
+                "average_similarity": 0.23143921939574114,
+                "name_similarity": 1.0,
+                "blended_score": 0.6157196096978705,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Buxuwaf",
+                "average_similarity": 0.26283112454467955,
+                "name_similarity": 1.0,
+                "blended_score": 0.6314155622723397,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Fabofot": "Fabofot",
+            "Sedigij": "Sedigij",
+            "Holesoy": "Holesoy",
+            "Jogasiv": "Jogasiv",
+            "Buxuwaf": "Buxuwaf"
+        },
+        "mismatches": 0,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Terradon": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Rocky Texture"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": "Territorial Hierarchies"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Robust"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Mountainous Terrain"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": "Geological Insight"
+                    }
+                },
+                "Pyron": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Fiery Aura"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": "Clan-Based Bonds"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Blazing"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": "Volcanic Regions"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": "Fire Manipulation"
+                    }
+                },
+                "Aetherian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Translucent"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Nomadic Flows"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Streamlined"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Aerodynamic Regions"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": "Telekinesis"
+                    }
+                },
+                "Glimmeron": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Lumina"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Communal Harmony"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Svelte"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Shimmering Forests"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": "Ethereal Light"
+                    }
+                },
+                "Frostian": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Icy Exterior"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Close-Knit Clans"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Frosted"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Glacial Environments"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": "Cryokinesis"
+                    }
+                },
+                "Aquarion": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Fluidic Surface"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": "Benevolent Society"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Underwater Ecosystems"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": "Hydrokinesis"
+                    }
+                },
+                "Crystar": {
+                    "Fabofot": {
+                        "true_ontology": "Yivabo",
+                        "agent_ontology": "Reflective Crystal"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Telepathic Links"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Faceted"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Crystal Structures"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Kaneti",
+                        "agent_ontology": "Light Manipulation"
+                    }
+                },
+                "Zephyrian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Feathery"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Free-Spirited Culture"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Lightweight"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Sky Islands"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": "Wind Control"
+                    }
+                },
+                "Floran": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Plant-Based Texture"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": "Symbiotic Relationships"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Thick"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Dense Rainforests"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": "Botanical Growth"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 9
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Fabofot",
+                "average_similarity": 0.29254911754911755,
+                "name_similarity": 1.0,
+                "blended_score": 0.6462745587745587,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Sedigij",
+                "average_similarity": 0.25841491841491837,
+                "name_similarity": 1.0,
+                "blended_score": 0.6292074592074592,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Holesoy",
+                "average_similarity": 0.3348251748251748,
+                "name_similarity": 1.0,
+                "blended_score": 0.6674125874125874,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Jogasiv",
+                "average_similarity": 0.23454727398205658,
+                "name_similarity": 1.0,
+                "blended_score": 0.6172736369910283,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Buxuwaf",
+                "average_similarity": 0.32230358792581165,
+                "name_similarity": 1.0,
+                "blended_score": 0.6611517939629058,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Fabofot": "Fabofot",
+            "Sedigij": "Sedigij",
+            "Holesoy": "Holesoy",
+            "Jogasiv": "Jogasiv",
+            "Buxuwaf": "Buxuwaf"
+        },
+        "mismatches": 0,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Terradon": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Stonelike"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": "Roar"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Titan"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Mountain Ranges"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": "Terra Form"
+                    }
+                },
+                "Pyron": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Ember"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": "Flame"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Inferno"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": "Volcanic Landscapes"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": "Fire Manipulation"
+                    }
+                },
+                "Aetherian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Nebulae"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Whisper"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Tempest"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Cloudscape"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": "Etheric Manipulation"
+                    }
+                },
+                "Glimmeron": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Lumina"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Syntara"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Mistral"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Elysia"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": "Flareon"
+                    }
+                },
+                "Frostian": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Icy Blue"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Chill"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Glacier"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Snowy Mountains"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": "Cryokinesis"
+                    }
+                },
+                "Aquarion": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Aquatic Blue"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": "Bubble"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Wave"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Underwater Cities"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": "Hydrokinetics"
+                    }
+                },
+                "Crystar": {
+                    "Fabofot": {
+                        "true_ontology": "Yivabo",
+                        "agent_ontology": "Crystaline"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Echo"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Prism"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Glistening Valley"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Kaneti",
+                        "agent_ontology": "Refraction"
+                    }
+                },
+                "Zephyrian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Airy"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Breeze"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Gust"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Windy Plains"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": "Aerodynamics"
+                    }
+                },
+                "Floran": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Green"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": "Rustle"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Blossom"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Lush Forests"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": "Photosynthesis"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 9
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Fabofot",
+                "average_similarity": 0.30939560439560443,
+                "name_similarity": 1.0,
+                "blended_score": 0.6546978021978023,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Sedigij",
+                "average_similarity": 0.2804945054945055,
+                "name_similarity": 1.0,
+                "blended_score": 0.6402472527472527,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Holesoy",
+                "average_similarity": 0.30537958773252893,
+                "name_similarity": 1.0,
+                "blended_score": 0.6526897938662645,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Jogasiv",
+                "average_similarity": 0.24964285714285714,
+                "name_similarity": 1.0,
+                "blended_score": 0.6248214285714285,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Buxuwaf",
+                "average_similarity": 0.2710470085470086,
+                "name_similarity": 1.0,
+                "blended_score": 0.6355235042735043,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Fabofot": "Fabofot",
+            "Sedigij": "Sedigij",
+            "Holesoy": "Holesoy",
+            "Jogasiv": "Jogasiv",
+            "Buxuwaf": "Buxuwaf"
+        },
+        "mismatches": 0,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Terradon": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Terranox"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": "Granathe"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Mighton"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Geoterra"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": "Stratilith"
+                    }
+                },
+                "Pyron": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Emberforge"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": "Cinderclad"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Scorchtail"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": "Pyrosphere"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": "Blazewind"
+                    }
+                },
+                "Aetherian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Celestra"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Aethra"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Vortika"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Zephyria"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": "Nimbus"
+                    }
+                },
+                "Glimmeron": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Luminis"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Elysia"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Rayval"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Vasalor"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": "Stralix"
+                    }
+                },
+                "Frostian": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Icetide"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Glacior"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Shundershade"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Frigidare"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": "Snowbound"
+                    }
+                },
+                "Aquarion": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Aquaflare"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": "Coralith"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Nimbus"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Marisynth"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": "Tidalwave"
+                    }
+                },
+                "Crystar": {
+                    "Fabofot": {
+                        "true_ontology": "Yivabo",
+                        "agent_ontology": "Shardex"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Mirosa"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Shardul"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Glaciara"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Kaneti",
+                        "agent_ontology": "Refrax"
+                    }
+                },
+                "Zephyrian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Galesurge"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Zephyra"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Breezefury"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Aeriswoop"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": "Whirlwind"
+                    }
+                },
+                "Floran": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Verdivine"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": "Faunara"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Grovekeeper"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Bloomvale"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": "Petalwhisper"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 9
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Fabofot",
+                "average_similarity": 0.3477730602730603,
+                "name_similarity": 1.0,
+                "blended_score": 0.6738865301365302,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Sedigij",
+                "average_similarity": 0.2723362421891834,
+                "name_similarity": 1.0,
+                "blended_score": 0.6361681210945918,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Holesoy",
+                "average_similarity": 0.3029304029304029,
+                "name_similarity": 1.0,
+                "blended_score": 0.6514652014652015,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Jogasiv",
+                "average_similarity": 0.24776556776556777,
+                "name_similarity": 1.0,
+                "blended_score": 0.6238827838827838,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Buxuwaf",
+                "average_similarity": 0.33864468864468866,
+                "name_similarity": 1.0,
+                "blended_score": 0.6693223443223444,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Fabofot": "Fabofot",
+            "Sedigij": "Sedigij",
+            "Holesoy": "Holesoy",
+            "Jogasiv": "Jogasiv",
+            "Buxuwaf": "Buxuwaf"
+        },
+        "mismatches": 0,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Terradon": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Granite"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": "Havran"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Bermulon"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Harcidum"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": "Oxidon"
+                    }
+                },
+                "Pyron": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Ember"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": "Cindershade"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Scorion"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": "Volcanis"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": "Flamir"
+                    }
+                },
+                "Aetherian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Celestra"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Elysior"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Arveth"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Nimbos"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": "Zyphon"
+                    }
+                },
+                "Glimmeron": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Frilune"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Thalora"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Mirenak"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Lustra"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": "Elunara"
+                    }
+                },
+                "Frostian": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Glacius"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Icetide"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Shardis"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Frostvale"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": "Cryogen"
+                    }
+                },
+                "Aquarion": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Aquamarine"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": "Krellian"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Mythal"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Marisole"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": "Syriden"
+                    }
+                },
+                "Crystar": {
+                    "Fabofot": {
+                        "true_ontology": "Yivabo",
+                        "agent_ontology": "Kryzo"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Valeth"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Illurian"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Zephyria"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Kaneti",
+                        "agent_ontology": "Quorun"
+                    }
+                },
+                "Zephyrian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Aether"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Alarion"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Nuvion"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Skylume"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": "Breezyl"
+                    }
+                },
+                "Floran": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Verdant"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": "Greenthorn"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Blossum"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Floria"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": "Petalwyn"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 9
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Fabofot",
+                "average_similarity": 0.22889194139194138,
+                "name_similarity": 1.0,
+                "blended_score": 0.6144459706959707,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Sedigij",
+                "average_similarity": 0.27294710191769017,
+                "name_similarity": 1.0,
+                "blended_score": 0.6364735509588451,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Holesoy",
+                "average_similarity": 0.2886205461205461,
+                "name_similarity": 1.0,
+                "blended_score": 0.644310273060273,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Jogasiv",
+                "average_similarity": 0.20157509157509157,
+                "name_similarity": 1.0,
+                "blended_score": 0.6007875457875458,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Buxuwaf",
+                "average_similarity": 0.28041316526610643,
+                "name_similarity": 1.0,
+                "blended_score": 0.6402065826330532,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Fabofot": "Fabofot",
+            "Sedigij": "Sedigij",
+            "Holesoy": "Holesoy",
+            "Jogasiv": "Jogasiv",
+            "Buxuwaf": "Buxuwaf"
+        },
+        "mismatches": 0,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Terradon": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Petran"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": "Granitean"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Rockhide"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Geotherm"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": "Terrapoder"
+                    }
+                },
+                "Pyron": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Ignis"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": "Inferno"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Emberwing"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": "Volcanis"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": "Flamebearer"
+                    }
+                },
+                "Aetherian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Elytian"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Spectraxis"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Zephyra"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Volatilis"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": "Aethernaut"
+                    }
+                },
+                "Glimmeron": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Lumifer"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Mithras"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Azmir"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Ithilmor"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": "Elarin"
+                    }
+                },
+                "Frostian": {
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": "Icyth"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Frostbinder"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": "Shiverfang"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Glaciem"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": "Snowshaper"
+                    }
+                },
+                "Aquarion": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Aquaflux"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": "Tidewalker"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Coralfin"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": "Maris"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": "Hydrosurge"
+                    }
+                },
+                "Crystar": {
+                    "Fabofot": {
+                        "true_ontology": "Yivabo",
+                        "agent_ontology": "Shardilith"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": "Luminite"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Beryl"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": "Glacialis"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Kaneti",
+                        "agent_ontology": "Refractor"
+                    }
+                },
+                "Zephyrian": {
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": "Aetherflux"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": "Stormcaller"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Cloudcrest"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": "Gale"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": "Windwhisper"
+                    }
+                },
+                "Floran": {
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": "Verdant"
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": "Florae"
+                    },
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": "Greenheart"
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": "Sylvan"
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": "Botanica"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 9
+        }
+    }
+}

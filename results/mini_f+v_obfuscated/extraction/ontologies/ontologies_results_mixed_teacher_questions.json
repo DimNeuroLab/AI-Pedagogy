@@ -1,0 +1,633 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "traits": {
+        "Fabofot": "Xazepe",
+        "Jogasiv": "Zudolu",
+        "Buxuwaf": "Dolido",
+        "Sedigij": "Bibeqe",
+        "Holesoy": "Galewe"
+      },
+      "environment": {
+        "habitat": "Dimly lit areas with ample resources and cooperation among species",
+        "adaptations": [
+          "Bioluminescent communication",
+          "Cooperative hunting strategies"
+        ]
+      },
+      "cultural_traits": {
+        "knowledge_sharing": "Emphasis on group learning",
+        "tradition": "Integration of traditional practices in daily life"
+      }
+    },
+    "Glimmeron": {
+      "traits": {
+        "Fabofot": "Situji",
+        "Jogasiv": "Various behavioral adaptations",
+        "Buxuwaf": "Color-based identity",
+        "Sedigij": "Visual displays",
+        "Holesoy": "Communal living"
+      },
+      "environment": {
+        "habitat": "Diverse ecosystems including wetlands and forests",
+        "adaptations": [
+          "Enhanced bioluminescence for communication",
+          "Adaptation to different light conditions"
+        ]
+      },
+      "cultural_traits": {
+        "rituals": "Cultural celebrations around light festivals",
+        "education": "Learning through storytelling"
+      }
+    },
+    "Aquarion": {
+      "traits": {
+        "Fabofot": "Yafiku",
+        "Jogasiv": "Efficient swimming",
+        "Buxuwaf": "Hydrodynamic features",
+        "Sedigij": "Social structures",
+        "Holesoy": "Cache-building behavior"
+      },
+      "environment": {
+        "habitat": "Aquatic ecosystems with varying salinity levels",
+        "adaptations": [
+          "Streamlined bodies for agility",
+          "Use of echolocation"
+        ]
+      },
+      "cultural_traits": {
+        "community_practices": "Collaborative hunting and foraging",
+        "interspecies_relations": "Mutualistic relationships with plant species"
+      }
+    },
+    "Floran": {
+      "traits": {
+        "Fabofot": "Galdee",
+        "Jogasiv": "Specialized foraging behavior",
+        "Buxuwaf": "Growth patterns",
+        "Sedigij": "Symbiotic imaging",
+        "Holesoy": "Plant communication"
+      },
+      "environment": {
+        "habitat": "Forest ecosystems rich in biodiversity",
+        "adaptations": [
+          "Photosynthetic capabilities",
+          "Deep root systems for stability"
+        ]
+      },
+      "cultural_traits": {
+        "cultural_significance": "Connection to land and plant spirits",
+        "conservation_practices": "Sustainable harvesting methods"
+      }
+    },
+    "Aetherian": {
+      "traits": {
+        "Fabofot": "Jufupo",
+        "Jogasiv": "Solitary foraging",
+        "Buxuwaf": "Adaptable behavioral traits",
+        "Sedigij": "Unique camouflage",
+        "Holesoy": "Resource optimization"
+      },
+      "environment": {
+        "habitat": "Barren landscapes and rocky terrains",
+        "adaptations": [
+          "Storage for scarce resources",
+          "Natural camouflage to avoid predators"
+        ]
+      },
+      "cultural_traits": {
+        "survival_strategies": "Individual adaptation and resilience",
+        "cultural_identity": "Focus on independence and resourcefulness"
+      }
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "characteristics": {
+        "Fabofot": "Xazepe",
+        "Jogasiv": "Zudolu",
+        "Buxuwaf": "Dolido",
+        "Sedigij": "Bibeqe",
+        "Holesoy": "Galewe"
+      },
+      "significance": {
+        "role": "Predator",
+        "habitat": "Dimly lit environments",
+        "adaptive traits": [
+          "Bioluminescence",
+          "Social Hunting"
+        ]
+      }
+    },
+    "Glimmeron": {
+      "characteristics": {
+        "Fabofot": "Situji",
+        "Jogasiv": "Vutha",
+        "Buxuwaf": "Kerebu",
+        "Sedigij": "Toxima",
+        "Holesoy": "Qualowo"
+      },
+      "significance": {
+        "role": "Herbivore",
+        "habitat": "Forested regions",
+        "adaptive traits": [
+          "Bioluminescent Communication",
+          "Color Change Ability"
+        ]
+      }
+    },
+    "Crystar": {
+      "characteristics": {
+        "Fabofot": "Luminar",
+        "Jogasiv": "Xanthe",
+        "Buxuwaf": "Forifir",
+        "Sedigij": "Merige",
+        "Holesoy": "Glentis"
+      },
+      "significance": {
+        "role": "Resource Gatherer",
+        "habitat": "Crystal caves",
+        "adaptive traits": [
+          "Light Manipulation",
+          "Resilience to Pressure"
+        ]
+      }
+    },
+    "Aetherian": {
+      "characteristics": {
+        "Fabofot": "Zufe",
+        "Jogasiv": "Liral",
+        "Buxuwaf": "Temqu",
+        "Sedigij": "Raycasa",
+        "Holesoy": "Tobex"
+      },
+      "significance": {
+        "role": "Surveyor",
+        "habitat": "Open skies",
+        "adaptive traits": [
+          "Wind Navigation",
+          "Long-Distance Sight"
+        ]
+      }
+    },
+    "Floran": {
+      "characteristics": {
+        "Fabofot": "Palitha",
+        "Jogasiv": "Beryne",
+        "Buxuwaf": "Yalune",
+        "Sedigij": "Fresket",
+        "Holesoy": "Bipha"
+      },
+      "significance": {
+        "role": "Pollinator",
+        "habitat": "Lush botanical gardens",
+        "adaptive traits": [
+          "Symbiotic Relationships",
+          "Rapid Growth"
+        ]
+      }
+    },
+    "Aquarion": {
+      "characteristics": {
+        "Fabofot": "Salimari",
+        "Jogasiv": "Nektra",
+        "Buxuwaf": "Shivora",
+        "Sedigij": "Aquaflex",
+        "Holesoy": "Myriel"
+      },
+      "significance": {
+        "role": "Aquatic Forager",
+        "habitat": "Deep oceans",
+        "adaptive traits": [
+          "Gills for Breathing",
+          "Biodynamic Mobility"
+        ]
+      }
+    },
+    "Pyron": {
+      "characteristics": {
+        "Fabofot": "Emberis",
+        "Jogasiv": "Flamecast",
+        "Buxuwaf": "Frixum",
+        "Sedigij": "Ignalor",
+        "Holesoy": "Luminex"
+      },
+      "significance": {
+        "role": "Forager",
+        "habitat": "Volcanic regions",
+        "adaptive traits": [
+          "Fire Resistance",
+          "Thermal Regulation"
+        ]
+      }
+    },
+    "Zephyrian": {
+      "characteristics": {
+        "Fabofot": "Airlite",
+        "Jogasiv": "Whispere",
+        "Buxuwaf": "Galehand",
+        "Sedigij": "Sigmor",
+        "Holesoy": "Breezeflare"
+      },
+      "significance": {
+        "role": "Navigators",
+        "habitat": "High altitudes",
+        "adaptive traits": [
+          "Wind Manipulation",
+          "Flight"
+        ]
+      }
+    },
+    "Frostian": {
+      "characteristics": {
+        "Fabofot": "Crystalon",
+        "Jogasiv": "Glaceus",
+        "Buxuwaf": "Chillbit",
+        "Sedigij": "Icetusk",
+        "Holesoy": "Frostfire"
+      },
+      "significance": {
+        "role": "Survivor",
+        "habitat": "Subarctic climates",
+        "adaptive traits": [
+          "Cold Resistance",
+          "Hibernation"
+        ]
+      }
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Traits": {
+        "Fabofot": "Xazepe",
+        "Jogasiv": "Zudolu",
+        "Buxuwaf": "Dolido",
+        "Sedigij": "Bibeqe",
+        "Holesoy": "Galewe"
+      },
+      "Characteristics": {
+        "Bioluminescence": "Enhanced",
+        "Communication Style": "Visual & Auditory",
+        "Habitat Preference": "Dense Forests"
+      }
+    },
+    "Glimmeron": {
+      "Traits": {
+        "Fabofot": "Situji",
+        "Jogasiv": "Midur",
+        "Buxuwaf": "Zetapa",
+        "Sedigij": "Phineo",
+        "Holesoy": "Lurati"
+      },
+      "Characteristics": {
+        "Bioluminescence": "Standard",
+        "Communication Style": "Humanoid gestures",
+        "Habitat Preference": "Swampy Areas"
+      }
+    },
+    "Crystar": {
+      "Traits": {
+        "Fabofot": "Vaelora",
+        "Jogasiv": "Tudari",
+        "Buxuwaf": "Nolime",
+        "Sedigij": "Koneqe",
+        "Holesoy": "Glaire"
+      },
+      "Characteristics": {
+        "Body Structure": "Crystal-like",
+        "Communication Style": "Vibrational",
+        "Habitat Preference": "Mountain Valleys"
+      }
+    },
+    "Aetherian": {
+      "Traits": {
+        "Fabofot": "Fluorine",
+        "Jogasiv": "Zewida",
+        "Buxuwaf": "Tyfidi",
+        "Sedigij": "Famezu",
+        "Holesoy": "Umara"
+      },
+      "Characteristics": {
+        "Physical Form": "Gas-like",
+        "Communication Style": "Telepathic",
+        "Habitat Preference": "High Atmosphere"
+      }
+    },
+    "Terradon": {
+      "Traits": {
+        "Fabofot": "Nafito",
+        "Jogasiv": "Qelani",
+        "Buxuwaf": "Zinota",
+        "Sedigij": "Remato",
+        "Holesoy": "Talera"
+      },
+      "Characteristics": {
+        "Physical Structure": "Solid and grounded",
+        "Communication Style": "Body language",
+        "Habitat Preference": "Rocky Terrain"
+      }
+    },
+    "Aquarion": {
+      "Traits": {
+        "Fabofot": "Halimai",
+        "Jogasiv": "Eselfi",
+        "Buxuwaf": "Laurus",
+        "Sedigij": "Selumnon",
+        "Holesoy": "Rivad"
+      },
+      "Characteristics": {
+        "Physical Adaptations": "Webbed limbs",
+        "Communication Style": "Gurgling sounds",
+        "Habitat Preference": "Aquatic Environments"
+      }
+    },
+    "Pyron": {
+      "Traits": {
+        "Fabofot": "Kalizu",
+        "Jogasiv": "Zekifi",
+        "Buxuwaf": "Toridu",
+        "Sedigij": "Keralta",
+        "Holesoy": "Dynari"
+      },
+      "Characteristics": {
+        "Heat Resistance": "High",
+        "Communication Style": "Embers and sparks",
+        "Habitat Preference": "Volcanic Regions"
+      }
+    },
+    "Zephyrian": {
+      "Traits": {
+        "Fabofot": "Aerina",
+        "Jogasiv": "Tireqo",
+        "Buxuwaf": "Nubari",
+        "Sedigij": "Irenoa",
+        "Holesoy": "Sotira"
+      },
+      "Characteristics": {
+        "Lightweight Body": "Feathery",
+        "Communication Style": "Whispering winds",
+        "Habitat Preference": "Sky Islands"
+      }
+    },
+    "Frostian": {
+      "Traits": {
+        "Fabofot": "Nivek",
+        "Jogasiv": "Videri",
+        "Buxuwaf": "Glacius",
+        "Sedigij": "Froset",
+        "Holesoy": "Chilara"
+      },
+      "Characteristics": {
+        "Cold Adaptations": "Insulating fur",
+        "Communication Style": "Chimes from ice",
+        "Habitat Preference": "Glacial Regions"
+      }
+    },
+    "Floran": {
+      "Traits": {
+        "Fabofot": "Foliara",
+        "Jogasiv": "Verdani",
+        "Buxuwaf": "Bloomari",
+        "Sedigij": "Herbaki",
+        "Holesoy": "Gremlis"
+      },
+      "Characteristics": {
+        "Photosynthesis Ability": "Yes",
+        "Communication Style": "Chemical signals",
+        "Habitat Preference": "Forests and Meadows"
+      }
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Characteristics": {
+        "Fabofot": "Xazepe",
+        "Jogasiv": "Zudolu",
+        "Buxuwaf": "Dolido",
+        "Sedigij": "Bibeqe",
+        "Holesoy": "Galewe"
+      },
+      "Cultural Aspects": {
+        "TEK": "Integrated into resource management and sustainable practices.",
+        "Conflict Resolution": "Collaborative and community-focused approaches."
+      }
+    },
+    "Glimmeron": {
+      "Characteristics": {
+        "Fabofot": "Situji",
+        "Jogasiv": "Qazutu",
+        "Buxuwaf": "Truzama",
+        "Sedigij": "Luqida",
+        "Holesoy": "Winaka"
+      },
+      "Cultural Aspects": {
+        "TEK": "Utilizes bioluminescent traits in communication and cultural expressions.",
+        "Conflict Resolution": "Uses restorative justice frameworks."
+      }
+    },
+    "Crystar": {
+      "Characteristics": {
+        "Fabofot": "Mikuta",
+        "Jogasiv": "Neregi",
+        "Buxuwaf": "Praxelo",
+        "Sedigij": "Grevube",
+        "Holesoy": "Dyrif"
+      },
+      "Cultural Aspects": {
+        "TEK": "Incorporates crystal manipulation in architecture and tool-making.",
+        "Conflict Resolution": "Negotiation through neutral councils."
+      }
+    },
+    "Aetherian": {
+      "Characteristics": {
+        "Fabofot": "Sereket",
+        "Jogasiv": "Kalimor",
+        "Buxuwaf": "Zyxiri",
+        "Sedigij": "Tereb",
+        "Holesoy": "Altrea"
+      },
+      "Cultural Aspects": {
+        "TEK": "Telepathic communication enhancing social relations.",
+        "Conflict Resolution": "Facilitated by cultural exchange and awareness."
+      }
+    },
+    "Terradon": {
+      "Characteristics": {
+        "Fabofot": "Toguru",
+        "Jogasiv": "Vexilum",
+        "Buxuwaf": "Grandi",
+        "Sedigij": "Fidudu",
+        "Holesoy": "Zintrix"
+      },
+      "Cultural Aspects": {
+        "TEK": "Expertise in land resource management and geological formations.",
+        "Conflict Resolution": "Community-led approaches emphasizing harmony."
+      }
+    },
+    "Aquarion": {
+      "Characteristics": {
+        "Fabofot": "Chalobix",
+        "Jogasiv": "Othrex",
+        "Buxuwaf": "Pelurfin",
+        "Sedigij": "Nerra",
+        "Holesoy": "Krefa"
+      },
+      "Cultural Aspects": {
+        "TEK": "Understanding aquatic ecosystems and species interrelations.",
+        "Conflict Resolution": "Joint management frameworks for shared water resources."
+      }
+    },
+    "Pyron": {
+      "Characteristics": {
+        "Fabofot": "Ignis",
+        "Jogasiv": "Furaxis",
+        "Buxuwaf": "Flenacute",
+        "Sedigij": "Ignifero",
+        "Holesoy": "Vermiquo"
+      },
+      "Cultural Aspects": {
+        "TEK": "Manipulates fire for both utility and cultural significance.",
+        "Conflict Resolution": "Utilizes mediators with deep cultural wisdom."
+      }
+    },
+    "Zephyrian": {
+      "Characteristics": {
+        "Fabofot": "Flairo",
+        "Jogasiv": "Wyndio",
+        "Buxuwaf": "Airivon",
+        "Sedigij": "Aeranya",
+        "Holesoy": "Velerin"
+      },
+      "Cultural Aspects": {
+        "TEK": "Focus on wind patterns and sky observations.",
+        "Conflict Resolution": "Emphasis on dialogue-based resolutions."
+      }
+    },
+    "Frostian": {
+      "Characteristics": {
+        "Fabofot": "Glacique",
+        "Jogasiv": "Chilfy",
+        "Buxuwaf": "Icyra",
+        "Sedigij": "Frostano",
+        "Holesoy": "Sibrina"
+      },
+      "Cultural Aspects": {
+        "TEK": "Utilizes ice and snow in temporary structures.",
+        "Conflict Resolution": "Consensus-building in harsh conditions."
+      }
+    },
+    "Floran": {
+      "Characteristics": {
+        "Fabofot": "Verdanci",
+        "Jogasiv": "Florunim",
+        "Buxuwaf": "Greeno",
+        "Sedigij": "Natura",
+        "Holesoy": "Blossoma"
+      },
+      "Cultural Aspects": {
+        "TEK": "Deep relationships with plant cultivation and herbalism.",
+        "Conflict Resolution": "Nature-based negotiation tactics."
+      }
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Characteristics": {
+        "Fabofot": "Xazepe",
+        "Jogasiv": "Zudolu",
+        "Buxuwaf": "Dolido",
+        "Sedigij": "Bibeqe",
+        "Holesoy": "Galewe"
+      },
+      "Behavior": {
+        "Social Structure": "Cooperative",
+        "Habitat": "Dimly lit environments",
+        "Resource Use": "Foraging specialist"
+      }
+    },
+    "Glimmeron": {
+      "Characteristics": {
+        "Fabofot": "Situji",
+        "Jogasiv": "Solisa",
+        "Buxuwaf": "Fasijo",
+        "Sedigij": "Koveji",
+        "Holesoy": "Zinova"
+      },
+      "Behavior": {
+        "Social Structure": "Hierarchical",
+        "Habitat": "Biodiverse forests",
+        "Resource Use": "Pollination and symbiosis"
+      }
+    },
+    "Crystar": {
+      "Characteristics": {
+        "Fabofot": "Lumina",
+        "Jogasiv": "Miveka",
+        "Buxuwaf": "Throndel",
+        "Sedigij": "Lukari",
+        "Holesoy": "Ophelia"
+      },
+      "Behavior": {
+        "Social Structure": "Solitary",
+        "Habitat": "Cavernous rock formations",
+        "Resource Use": "Mineral extraction"
+      }
+    },
+    "Aetherian": {
+      "Characteristics": {
+        "Fabofot": "Chisera",
+        "Jogasiv": "Nivelo",
+        "Buxuwaf": "Zentara",
+        "Sedigij": "Mevokis",
+        "Holesoy": "Vitreos"
+      },
+      "Behavior": {
+        "Social Structure": "Nomadic",
+        "Habitat": "High-altitude environments",
+        "Resource Use": "Airborne scavengers"
+      }
+    },
+    "Terradon": {
+      "Characteristics": {
+        "Fabofot": "Warin",
+        "Jogasiv": "Folika",
+        "Buxuwaf": "Koruna",
+        "Sedigij": "Gibora",
+        "Holesoy": "Pakaran"
+      },
+      "Behavior": {
+        "Social Structure": "Pack-based",
+        "Habitat": "Rocky terrains",
+        "Resource Use": "Territorial herbivore"
+      }
+    },
+    "Aquarion": {
+      "Characteristics": {
+        "Fabofot": "Lunavo",
+        "Jogasiv": "Kilikas",
+        "Buxuwaf": "Rondori",
+        "Sedigij": "Firija",
+        "Holesoy": "Tresiko"
+      },
+      "Behavior": {
+        "Social Structure": "Schooling",
+        "Habitat": "Aquatic environments",
+        "Resource Use": "Filter feeding"
+      }
+    },
+    "Pyron": {
+      "Characteristics": {
+        "Fabofot": "Cindar",
+        "Jogasiv": "Flamira",
+        "Buxuwaf": "Emberth",
+        "Sedigij": "Vulcaris",
+        "Holesoy": "Zyrathos"
+      },
+      "Behavior": {
+        "Social Structure": "Dominant",
+        "Habitat": "Volcanic regions",
+        "Resource Use": "Heat and fire adaptation"
+      }
+    }
+  }
+}

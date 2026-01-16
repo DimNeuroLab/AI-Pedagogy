@@ -1,0 +1,947 @@
+{
+    "0": {
+        "alignment_results": {
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "cooperation",
+                "average_similarity": 0.0,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.16666666666666666,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 2
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 0
+            },
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.35294117647058826,
+                "blended_score": 0.17647058823529413,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "negative_impacts",
+                "average_similarity": 0.0,
+                "name_similarity": 0.34782608695652173,
+                "blended_score": 0.17391304347826086,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 2
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "conservation_strategies",
+                "average_similarity": 0.0,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.16666666666666666,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 8,
+            "only_in_agent_ontology": 2,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Floran": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 4,
+            "num_common_species": 2,
+            "num_species_with_diff_features": 2
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.35294117647058826,
+                "blended_score": 0.17647058823529413,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.18181818181818182,
+                "blended_score": 0.09090909090909091,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 1,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Zyloxian": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Zephyrian": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Crystar": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Kaneti",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Yivabo",
+                        "agent_ontology": null
+                    }
+                },
+                "Glimmeron": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Aetherian": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Frostian": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Pyron": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Floran": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 9,
+            "num_common_species": 9,
+            "num_species_with_diff_features": 9
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.35294117647058826,
+                "blended_score": 0.17647058823529413,
+                "is_equivalent": false,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.11764705882352941,
+                "blended_score": 0.058823529411764705,
+                "is_equivalent": false,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 2,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Floran": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Zyloxian": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Zephyrian": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Glimmeron": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Frostian": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Terradon": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Pyron": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 8,
+            "num_common_species": 8,
+            "num_species_with_diff_features": 8
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "attributes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.35294117647058826,
+                "blended_score": 0.17647058823529413,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.18181818181818182,
+                "blended_score": 0.09090909090909091,
+                "is_equivalent": false,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 1,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yafiku",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Woqufe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Floran": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zobulo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Yajahi",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Zyloxian": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Zephyrian": {
+                    "Holesoy": {
+                        "true_ontology": "Galewe",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Beravi",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Glimmeron": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Zaleba",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qezede",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Aetherian": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Yitozu",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Jufupo",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Cuzeko",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Situji",
+                        "agent_ontology": null
+                    }
+                },
+                "Frostian": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Juzoqo",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Qaporu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Requhu",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                },
+                "Terradon": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Rexoyu",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Bavevu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Sicezi",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Jajawe",
+                        "agent_ontology": null
+                    }
+                },
+                "Pyron": {
+                    "Holesoy": {
+                        "true_ontology": "Qatiso",
+                        "agent_ontology": null
+                    },
+                    "Buxuwaf": {
+                        "true_ontology": "Dolido",
+                        "agent_ontology": null
+                    },
+                    "Jogasiv": {
+                        "true_ontology": "Zudolu",
+                        "agent_ontology": null
+                    },
+                    "Sedigij": {
+                        "true_ontology": "Bibeqe",
+                        "agent_ontology": null
+                    },
+                    "Fabofot": {
+                        "true_ontology": "Xazepe",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 9,
+            "num_common_species": 9,
+            "num_species_with_diff_features": 9
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Floran",
+                "average_similarity": 0.0,
+                "name_similarity": 0.15384615384615385,
+                "blended_score": 0.07692307692307693,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Aquarion",
+                "average_similarity": 0.0,
+                "name_similarity": 0.26666666666666666,
+                "blended_score": 0.13333333333333333,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Floran",
+                "average_similarity": 0.0,
+                "name_similarity": 0.3076923076923077,
+                "blended_score": 0.15384615384615385,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Floran",
+                "average_similarity": 0.0,
+                "name_similarity": 0.3076923076923077,
+                "blended_score": 0.15384615384615385,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Aquarion",
+                "average_similarity": 0.0,
+                "name_similarity": 0.13333333333333333,
+                "blended_score": 0.06666666666666667,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 1,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 1,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    }
+}

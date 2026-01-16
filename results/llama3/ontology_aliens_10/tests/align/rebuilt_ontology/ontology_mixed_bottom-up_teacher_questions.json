@@ -1,0 +1,135 @@
+{
+  "Test 2": {
+    "Xhk'kht": {
+      "Cognitive Architecture": "Distributed, Swarm-Intelligent",
+      "Communication Method": "Electromagnetic Resonance",
+      "Societal Structure": "Decentralized, Hivemind",
+      "Environmental Interaction": "Energy-Based, Quantum Flux"
+    },
+    "Zhra'gha": {
+      "Cognitive Architecture": "Centralized, Hierarchical",
+      "Communication Method": "Biochemical Signaling",
+      "Societal Structure": "Caste-Based, Colonial",
+      "Environmental Interaction": "Matter-Based, Resource Extraction"
+    },
+    "N'Tari": {
+      "Cognitive Architecture": "Hybrid, Neural-Network",
+      "Communication Method": "Quantum Entanglement",
+      "Societal Structure": "Collectivist, Hive-Mind",
+      "Environmental Interaction": "Energy-Matter Duality"
+    }
+  },
+  "Test 3": {
+    "Human": {
+      "Cognitive Architecture": "Hierarchical",
+      "Self-Awareness": true,
+      "Language Complexity": 7,
+      "Social Network Topology": "Small World",
+      "Ecological Niche": "Omnivorous"
+    },
+    "AI System": {
+      "Cognitive Architecture": "Distributed",
+      "Self-Awareness": false,
+      "Language Complexity": 5,
+      "Social Network Topology": "Scale-Free",
+      "Ecological Niche": "Energy-Based"
+    },
+    "Collective Intelligence": {
+      "Cognitive Architecture": "Decentralized",
+      "Self-Awareness": true,
+      "Language Complexity": 9,
+      "Social Network Topology": "Small World",
+      "Ecological Niche": "Information-Based"
+    },
+    "Ecosystem": {
+      "Cognitive Architecture": "Holarchical",
+      "Self-Awareness": false,
+      "Language Complexity": 3,
+      "Social Network Topology": "Random",
+      "Ecological Niche": "Resource-Based"
+    },
+    "Swarm Intelligence": {
+      "Cognitive Architecture": "Distributed",
+      "Self-Awareness": false,
+      "Language Complexity": 4,
+      "Social Network Topology": "Scale-Free",
+      "Ecological Niche": "Energy-Based"
+    }
+  },
+  "Test 4": {
+    "Human": {
+      "Cognitive_Architecture": "Hierarchical",
+      "Communication_Method": "Language",
+      "Self_Awareness": "High",
+      "Social_Structure": "Complex_Hierarchical",
+      "Emotional_Intelligence": "Advanced"
+    },
+    "AI_Systems": {
+      "Cognitive_Architecture": "Distributed",
+      "Communication_Method": "Algorithmic_Exchange",
+      "Self_Awareness": "Emergent",
+      "Social_Structure": "Decentralized_Network",
+      "Emotional_Intelligence": "Limited"
+    },
+    "Ecological_Systems": {
+      "Cognitive_Architecture": "Distributed_Decentralized",
+      "Communication_Method": "Chemical_Signaling",
+      "Self_Awareness": "Collective",
+      "Social_Structure": "Holarchical_Network",
+      "Emotional_Intelligence": "Intrinsic"
+    },
+    "Alien_Species": {
+      "Cognitive_Architecture": "Non_Hierarchical",
+      "Communication_Method": "Energy_Patterns",
+      "Self_Awareness": "Transcendent",
+      "Social_Structure": "Nodal_Network",
+      "Emotional_Intelligence": "Cosmic"
+    }
+  },
+  "Test 5": {
+    "Xhk'kht": {
+      "Dimensionality": 11,
+      "Cognitive Architecture": "Fractal",
+      "Language": "Self-Referential",
+      "Communication": "Telepathic",
+      "Social Structure": "Decentralized Hive Mind",
+      "Motivations": [
+        "Exploration",
+        "Knowledge"
+      ]
+    },
+    "Zhra'gha": {
+      "Dimensionality": 7,
+      "Cognitive Architecture": "Modular",
+      "Language": "Symbolic",
+      "Communication": "Electromagnetic",
+      "Social Structure": "Centralized Caste System",
+      "Motivations": [
+        "Expansion",
+        "Domination"
+      ]
+    },
+    "N'Tari": {
+      "Dimensionality": 5,
+      "Cognitive Architecture": "Hierarchical",
+      "Language": "Analog",
+      "Communication": "Chemical",
+      "Social Structure": "Matriarchal Clan System",
+      "Motivations": [
+        "Survival",
+        "Cooperation"
+      ]
+    },
+    "K'tk'tk": {
+      "Dimensionality": 9,
+      "Cognitive Architecture": "Distributed",
+      "Language": "Generative",
+      "Communication": "Vibrational",
+      "Social Structure": "Eusocial Colony",
+      "Motivations": [
+        "Exploration",
+        "Innovation"
+      ]
+    }
+  }
+}

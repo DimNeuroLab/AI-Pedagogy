@@ -1,0 +1,162 @@
+{
+  "Test 2": {
+    "Humans": {
+      "Creativity": "Pattern recognition",
+      "Art": "Diverse forms",
+      "Politics": "Galactic government",
+      "Philosophy": "Abstract thought",
+      "Education": "Knowledge exchange",
+      "Ethics": "Moral reasoning",
+      "Diplomacy": "Peaceful coexistence"
+    },
+    "Alien Species A": {
+      "Creativity": "Pattern recognition",
+      "Art": "Unique forms",
+      "Politics": "Cooperative governance",
+      "Philosophy": "Conceptualization",
+      "Education": "Collaborative learning",
+      "Ethics": "Utilitarianism",
+      "Diplomacy": "Conflict resolution"
+    },
+    "Alien Species B": {
+      "Creativity": "Imitation-based",
+      "Art": "Mathematical patterns",
+      "Politics": "Decentralized authority",
+      "Philosophy": "Empiricism",
+      "Education": "Knowledge transmission",
+      "Ethics": "Consequentialism",
+      "Diplomacy": "Mutual understanding"
+    }
+  },
+  "Test 3": {
+    "Human": {
+      "Creativity": "Pattern recognition",
+      "Art": "Diverse forms",
+      "Politics": "Galactic governance",
+      "Philosophy": "Existence and consciousness",
+      "Educational approach": "Knowledge sharing",
+      "Ethics": "Moral values",
+      "Diplomacy": "Peaceful coexistence"
+    },
+    "Zorvathian": {
+      "Creativity": "Abstract thought",
+      "Art": "Geometric patterns",
+      "Politics": "Interconnected networks",
+      "Philosophy": "Cosmological inquiry",
+      "Educational approach": "Collaborative learning",
+      "Ethics": "Collective responsibility",
+      "Diplomacy": "Cooperative diplomacy"
+    },
+    "N'Tari": {
+      "Creativity": "Energy manipulation",
+      "Art": "Energetic resonance",
+      "Politics": "Decentralized autonomy",
+      "Philosophy": "Quantum consciousness",
+      "Educational approach": "Experiential learning",
+      "Ethics": "Personal freedom",
+      "Diplomacy": "Free association"
+    },
+    "Xanthean": {
+      "Creativity": "Biological adaptation",
+      "Art": "Organic forms",
+      "Politics": "Ecological balance",
+      "Philosophy": "Evolutionary principles",
+      "Educational approach": "Apprenticeship",
+      "Ethics": "Environmental stewardship",
+      "Diplomacy": "Symbiotic cooperation"
+    }
+  },
+  "Test 5": {
+    "Human": {
+      "Creativity": [
+        "Pattern recognition",
+        "Abstraction"
+      ],
+      "Art": [
+        "Music",
+        "Literature",
+        "Performance"
+      ],
+      "Politics": [
+        "Democratic decision-making",
+        "Representative governance"
+      ],
+      "Philosophy": [
+        "Existentialism",
+        "Rationalism"
+      ],
+      "Education": [
+        "Formal schooling",
+        "Knowledge sharing"
+      ],
+      "Ethics": [
+        "Moral relativism",
+        "Utilitarianism"
+      ],
+      "Diplomacy": [
+        "Conflict resolution",
+        "Cooperative agreements"
+      ]
+    },
+    "Zorvathian": {
+      "Creativity": [
+        "Energy manipulation",
+        "Spatial reasoning"
+      ],
+      "Art": [
+        "Bioluminescent displays",
+        "Gravitational sculpture"
+      ],
+      "Politics": [
+        "Hive-mind decision-making",
+        "Collectivist governance"
+      ],
+      "Philosophy": [
+        "Determinism",
+        "Energetic monism"
+      ],
+      "Education": [
+        "Neurological imprinting",
+        "Knowledge transfer"
+      ],
+      "Ethics": [
+        "Survival of the fittest",
+        "Energetic balance"
+      ],
+      "Diplomacy": [
+        "Inter species cooperation",
+        "Resource sharing"
+      ]
+    },
+    "Xhk'kht": {
+      "Creativity": [
+        "Crystal resonance",
+        "Geometric patterning"
+      ],
+      "Art": [
+        "Crystalline structures",
+        "Gravitational harmonics"
+      ],
+      "Politics": [
+        "Caste-based hierarchy",
+        "Meritocratic governance"
+      ],
+      "Philosophy": [
+        "Mechanism",
+        "Materialism"
+      ],
+      "Education": [
+        "Mentorship",
+        "Knowledge inheritance"
+      ],
+      "Ethics": [
+        "Duty-bound morality",
+        "Consequentialism"
+      ],
+      "Diplomacy": [
+        "Inter species trade",
+        "Mutual defense"
+      ]
+    }
+  }
+}

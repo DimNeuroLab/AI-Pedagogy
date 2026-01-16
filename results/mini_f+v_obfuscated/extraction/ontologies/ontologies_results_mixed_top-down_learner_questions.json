@@ -1,0 +1,382 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedigij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Lumina",
+      "Jogasiv": "Shimmering Forests",
+      "Buxuwaf": "Ethereal Light",
+      "Sedigij": "Communal Harmony",
+      "Holesoy": "Svelte"
+    },
+    "Crystar": {
+      "Fabofot": "Reflective Crystal",
+      "Jogasiv": "Crystal Structures",
+      "Buxuwaf": "Light Manipulation",
+      "Sedigij": "Telepathic Links",
+      "Holesoy": "Faceted"
+    },
+    "Aetherian": {
+      "Fabofot": "Translucent",
+      "Jogasiv": "Aerodynamic Regions",
+      "Buxuwaf": "Telekinesis",
+      "Sedigij": "Nomadic Flows",
+      "Holesoy": "Streamlined"
+    },
+    "Terradon": {
+      "Fabofot": "Rocky Texture",
+      "Jogasiv": "Mountainous Terrain",
+      "Buxuwaf": "Geological Insight",
+      "Sedigij": "Territorial Hierarchies",
+      "Holesoy": "Robust"
+    },
+    "Aquarion": {
+      "Fabofot": "Fluidic Surface",
+      "Jogasiv": "Underwater Ecosystems",
+      "Buxuwaf": "Hydrokinesis",
+      "Sedigij": "Benevolent Society",
+      "Holesoy": "Aquatic"
+    },
+    "Pyron": {
+      "Fabofot": "Fiery Aura",
+      "Jogasiv": "Volcanic Regions",
+      "Buxuwaf": "Fire Manipulation",
+      "Sedigij": "Clan-Based Bonds",
+      "Holesoy": "Blazing"
+    },
+    "Zephyrian": {
+      "Fabofot": "Feathery",
+      "Jogasiv": "Sky Islands",
+      "Buxuwaf": "Wind Control",
+      "Sedigij": "Free-Spirited Culture",
+      "Holesoy": "Lightweight"
+    },
+    "Frostian": {
+      "Fabofot": "Icy Exterior",
+      "Jogasiv": "Glacial Environments",
+      "Buxuwaf": "Cryokinesis",
+      "Sedigij": "Close-Knit Clans",
+      "Holesoy": "Frosted"
+    },
+    "Floran": {
+      "Fabofot": "Plant-Based Texture",
+      "Jogasiv": "Dense Rainforests",
+      "Buxuwaf": "Botanical Growth",
+      "Sedigij": "Symbiotic Relationships",
+      "Holesoy": "Thick"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedigij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Lumina",
+      "Jogasiv": "Elysia",
+      "Buxuwaf": "Flareon",
+      "Sedigij": "Syntara",
+      "Holesoy": "Mistral"
+    },
+    "Crystar": {
+      "Fabofot": "Crystaline",
+      "Jogasiv": "Glistening Valley",
+      "Buxuwaf": "Refraction",
+      "Sedigij": "Echo",
+      "Holesoy": "Prism"
+    },
+    "Aetherian": {
+      "Fabofot": "Nebulae",
+      "Jogasiv": "Cloudscape",
+      "Buxuwaf": "Etheric Manipulation",
+      "Sedigij": "Whisper",
+      "Holesoy": "Tempest"
+    },
+    "Terradon": {
+      "Fabofot": "Stonelike",
+      "Jogasiv": "Mountain Ranges",
+      "Buxuwaf": "Terra Form",
+      "Sedigij": "Roar",
+      "Holesoy": "Titan"
+    },
+    "Aquarion": {
+      "Fabofot": "Aquatic Blue",
+      "Jogasiv": "Underwater Cities",
+      "Buxuwaf": "Hydrokinetics",
+      "Sedigij": "Bubble",
+      "Holesoy": "Wave"
+    },
+    "Pyron": {
+      "Fabofot": "Ember",
+      "Jogasiv": "Volcanic Landscapes",
+      "Buxuwaf": "Fire Manipulation",
+      "Sedigij": "Flame",
+      "Holesoy": "Inferno"
+    },
+    "Zephyrian": {
+      "Fabofot": "Airy",
+      "Jogasiv": "Windy Plains",
+      "Buxuwaf": "Aerodynamics",
+      "Sedigij": "Breeze",
+      "Holesoy": "Gust"
+    },
+    "Frostian": {
+      "Fabofot": "Icy Blue",
+      "Jogasiv": "Snowy Mountains",
+      "Buxuwaf": "Cryokinesis",
+      "Sedigij": "Chill",
+      "Holesoy": "Glacier"
+    },
+    "Floran": {
+      "Fabofot": "Green",
+      "Jogasiv": "Lush Forests",
+      "Buxuwaf": "Photosynthesis",
+      "Sedigij": "Rustle",
+      "Holesoy": "Blossom"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedigij": "Bibeqe",
+      "Holesoy": "Galewe",
+      "Backstory": "Hailing from a planet with extreme weather, Zyloxians have developed resilient features.",
+      "Cultural Traits": "They value knowledge and often engage in intricate forms of storytelling."
+    },
+    "Glimmeron": {
+      "Fabofot": "Luminis",
+      "Jogasiv": "Vasalor",
+      "Buxuwaf": "Stralix",
+      "Sedigij": "Elysia",
+      "Holesoy": "Rayval",
+      "Backstory": "Living in bioluminescent forests, Glimmerons communicate through light patterns.",
+      "Cultural Traits": "They have a communal society that prioritizes harmony with nature."
+    },
+    "Crystar": {
+      "Fabofot": "Shardex",
+      "Jogasiv": "Glaciara",
+      "Buxuwaf": "Refrax",
+      "Sedigij": "Mirosa",
+      "Holesoy": "Shardul",
+      "Backstory": "Originating from icy realms, Crystars possess crystalline structures for protection.",
+      "Cultural Traits": "They have a reverence for tradition and often engage in elaborate rituals."
+    },
+    "Aetherian": {
+      "Fabofot": "Celestra",
+      "Jogasiv": "Zephyria",
+      "Buxuwaf": "Nimbus",
+      "Sedigij": "Aethra",
+      "Holesoy": "Vortika",
+      "Backstory": "Ethereal beings from the clouds, Aetherians embody wisdom and transcendence.",
+      "Cultural Traits": "They prioritize mindfulness and often meditate for insight."
+    },
+    "Terradon": {
+      "Fabofot": "Terranox",
+      "Jogasiv": "Geoterra",
+      "Buxuwaf": "Stratilith",
+      "Sedigij": "Granathe",
+      "Holesoy": "Mighton",
+      "Backstory": "Sturdy creatures that thrive in mountainous terrains, Terradons are known for their strength.",
+      "Cultural Traits": "Communal labor is valued, and they celebrate festivals tied to the earth\u2019s cycles."
+    },
+    "Aquarion": {
+      "Fabofot": "Aquaflare",
+      "Jogasiv": "Marisynth",
+      "Buxuwaf": "Tidalwave",
+      "Sedigij": "Coralith",
+      "Holesoy": "Nimbus",
+      "Backstory": "Living in oceanic worlds, Aquarions are adaptable and agile swimmers.",
+      "Cultural Traits": "Their society is built around kinship and cooperation in resource gathering."
+    },
+    "Pyron": {
+      "Fabofot": "Emberforge",
+      "Jogasiv": "Pyrosphere",
+      "Buxuwaf": "Blazewind",
+      "Sedigij": "Cinderclad",
+      "Holesoy": "Scorchtail",
+      "Backstory": "Flame-wielding beings from volcanic regions, Pyron exhibit fiery traits.",
+      "Cultural Traits": "Honor and valor are significant in their societal narratives."
+    },
+    "Zephyrian": {
+      "Fabofot": "Galesurge",
+      "Jogasiv": "Aeriswoop",
+      "Buxuwaf": "Whirlwind",
+      "Sedigij": "Zephyra",
+      "Holesoy": "Breezefury",
+      "Backstory": "Born from windy plains, Zephyrians are known for their agility and flight.",
+      "Cultural Traits": "They value freedom and often embrace a nomadic lifestyle."
+    },
+    "Frostian": {
+      "Fabofot": "Icetide",
+      "Jogasiv": "Frigidare",
+      "Buxuwaf": "Snowbound",
+      "Sedigij": "Glacior",
+      "Holesoy": "Shundershade",
+      "Backstory": "From frigid environments, Frostians have adapted to extreme cold.",
+      "Cultural Traits": "They have a deep connection to the winter solstice and celebrate survival."
+    },
+    "Floran": {
+      "Fabofot": "Verdivine",
+      "Jogasiv": "Bloomvale",
+      "Buxuwaf": "Petalwhisper",
+      "Sedigij": "Faunara",
+      "Holesoy": "Grovekeeper",
+      "Backstory": "Floran beings emerge from lush forests, exhibiting plant-like attributes.",
+      "Cultural Traits": "They are environmental stewards and engage in rituals of gratitude to nature."
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedigij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Frilune",
+      "Jogasiv": "Lustra",
+      "Buxuwaf": "Elunara",
+      "Sedigij": "Thalora",
+      "Holesoy": "Mirenak"
+    },
+    "Crystar": {
+      "Fabofot": "Kryzo",
+      "Jogasiv": "Zephyria",
+      "Buxuwaf": "Quorun",
+      "Sedigij": "Valeth",
+      "Holesoy": "Illurian"
+    },
+    "Aetherian": {
+      "Fabofot": "Celestra",
+      "Jogasiv": "Nimbos",
+      "Buxuwaf": "Zyphon",
+      "Sedigij": "Elysior",
+      "Holesoy": "Arveth"
+    },
+    "Terradon": {
+      "Fabofot": "Granite",
+      "Jogasiv": "Harcidum",
+      "Buxuwaf": "Oxidon",
+      "Sedigij": "Havran",
+      "Holesoy": "Bermulon"
+    },
+    "Aquarion": {
+      "Fabofot": "Aquamarine",
+      "Jogasiv": "Marisole",
+      "Buxuwaf": "Syriden",
+      "Sedigij": "Krellian",
+      "Holesoy": "Mythal"
+    },
+    "Pyron": {
+      "Fabofot": "Ember",
+      "Jogasiv": "Volcanis",
+      "Buxuwaf": "Flamir",
+      "Sedigij": "Cindershade",
+      "Holesoy": "Scorion"
+    },
+    "Zephyrian": {
+      "Fabofot": "Aether",
+      "Jogasiv": "Skylume",
+      "Buxuwaf": "Breezyl",
+      "Sedigij": "Alarion",
+      "Holesoy": "Nuvion"
+    },
+    "Frostian": {
+      "Fabofot": "Glacius",
+      "Jogasiv": "Frostvale",
+      "Buxuwaf": "Cryogen",
+      "Sedigij": "Icetide",
+      "Holesoy": "Shardis"
+    },
+    "Floran": {
+      "Fabofot": "Verdant",
+      "Jogasiv": "Floria",
+      "Buxuwaf": "Petalwyn",
+      "Sedigij": "Greenthorn",
+      "Holesoy": "Blossum"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedigij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Lumifer",
+      "Jogasiv": "Ithilmor",
+      "Buxuwaf": "Elarin",
+      "Sedigij": "Mithras",
+      "Holesoy": "Azmir"
+    },
+    "Crystar": {
+      "Fabofot": "Shardilith",
+      "Jogasiv": "Glacialis",
+      "Buxuwaf": "Refractor",
+      "Sedigij": "Luminite",
+      "Holesoy": "Beryl"
+    },
+    "Aetherian": {
+      "Fabofot": "Elytian",
+      "Jogasiv": "Volatilis",
+      "Buxuwaf": "Aethernaut",
+      "Sedigij": "Spectraxis",
+      "Holesoy": "Zephyra"
+    },
+    "Terradon": {
+      "Fabofot": "Petran",
+      "Jogasiv": "Geotherm",
+      "Buxuwaf": "Terrapoder",
+      "Sedigij": "Granitean",
+      "Holesoy": "Rockhide"
+    },
+    "Aquarion": {
+      "Fabofot": "Aquaflux",
+      "Jogasiv": "Maris",
+      "Buxuwaf": "Hydrosurge",
+      "Sedigij": "Tidewalker",
+      "Holesoy": "Coralfin"
+    },
+    "Pyron": {
+      "Fabofot": "Ignis",
+      "Jogasiv": "Volcanis",
+      "Buxuwaf": "Flamebearer",
+      "Sedigij": "Inferno",
+      "Holesoy": "Emberwing"
+    },
+    "Zephyrian": {
+      "Fabofot": "Aetherflux",
+      "Jogasiv": "Gale",
+      "Buxuwaf": "Windwhisper",
+      "Sedigij": "Stormcaller",
+      "Holesoy": "Cloudcrest"
+    },
+    "Frostian": {
+      "Fabofot": "Icyth",
+      "Jogasiv": "Glaciem",
+      "Buxuwaf": "Snowshaper",
+      "Sedigij": "Frostbinder",
+      "Holesoy": "Shiverfang"
+    },
+    "Floran": {
+      "Fabofot": "Verdant",
+      "Jogasiv": "Sylvan",
+      "Buxuwaf": "Botanica",
+      "Sedigij": "Florae",
+      "Holesoy": "Greenheart"
+    }
+  }
+}

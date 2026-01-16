@@ -1,0 +1,352 @@
+{
+  "Zyloxian": {
+    "Diet": "carnivorous",
+    "Habitat": "desert",
+    "Morphology": "armoured",
+    "Locomotion": "crawling",
+    "SocialStructure": "solitary"
+  },
+  "Glimmeron": {
+    "Diet": "phototrophic",
+    "Habitat": "aquatic",
+    "Morphology": "gelatinous",
+    "Locomotion": "floating",
+    "SocialStructure": "communal"
+  },
+  "Crystar": {
+    "Diet": "metallic-eater",
+    "Habitat": "crystal",
+    "Morphology": "metallic",
+    "Locomotion": "sliding",
+    "SocialStructure": "solitary"
+  },
+  "Aetherian": {
+    "Diet": "phototrophic",
+    "Habitat": "aerial",
+    "Morphology": "winged",
+    "Locomotion": "floating",
+    "SocialStructure": "communal"
+  },
+  "Terradon": {
+    "Diet": "herbivorous",
+    "Habitat": "forest",
+    "Morphology": "quadrupedal",
+    "Locomotion": "bounding",
+    "SocialStructure": "communal"
+  },
+  "Aquarion": {
+    "Diet": "herbivorous",
+    "Habitat": "aquatic",
+    "Morphology": "tentacled",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  },
+  "Pyron": {
+    "Diet": "carnivorous",
+    "Habitat": "desert",
+    "Morphology": "armoured",
+    "Locomotion": "crawling",
+    "SocialStructure": "communal"
+  },
+  "Zephyrian": {
+    "Diet": "phototrophic",
+    "Habitat": "aerial",
+    "Morphology": "feathered",
+    "Locomotion": "floating",
+    "SocialStructure": "solitary"
+  },
+  "Frostian": {
+    "Diet": "carnivorous",
+    "Habitat": "crystal",
+    "Morphology": "furry",
+    "Locomotion": "sliding",
+    "SocialStructure": "communal"
+  },
+  "Floran": {
+    "Diet": "herbivorous",
+    "Habitat": "forest",
+    "Morphology": "petal-like",
+    "Locomotion": "fluttering",
+    "SocialStructure": "solitary"
+  },
+  "Loflo": {
+    "Diet": "metallic-eater",
+    "Habitat": "aquatic",
+    "Morphology": "winged",
+    "Locomotion": "fluttering",
+    "SocialStructure": "solitary"
+  },
+  "Vorven": {
+    "Diet": "metallic-eater",
+    "Habitat": "desert",
+    "Morphology": "gelatinous",
+    "Locomotion": "bounding",
+    "SocialStructure": "communal"
+  },
+  "Sylpho": {
+    "Diet": "herbivorous",
+    "Habitat": "crystal",
+    "Morphology": "feathered",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  },
+  "Venrin": {
+    "Diet": "phototrophic",
+    "Habitat": "aerial",
+    "Morphology": "quadrupedal",
+    "Locomotion": "bounding",
+    "SocialStructure": "communal"
+  },
+  "Seltha": {
+    "Diet": "metallic-eater",
+    "Habitat": "forest",
+    "Morphology": "furry",
+    "Locomotion": "crawling",
+    "SocialStructure": "communal"
+  },
+  "Seldra": {
+    "Diet": "carnivorous",
+    "Habitat": "forest",
+    "Morphology": "tentacled",
+    "Locomotion": "fluttering",
+    "SocialStructure": "solitary"
+  },
+  "Xpy": {
+    "Diet": "metallic-eater",
+    "Habitat": "desert",
+    "Morphology": "metallic",
+    "Locomotion": "sliding",
+    "SocialStructure": "communal"
+  },
+  "Shavarcrys": {
+    "Diet": "phototrophic",
+    "Habitat": "crystal",
+    "Morphology": "petal-like",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  },
+  "Janzeph": {
+    "Diet": "carnivorous",
+    "Habitat": "aerial",
+    "Morphology": "feathered",
+    "Locomotion": "sliding",
+    "SocialStructure": "solitary"
+  },
+  "Vapyx": {
+    "Diet": "herbivorous",
+    "Habitat": "aquatic",
+    "Morphology": "quadrupedal",
+    "Locomotion": "crawling",
+    "SocialStructure": "communal"
+  },
+  "Terbelith": {
+    "Diet": "herbivorous",
+    "Habitat": "aquatic",
+    "Morphology": "metallic",
+    "Locomotion": "bounding",
+    "SocialStructure": "solitary"
+  },
+  "Vorvenvor": {
+    "Diet": "phototrophic",
+    "Habitat": "aerial",
+    "Morphology": "gelatinous",
+    "Locomotion": "floating",
+    "SocialStructure": "communal"
+  },
+  "Vamir": {
+    "Diet": "carnivorous",
+    "Habitat": "forest",
+    "Morphology": "winged",
+    "Locomotion": "fluttering",
+    "SocialStructure": "solitary"
+  },
+  "Selnelsha": {
+    "Diet": "metallic-eater",
+    "Habitat": "desert",
+    "Morphology": "armoured",
+    "Locomotion": "swimming",
+    "SocialStructure": "communal"
+  },
+  "Lumven": {
+    "Diet": "phototrophic",
+    "Habitat": "crystal",
+    "Morphology": "tentacled",
+    "Locomotion": "fluttering",
+    "SocialStructure": "communal"
+  },
+  "Tultha": {
+    "Diet": "herbivorous",
+    "Habitat": "crystal",
+    "Morphology": "furry",
+    "Locomotion": "floating",
+    "SocialStructure": "solitary"
+  },
+  "Janrax": {
+    "Diet": "carnivorous",
+    "Habitat": "aerial",
+    "Morphology": "petal-like",
+    "Locomotion": "crawling",
+    "SocialStructure": "solitary"
+  },
+  "Narzephva": {
+    "Diet": "metallic-eater",
+    "Habitat": "forest",
+    "Morphology": "gelatinous",
+    "Locomotion": "sliding",
+    "SocialStructure": "communal"
+  },
+  "Jansol": {
+    "Diet": "phototrophic",
+    "Habitat": "aquatic",
+    "Morphology": "winged",
+    "Locomotion": "swimming",
+    "SocialStructure": "communal"
+  },
+  "Janpho": {
+    "Diet": "herbivorous",
+    "Habitat": "desert",
+    "Morphology": "tentacled",
+    "Locomotion": "bounding",
+    "SocialStructure": "solitary"
+  },
+  "Mirzephpy": {
+    "Diet": "carnivorous",
+    "Habitat": "crystal",
+    "Morphology": "armoured",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  },
+  "Zyqui": {
+    "Diet": "metallic-eater",
+    "Habitat": "aquatic",
+    "Morphology": "metallic",
+    "Locomotion": "crawling",
+    "SocialStructure": "communal"
+  },
+  "Tulzeph": {
+    "Diet": "metallic-eater",
+    "Habitat": "forest",
+    "Morphology": "petal-like",
+    "Locomotion": "sliding",
+    "SocialStructure": "solitary"
+  },
+  "Zephyormor": {
+    "Diet": "carnivorous",
+    "Habitat": "desert",
+    "Morphology": "quadrupedal",
+    "Locomotion": "fluttering",
+    "SocialStructure": "communal"
+  },
+  "Venmorsha": {
+    "Diet": "phototrophic",
+    "Habitat": "aerial",
+    "Morphology": "feathered",
+    "Locomotion": "bounding",
+    "SocialStructure": "communal"
+  },
+  "Zephpho": {
+    "Diet": "herbivorous",
+    "Habitat": "forest",
+    "Morphology": "furry",
+    "Locomotion": "floating",
+    "SocialStructure": "solitary"
+  },
+  "Flosha": {
+    "Diet": "phototrophic",
+    "Habitat": "desert",
+    "Morphology": "furry",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  },
+  "Janzy": {
+    "Diet": "carnivorous",
+    "Habitat": "aquatic",
+    "Morphology": "metallic",
+    "Locomotion": "bounding",
+    "SocialStructure": "communal"
+  },
+  "Terithva": {
+    "Diet": "metallic-eater",
+    "Habitat": "aerial",
+    "Morphology": "armoured",
+    "Locomotion": "fluttering",
+    "SocialStructure": "communal"
+  },
+  "Lumvensyl": {
+    "Diet": "herbivorous",
+    "Habitat": "crystal",
+    "Morphology": "winged",
+    "Locomotion": "floating",
+    "SocialStructure": "solitary"
+  },
+  "Vorjan": {
+    "Diet": "carnivorous",
+    "Habitat": "crystal",
+    "Morphology": "gelatinous",
+    "Locomotion": "crawling",
+    "SocialStructure": "communal"
+  },
+  "Vatul": {
+    "Diet": "phototrophic",
+    "Habitat": "aquatic",
+    "Morphology": "quadrupedal",
+    "Locomotion": "sliding",
+    "SocialStructure": "solitary"
+  },
+  "Miraurzeph": {
+    "Diet": "metallic-eater",
+    "Habitat": "forest",
+    "Morphology": "tentacled",
+    "Locomotion": "bounding",
+    "SocialStructure": "communal"
+  },
+  "Terkorzeph": {
+    "Diet": "herbivorous",
+    "Habitat": "aerial",
+    "Morphology": "feathered",
+    "Locomotion": "sliding",
+    "SocialStructure": "solitary"
+  },
+  "Quizysha": {
+    "Diet": "carnivorous",
+    "Habitat": "desert",
+    "Morphology": "petal-like",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  },
+  "Quizephvar": {
+    "Diet": "metallic-eater",
+    "Habitat": "aquatic",
+    "Morphology": "furry",
+    "Locomotion": "fluttering",
+    "SocialStructure": "communal"
+  },
+  "Sylnar": {
+    "Diet": "phototrophic",
+    "Habitat": "crystal",
+    "Morphology": "quadrupedal",
+    "Locomotion": "crawling",
+    "SocialStructure": "solitary"
+  },
+  "Flolum": {
+    "Diet": "herbivorous",
+    "Habitat": "forest",
+    "Morphology": "metallic",
+    "Locomotion": "floating",
+    "SocialStructure": "communal"
+  },
+  "Frosvadra": {
+    "Diet": "herbivorous",
+    "Habitat": "aerial",
+    "Morphology": "armoured",
+    "Locomotion": "crawling",
+    "SocialStructure": "communal"
+  },
+  "Froscrys": {
+    "Diet": "metallic-eater",
+    "Habitat": "desert",
+    "Morphology": "petal-like",
+    "Locomotion": "swimming",
+    "SocialStructure": "solitary"
+  }
+}

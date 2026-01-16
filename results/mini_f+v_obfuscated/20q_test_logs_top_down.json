@@ -1,0 +1,1987 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Floran",
+      "Pyron",
+      "Crystar",
+      "Frostian",
+      "Aetherian",
+      "Glimmeron",
+      "Zephyrian",
+      "Aquarion"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a unique physical trait classified under Fabofot as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species characterized by a secondary trait under Jogasiv that is classified as \"Qezede\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a special skill or ability classified under Buxuwaf as \"Zaleba\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species characterized by a unique trait under Sedigij as \"Cuzeko\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species associated with a common environmental aspect under Holesoy classified as \"Galewe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species classified as a Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species classified as an Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species classified as a Glimmeron?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species associated with a unique physical trait under Fabofot classified as \"Situji\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species associated with a secondary characteristic under Jogasiv classified as \"Qezede\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species classified as an Aquarion?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species classified as a Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species classified as a Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species classified as a Crystar?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species classified as a Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species classified as a Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species classified as an Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "I guess the species is Aquarion.",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Since all other options are eliminated, is the alien species classified as a Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Since all other options are eliminated, the only candidate left is Pyron. So, I guess the species is Pyron.",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Pyron",
+      "Crystar",
+      "Zephyrian",
+      "Frostian",
+      "Zyloxian",
+      "Terradon",
+      "Aquarion",
+      "Floran"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the candidate alien have a unique physical trait categorized as \"Xazepe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the candidate alien belong to the group defined by the Jogasiv characteristic \"Zudolu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the candidate alien characterized by the special skill or ability \"Dolido\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the candidate alien have the unique attribute categorized as \"Bibeqe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the candidate alien a Zyloxian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Terradon",
+      "Glimmeron",
+      "Zephyrian",
+      "Aetherian",
+      "Zyloxian",
+      "Frostian",
+      "Floran",
+      "Crystar"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the candidate alien have a unique physical trait classified under the Fabofot feature as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the candidate alien belong to the Jogasiv grouping \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the candidate alien part of the Buxuwaf grouping \"Kaneti\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the candidate alien grouped under the Sedigij classification \"Cuzeko\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the candidate alien belong to the Holesoy grouping \"Galewe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the candidate alien the Glimmeron?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the candidate alien the Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the candidate alien the Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the candidate alien the Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the candidate alien the Zephyrian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "I guess the alien species is Zephyrian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 11
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Terradon",
+      "Floran",
+      "Crystar",
+      "Aetherian",
+      "Glimmeron",
+      "Zyloxian",
+      "Frostian",
+      "Pyron"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a physical trait classified under the Fabofot grouping as “Yivabo”?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species possess a secondary characteristic classified under the Jogasiv grouping as “Bavevu”?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a special skill classified under the Buxuwaf grouping as “Zaleba”?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a unique trait classified under the Sedigij grouping as “Sicezi”?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a common environmental aspect classified under the Holesoy grouping as “Galewe”?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have a unique physical trait classified under the Fabofot grouping as “Situji”?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a secondary characteristic classified under the Jogasiv grouping as “Qezede”?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a special skill classified under the Buxuwaf grouping as “Dolido”?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a unique trait classified under the Sedigij grouping as “Cuzeko”?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a common environmental aspect classified under the Holesoy grouping as “Qatiso”?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species belong to the Aetherian group?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species have a special skill classified under the Buxuwaf grouping as “Yitozu”?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species belong to the Floran group?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species belong to the Crystar group?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species belong to the Frostian group?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species belong to the Pyron group?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species belong to the Glimmeron group?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "I guess the alien species is Terradon.",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species belong to the Zyloxian group?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species belong to the Aquarion group?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Floran.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Zephyrian",
+      "Aetherian",
+      "Glimmeron",
+      "Crystar",
+      "Frostian",
+      "Terradon",
+      "Pyron",
+      "Floran"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a unique skill or ability characteristic (Buxuwaf) that is not shared with others?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the unique skill or ability characteristic (Buxuwaf) for this alien species associated with a specific environmental aspect (Holesoy)?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien species have a unique physical trait (Fabofot) that is shared with any other species?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the unique skill or ability characteristic (Buxuwaf) of this alien species more related to manipulation or control of elements?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species primarily associated with a terrestrial or land-based environment (as opposed to aquatic or aerial)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien species possess a secondary behavioral characteristic (Jogasiv) that involves a symbiotic relationship with another species?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species known for its ability to thrive in higher temperatures or heat (like Pyron)?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does this alien species have a unique attribute (Sedigij) that is linked to the manipulation or growth of plant life?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species characterized by a solid or crystalline physical appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does this alien species have an attribute (Holesoy) that indicates a preference for moist or humid environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is this alien species primarily known for its ability to manipulate air or wind currents?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species characterized by a strong connection to rocky or mineral-rich environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species one that is known for its ability to survive and adapt to extreme temperatures, particularly cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is this alien species known for its physical characteristics that resemble terrestrial plant life?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species primarily associated with mountainous or elevated terrains?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is this alien species known for its earthy or rocky coloration?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is this alien species known for its resilience and ability to thrive in harsh, rocky environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species specifically known as a land-dwelling creature with a strong affinity for earth and minerals, typically identified as Terradon?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is this alien species specifically known for having crystalline or gem-like structures integrated into its body?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known for its ability to manipulate or control the terrain it inhabits?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Floran",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Floran",
+      "Zephyrian",
+      "Frostian",
+      "Zyloxian",
+      "Terradon",
+      "Aetherian",
+      "Pyron",
+      "Aquarion"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien's Fabofot characteristic one of the traits grouped under \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's Jogasiv characteristic one of the traits grouped under \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's Buxuwaf characteristic one of the traits grouped under \"Beravi\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's Sedigij characteristic one of the traits grouped under \"Yajahi\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's Holesoy characteristic one of the traits grouped under \"Galewe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species one of the ones that belong to the \"Xazepe\" group?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species Aquarion?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species based on an environmental habitat characteristic primarily related to cold climates?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species Terradon?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species Aquarion?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "I guess Zyloxian.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Zyloxian",
+      "Aquarion",
+      "Frostian",
+      "Aetherian",
+      "Floran",
+      "Pyron",
+      "Crystar",
+      "Terradon"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a unique physical trait categorized under Fabofot as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a secondary characteristic under Jogasiv that is categorized as \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species possess a special skill or ability classified under Buxuwaf as \"Zaleba\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have an environmental aspect categorized under Holesoy as \"Galewe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a unique trait under Sedigij classified as \"Cuzeko\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species belong to the category of either Aetherian or Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species one of the following: Zyloxian, Pyron, or Crystar?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a unique trait under Fabofot categorized as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species Crystar?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Since you confirmed the species is Crystar, I would guess: I guess Crystar.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 12
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Zephyrian",
+      "Crystar",
+      "Floran",
+      "Glimmeron",
+      "Frostian",
+      "Pyron",
+      "Terradon",
+      "Aetherian"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Do the candidate aliens possess the characteristic feature \"Xazepe\" in their Fabofot grouping?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Do any of the candidate aliens belong to the Jogasiv grouping characterized by \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Do any of the candidate aliens have \"Yitozu\" as their Buxuwaf grouping?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is \"Cuzeko\" present in the Sedigij grouping for any of the candidate aliens?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is \"Galewe\" present in the Holesoy grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does one of the candidate aliens belong to the Fabofot grouping \"Situji\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is \"Zudolu\" present in the Jogasiv grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is \"Zaleba\" present in the Buxuwaf grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does one of the candidate aliens belong to the Buxuwaf grouping characterized by \"Kaneti\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is \"Requhu\" present in the Sedigij grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does one of the candidate aliens belong to the Fabofot grouping characterized by \"Yivabo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is \"Jajawe\" present in the Fabofot grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is \"Bavevu\" present in the Jogasiv grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does one of the candidate aliens belong to the Holesoy grouping characterized by \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Is \"Dolido\" present in the Buxuwaf grouping for any of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is \"Frostian\" one of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is \"Zyloxian\" one of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is \"Aetherian\" one of the candidate aliens?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Is \"Glimmeron\" one of the candidate aliens?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is \"Terradon\" one of the candidate aliens?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "I guess Aetherian.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Zyloxian",
+      "Terradon",
+      "Floran",
+      "Crystar",
+      "Pyron",
+      "Aetherian",
+      "Glimmeron",
+      "Frostian"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you are thinking of have the unique physical trait categorized under Fabofot as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species you are thinking of belong to the group that has \"Zudolu\" as their secondary characteristic under Jogasiv?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species you are thinking of categorized under the \"Bibeqe\" group for the unique trait in Sedigij?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species you have in mind have the special skill categorized as \"Zaleba\" under Buxuwaf?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species you are thinking of part of the \"Glitteron\" species?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species you are thinking of either Zyloxian or Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species you are thinking of have \"Bavevu\" as their secondary characteristic under Jogasiv?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species you have in mind part of the \"Cuzeko\" group for the unique trait in Sedigij?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species you are thinking of Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species you are thinking of Glimmeron?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Since we've already identified that the species is Glimmeron, do you want me to summarize its key features or ask another question about the remaining species?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "I apologize for the oversight. Let me ask a new question.\n\nIs the alien species you are thinking of Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species you are thinking of Terradon?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species you are thinking of Crystar?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species you are thinking of belong to the group characterized as Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species you are thinking of Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species you are thinking of Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Since the previous questions have narrowed it down significantly, let me ask this: \n\nIs the alien species you are thinking of Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Since all other options have been eliminated, is the remaining candidate alien species Terradon?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Since you've indicated that the remaining options are Zyloxian, Terradon, Floran, Crystar, Pyron, Aetherian, Glimmeron, and Frostian, I'll refine my question further:\n\nIs the alien species you are thinking of from the group categorized under \"Holesoy\" as Galewe?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Crystar",
+      "Frostian",
+      "Zyloxian",
+      "Pyron",
+      "Aquarion",
+      "Aetherian",
+      "Zephyrian",
+      "Floran"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the candidate alien have a Fabofot characteristic that is classified under \"Yivabo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the candidate alien belong to the group that has a Jogasiv characteristic classified as \"Qaporu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the candidate alien part of the group with a Buxuwaf characteristic classified as \"Dolido\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the candidate alien have a Holesoy characteristic classified as \"Galewe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the candidate alien belong to the group that has a Sedigij characteristic classified as \"Yajahi\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the candidate alien part of the species that has a Buxuwaf characteristic classified as \"Zobulo\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the candidate alien belong to the group with a Fabofot characteristic classified as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the candidate alien part of the species that has a Jogasiv characteristic classified as \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the candidate alien an Aquarion?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the candidate alien a Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the candidate alien a Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the candidate alien a Terradon?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the candidate alien a Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the candidate alien a Crystar?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the candidate alien a Floran?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "I guess the species is Floran.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Floran",
+    "correct": true,
+    "questions_used": 16
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Crystar",
+      "Aetherian",
+      "Terradon",
+      "Glimmeron",
+      "Zyloxian",
+      "Pyron",
+      "Floran",
+      "Frostian"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a unique physical trait classified under \"Yivabo\" in the Fabofot grouping?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien belong to the Jogasiv grouping classified as \"Qaporu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a special skill or ability classified under \"Zaleba\" in the Buxuwaf grouping?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien belong to the Sedigij grouping classified as \"Sicezi\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a common environmental aspect classified under \"Qatiso\" in the Holesoy grouping?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien part of the species classified under \"Zyloxian\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien part of the species classified as \"Aetherian\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien categorized under the Fabofot grouping with a unique trait of \"Situji\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien belong to the Buxuwaf grouping classified as \"Yitozu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien part of the species classified as \"Aetherian\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien characterized by the Jogasiv grouping classified as \"Jufupo\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien classified under the Sedigij grouping as \"Cuzeko\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien categorized under the Holesoy grouping as \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "I guess the species is **Aetherian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 14
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Glimmeron",
+      "Crystar",
+      "Zephyrian",
+      "Terradon",
+      "Aetherian",
+      "Frostian",
+      "Zyloxian",
+      "Aquarion"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the current candidate alien have the Fabofot characteristic \"Situji\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the current candidate alien belong to the Holesoy grouping \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the current candidate alien have the Jogasiv characteristic \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the current candidate alien have the Buxuwaf characteristic \"Zaleba\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the current candidate alien belong to the Fabofot grouping \"Yivabo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the current candidate alien belong to the Jogasiv grouping \"Jufupo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the current candidate alien belong to the Buxuwaf grouping \"Yitozu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the current candidate alien belong to the Sedigij grouping \"Sicezi\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the current candidate alien belong to the Holesoy grouping \"Galewe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the current candidate alien belong to the Holesoy grouping \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the current candidate alien have the Jogasiv characteristic \"Qaporu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Does the current candidate alien belong to the Buxuwaf grouping \"Kaneti\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the current candidate alien belong to the Fabofot grouping \"Situji\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the current candidate alien belong to the Sedigij grouping \"Requhu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Does the current candidate alien have the characteristic Buxuwaf \"Juzoqo\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the current candidate alien the Frostian species?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "I guess the alien species is Frostian!",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": true,
+    "questions_used": 17
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Aquarion",
+      "Zephyrian",
+      "Zyloxian",
+      "Pyron",
+      "Frostian",
+      "Glimmeron",
+      "Terradon",
+      "Floran"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a common environmental aspect related to water or aquatic habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a unique physical trait categorized as \"Xazepe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a secondary characteristic related to behavior or habitat categorized as \"Zudolu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species possess a special skill or ability categorized as \"Dolido\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species categorized under the unique attribute \"Bibeqe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species one of the following: Zyloxian or Pyron?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species Pyron?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Since I have already identified the species as Pyron, I do not have any further questions.  I can confirm that the alien species is **Pyron**!",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Aetherian",
+      "Glimmeron",
+      "Crystar",
+      "Zyloxian",
+      "Zephyrian",
+      "Floran",
+      "Terradon",
+      "Pyron"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a unique physical trait categorized under Fabofot as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien belong to the group categorized under Jogasiv as \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien part of the group categorized under Buxuwaf as \"Zobulo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a special skill categorized under Buxuwaf as \"Yitozu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien part of the group categorized under Holesoy as \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species one of the following: Aetherian, Glimmeron, or Terradon?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species Glimmeron?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species Terradon?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species Floran?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species Crystar?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species Glimmeron?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Since we've already eliminated Aetherian, Glimmeron, Crystar, Zyloxian, Zephyrian, Floran, Terradon, and Pyron, it seems there's an error in the information provided. Based on the previous answers, it indicates that the alien cannot be any of the listed species. \n\nCould you please confirm if there might be any mistake in the options or if we should re-evaluate the process?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Since all other options have been ruled out, I should guess the remaining species. I guess the alien species is **Floran**.",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Frostian",
+      "Aetherian",
+      "Terradon",
+      "Aquarion",
+      "Glimmeron",
+      "Crystar",
+      "Floran",
+      "Zephyrian"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a unique physical trait (Fabofot) classified under \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien possess a behavioral or habitat-related characteristic (Jogasiv) classified under \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species classified under \"Jufupo\" for its behavioral or habitat-related characteristic (Jogasiv)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a special skill or ability (Buxuwaf) classified under \"Yitozu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien classified under \"Cuzeko\" for its unique attribute (Sedigij)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species one of the following: Aetherian or Zephyrian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Since we've already identified that the alien is Zephyrian, I will summarize the information. \n\nI guess the alien species is Zephyrian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Glimmeron",
+      "Frostian",
+      "Zyloxian",
+      "Zephyrian",
+      "Pyron",
+      "Crystar",
+      "Terradon",
+      "Floran"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the candidate alien have the physical trait categorized under “Fabofot” as “Xazepe”?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the candidate alien have a secondary characteristic categorized under “Jogasiv” as “Qezede”?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the candidate alien possess the special skill categorized under “Buxuwaf” as “Zaleba”?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the candidate alien have the unique attribute categorized under “Sedigij” as “Cuzeko”?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the candidate alien also characterized by the common environmental aspect categorized under “Holesoy” as “Galewe”?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the candidate alien belong to the species “Glimmeron”?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess Glimmeron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Zephyrian",
+      "Aquarion",
+      "Frostian",
+      "Terradon",
+      "Glimmeron",
+      "Floran",
+      "Aetherian",
+      "Crystar"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the candidate alien have a unique physical trait classified under the Fabofot feature as \"Situji\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the candidate alien belong to the Jogasiv grouping \"Bavevu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the candidate alien have a special skill or ability classified under the Buxuwaf feature as \"Zaleba\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the candidate alien possess a unique trait classified under the Sedigij feature as \"Sicezi\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the candidate alien belong to the Holesoy grouping \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the candidate alien characterized by the secondary characteristic in the Jogasiv feature as \"Qaporu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the candidate alien have a unique physical trait classified under the Fabofot feature as \"Yivabo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the candidate alien belong to the Buxuwaf grouping \"Rexoyu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the candidate alien possess the secondary characteristic in the Jogasiv feature as \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the candidate alien the Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the candidate alien have a common environmental aspect within the Holesoy feature classified as \"Galewe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the candidate alien belong to the Jogasiv grouping \"Jufupo\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Does the candidate alien possess a special skill or ability classified under the Buxuwaf feature as \"Yitozu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the candidate alien the Aetherian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Does the candidate alien possess a unique physical trait classified under the Fabofot feature as \"Situji\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Does the candidate alien have a special skill or ability classified under the Buxuwaf feature as \"Yafiku\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the candidate alien characterized by the secondary characteristic in the Jogasiv feature as \"Qaporu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Does the candidate alien belong to the Holesoy grouping \"Galewe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the candidate alien the Crystar?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Does the candidate alien have the unique trait classified under the Fabofot feature as \"Jajawe\"?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Aquarion",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Aquarion",
+      "Zephyrian",
+      "Frostian",
+      "Aetherian",
+      "Pyron",
+      "Glimmeron",
+      "Terradon",
+      "Zyloxian"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a characteristic related to water or aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species associated with a hot or fiery environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species known for having a unique physical trait related to heat or fire?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species possess a unique skill or ability associated with heat or fire?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species associated with a rocky or terrestrial environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species Terradon?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species associated with ice or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a unique physical trait that is ethereal or has a glowing quality?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species known for having abilities connected to manipulation of elements or weather?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species associated with a community or environment that thrives in lush or green surroundings?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species connected with a gas or air-based environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species Aetherian?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species Frostian?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species Glimmeron?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species Aquarion?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species Zyloxian?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "I guess the alien species is Pyron.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Pyron",
+      "Crystar",
+      "Terradon",
+      "Frostian",
+      "Glimmeron",
+      "Zyloxian",
+      "Zephyrian",
+      "Floran"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have the Fabofot characteristic of \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have the Jogasiv characteristic of \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien belong to the Buxuwaf grouping associated with \"Zaleba\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have the Sedigij characteristic of \"Requhu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have the Holesoy characteristic associated with \"Qatiso\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have the Jogasiv characteristic of \"Jufupo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien belong to the Buxuwaf grouping associated with \"Dolido\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien have the Fabofot characteristic associated with \"Situji\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien belong to the Buxuwaf grouping associated with \"Yafiku\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien have the Sedigij characteristic of \"Sicezi\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien belong to the Jogasiv grouping associated with \"Bavevu\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien Zyloxian?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien belong to the Fabofot grouping associated with \"Yivabo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien belong to the Fabofot grouping associated with \"Jajawe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien Terradon?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien Pyron?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien belong to the Buxuwaf grouping associated with \"Kaneti\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien belong to the Jogasiv grouping associated with \"Qaporu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien belong to the Holesoy grouping associated with \"Galewe\"?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Zephyrian",
+      "Frostian",
+      "Floran",
+      "Glimmeron",
+      "Terradon",
+      "Aetherian",
+      "Zyloxian",
+      "Crystar"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the species have a unique physical trait categorized under Fabofot as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the species have a secondary characteristic categorized under Jogasiv as \"Qezede\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the species have a special skill categorized under Buxuwaf as \"Zaleba\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the species belong to the Sedigij grouping with the unique attribute \"Cuzeko\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the species also belong to the Holesoy grouping with the environmental aspect categorized as \"Galewe\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the species have a secondary characteristic categorized under Jogasiv as \"Jufupo\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the species have a unique physical trait categorized under Fabofot as \"Situji\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the species also part of the Buxuwaf grouping with the skill categorized as \"Yitozu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the species belong to the Holesoy grouping with the environmental aspect categorized as \"Qatiso\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the species have a secondary characteristic categorized under Jogasiv as \"Bavevu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the species categorized under the Buxuwaf grouping with the skill classified as \"Kaneti\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the species associated with the Sedigij grouping with the unique attribute \"Requhu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the species belong to the Fabofot grouping with the unique physical trait classified as \"Yivabo\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the species belong to the Buxuwaf grouping with the skill categorized as \"Yafiku\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the species have a unique physical trait categorized under Fabofot as \"Xazepe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the species categorized under the Jogasiv grouping with the characteristic \"Qaporu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the species part of the Fabofot grouping with the unique trait categorized as \"Jajawe\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the species categorized under the Holesoy grouping with the environmental aspect classified as \"Qatiso\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the species belong to the Jogasiv grouping with the characteristic \"Zudolu\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the species classified under the Buxuwaf grouping with the skill \"Beravi\"?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 20
+  }
+]

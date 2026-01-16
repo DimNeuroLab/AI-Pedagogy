@@ -1,0 +1,2137 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Pyron",
+      "Floran",
+      "Crystar",
+      "Aetherian",
+      "Glimmeron",
+      "Frostian",
+      "Zephyrian",
+      "Aquarion"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien you are thinking of have the ability to manipulate fire or heat as one of its features?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien you are thinking of have a strong connection to plant life or the ability to thrive in a plant-rich environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien you are thinking of primarily inhabit a forested or lush environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien you are thinking of have the ability to communicate through bioluminescence or glowing patterns?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien you are thinking of have characteristics associated with ice or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien you are thinking of known for having crystalline or gem-like features?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien you are thinking of have an affinity for water or aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien you are thinking of associated with wind or air-based abilities?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien you are thinking of have a connection to light or luminosity without being bioluminescent?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien you are thinking of primarily a plant-based species?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien you are thinking of have features that allow it to adapt to different environmental conditions, such as changing colors or textures?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien you are thinking of the \"Floran\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien you are thinking of known for having abilities related to growth and regeneration?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien you are thinking of have the ability to communicate with other life forms through pheromones or other chemical signals?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien you are thinking of characterized by its ability to use plant-like structures for offensive or defensive capabilities, such as thorns or toxins?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien you are thinking of thrive in a densely wooded or jungle-like environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien you are thinking of known for its adaptability and ability to camouflage itself within its environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien you are thinking of the \"Floran\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien you are thinking of capable of photosynthesis?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien you are thinking of able to produce its own energy primarily through sunlight?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Floran",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Zephyrian",
+      "Glimmeron",
+      "Zyloxian",
+      "Crystar",
+      "Aquarion",
+      "Aetherian",
+      "Floran",
+      "Terradon"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a feature that includes bioluminescence?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily thrive in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have the ability to manipulate or control the weather?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a plant-like appearance or characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species primarily inhabit terrestrial environments with mountainous or rocky terrain?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species possess crystalline structures or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a capacity for flight or aerial abilities?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for having a strong, sturdy build and high resilience to physical stress?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species primarily known for its connection to rocky or mountainous ecosystems in terms of resource extraction or habitat use?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a relationship with the earth or soil, potentially involving burrowing or mining activities?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "I guess the species is **Terradon**.",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species exhibit traits related to adaptability in harsh or extreme environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have unique abilities related to energy absorption or manipulation?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species characterized by a physiology that allows it to withstand extreme temperatures?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have a distinctive feature such as armor or tough exoskeleton?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known primarily for its resilience and adaptability in both rocky and extreme environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "I guess the species is **Zyloxian**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species have features that allow it to thrive in airborne or gaseous environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species exhibit traits related to plant-like characteristics or photosynthesis?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species possess traits that allow it to manipulate or harness elemental energy, such as fire or water?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Terradon",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Pyron",
+      "Zephyrian",
+      "Crystar",
+      "Aetherian",
+      "Aquarion",
+      "Glimmeron",
+      "Terradon",
+      "Floran"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a physical feature that allows it to manipulate or generate fire?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have features that are predominantly aquatic or water-based?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien possess crystalline or glass-like features?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien primarily inhabit a mountainous or rocky environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien known for its ability to manipulate air or has wind-related features?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien characterized by strong, plant-like features or is it primarily composed of vegetation?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien known for its ability to emit light or has luminescent characteristics?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien primarily associated with being ethereal or having a gaseous form?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for its crystalline structure and primarily exists in a rocky environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien primarily associated with the energy or manipulation of light rather than solid structures?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien's habitat generally include lush vegetation or thriving plant life?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien primarily known for its unique crystalline forms and is it considered the \"Crystar\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species typically exhibit features related to a fiery nature or the manipulation of flame?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien known for its ability to thrive in high-altitude or aerial environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species typically have features related to a rocky or earthy environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species associated with being resilient or hardy in terrestrial environments, particularly known for its rocky adaptation?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species primarily characterized by its strong connection to minerals or rock formations?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species known for having a crystalline structure that reflects light in various colors, making it visually striking?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species known for its ability to thrive in a mountainous environment and is it considered the \"Glimmeron\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known for its association with rocky terrain and is it considered the \"Terradon\"?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Crystar",
+      "Glimmeron",
+      "Aetherian",
+      "Pyron",
+      "Frostian",
+      "Floran",
+      "Zephyrian",
+      "Aquarion"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a crystal-like appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have properties or abilities related to water or aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species associated with fire or heat-related abilities?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have abilities or characteristics related to air or wind?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for having a light or shimmering appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species specifically known for its ethereal or translucent qualities?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess the species is **Glimmeron**.",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a strong connection to elemental ice or cold characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species characterized by plant-like features or has a close connection to vegetation?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species known for having a connection to the element of light or energy?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "I guess the species is **Aetherian**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "It seems that we have already established that the species is **Aetherian**. Would you like to continue with a different topic or discussion?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have characteristics associated with high energy or illumination, such as glowing or emitting light?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species specifically tied to the element of the wind or air?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "I guess the species is **Zephyrian**.",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species associated with energy and light but does not have physical characteristics resembling plants?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species have attributes related to crystals or crystalline structures?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species characterized by glowing or shimmering features that might suggest a connection to a specific source of light, such as stars or celestial bodies?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have a primary characteristic of being ethereal or otherworldly in nature, associated with the cosmos or space?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "I guess the species is **Glimmeron**.",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Terradon",
+      "Aquarion",
+      "Zephyrian",
+      "Frostian",
+      "Glimmeron",
+      "Floran",
+      "Zyloxian",
+      "Pyron"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have water-related features, such as traits suited for aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have features that are primarily adapted for terrestrial or land-based environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien possess traits that indicate it is capable of flight or has wing-like features?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have traits that indicate it thrives in cold or icy environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have notable plant-like features or traits associated with vegetation?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have features that indicate it is adapted to high temperatures or hot environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien have any characteristics that indicate it is capable of producing light or has bioluminescent traits?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species primarily known for its strong adaptations related to rock or mountainous environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species characterized by its ability to camouflage or blend into its environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species known for having a crystalline or gem-like appearance or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species primarily associated with vibrant colors or fascinating light displays?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known to have features that allow it to thrive in a forested or vegetative environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for its ability to manipulate or control elemental forces, such as air or fire?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have a strong connection to geological features, such as caves or underground environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species characterized by having a smooth or streamlined body shape rather than a bulky or rough appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species possess features that indicate it is agile or quick-moving?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species known for having a primarily reptilian or scaled appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species recognized for its vibrant or unusual coloration?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have any notable sensory adaptations, such as enhanced vision or hearing?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species have features that indicate it is primarily nocturnal or adapted for low-light conditions?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Frostian",
+      "Terradon",
+      "Aquarion",
+      "Aetherian",
+      "Glimmeron",
+      "Floran",
+      "Pyron",
+      "Crystar"
+    ],
+    "target": "Aquarion",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a feature that allows it to thrive in aquatic environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have the ability to manipulate or control water?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a bioluminescent feature?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have characteristics associated with plant life?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien capable of surviving in extreme cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien possess the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien have a crystalline structure or feature?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for its ability to withstand high temperatures or extreme heat?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien primarily amphibious, thriving both in water and on land?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien primarily recognized for its ability to generate or emit light?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien characterized by having a non-aquatic, terrestrial habitat preference?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien have a feature that allows it to manipulate air or wind?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien primarily known for its adaptability to various climatic conditions?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien known for having a distinct geological or mineral-based appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien primarily characterized by its ethereal or gaseous form?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien adapted to thrive in environments that are predominantly warm and dry?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien known for its ability to produce or manipulate ice?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien primarily recognized for its crystalline structures or patterns?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien capable of thriving in both freshwater and saltwater environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien known for its ability to camouflage or blend into its environment?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Aquarion",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Frostian",
+      "Aquarion",
+      "Pyron",
+      "Glimmeron",
+      "Terradon",
+      "Crystar",
+      "Zyloxian",
+      "Zephyrian"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a feature that allows it to thrive in cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien possess any aquatic features or is it primarily adapted to living in water?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have the ability to manipulate or control fire?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have plant-like features or characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have crystalline or gem-like features?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for its ability to emit light or exhibit bioluminescence?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien primarily known for its ability to manipulate air or wind?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known as the \"Zephyrian\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Do the aliens have the ability to withstand extremely cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien have aquatic features or characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien known for its ability to manipulate or generate heat?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien possess a connection to geological features, such as earth or rock?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien characterized by its shiny, reflective surface or appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien known for its crystalline or gemstone-like structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien known as the \"Crystar\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien known for its vibrant colors and luminescence, particularly in a glittering or sparkling manner?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien known as the \"Glimmeron\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien known for its ability to float or navigate through the air with lightness and grace?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien known as the \"Zephyrian\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien have any frost or ice-related features?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Crystar",
+      "Floran",
+      "Zephyrian",
+      "Terradon",
+      "Glimmeron",
+      "Zyloxian",
+      "Pyron",
+      "Frostian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a crystalline structure or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily plant-like in appearance or composition?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have control over elemental fire or heat?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien associated with air or wind manipulation?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have frost or ice-related features?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien a creature that has avian or bird-like characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien possess features characteristic of a rocky or durable, earth-like body?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien specifically known for its affinity to soil or being grounded, potentially indicating it is a terrestrial being?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien known to have a connection to agriculture or plant life, functioning in a way that supports ecosystems?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "I guess Floran.",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien have a rocky appearance combined with the ability to manipulate earth or stone?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "I guess Terradon.",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien known for its crystalline structures or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien have features that indicate it has a gaseous or ethereal form?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien primarily composed of organic material rather than mineral or rock-like structures?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien characterized by having a plant-like appearance, such as leaves or vines?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien possess features that suggest it can manipulate or control water or moisture?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien known for having a connection to ice or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien have features that suggest it is capable of flight or gliding?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien known for its ability to manipulate or create energy?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zyloxian.",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Terradon",
+      "Glimmeron",
+      "Aquarion",
+      "Frostian",
+      "Floran",
+      "Aetherian",
+      "Zyloxian",
+      "Crystar"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have the ability to thrive in aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a strong affinity for cold environments or ice?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species capable of flight or has features adapted for aerial mobility?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species possess crystalline or gem-like features?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have plant-like characteristics or features?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species known for its shimmering or luminescent features?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species primarily found in a gaseous or aerial environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known as \"Aetherian\"?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a strong connection to light or energy manipulation?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species capable of producing energy or light through bioluminescence?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species capable of manipulating energy in other ways, such as absorbing and redirecting it?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for having a radiant or colorful appearance due to its energy manipulation abilities?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species characterized by its shimmering or glistening surface that reflects light?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known as \"Glimmeron\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have a crystalline or glass-like structure to its form?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known for having a flowing, ethereal appearance that resembles clouds or mist?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species known as \"Aetherian\"?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species have a connection to the element of air or atmosphere?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species known for its ability to manipulate winds or currents in the atmosphere?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species typically associated with light, perhaps having luminous or glowing features?",
+        "answer": "Yes."
+      }
+    ],
+    "final_guess": "Aetherian.",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Aquarion",
+      "Crystar",
+      "Floran",
+      "Pyron",
+      "Frostian",
+      "Zyloxian",
+      "Glimmeron",
+      "Terradon"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have aquatic features, suggesting it is adapted to living in water?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have plant-like characteristics or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have any crystallized or gem-like features?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily associated with crystalline structures and has an affinity for ice or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien exhibit features associated with light or glowing properties?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for its ability to produce bioluminescent effects or displays?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien primarily characterized by its crystalline structures and is it known for its luminescent properties?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known as \"Glimmeron\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have any fiery or heat-related characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien associated with icy or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species thrive in a terrestrial or land-based environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for having features resembling plants or vegetation, despite being land-based?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have crystalline features that are prominent and reflective?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known as \"Crystar\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have the ability to reflect light in a way that enhances its luminescent properties?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known as \"Zyloxian\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species possess features that are primarily fiery or hot in nature?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species known as \"Glimmeron\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species possess features that are primarily associated with earth or rocky environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known as \"Terradon\"?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Crystar",
+      "Zyloxian",
+      "Terradon",
+      "Aetherian",
+      "Pyron",
+      "Aquarion",
+      "Zephyrian",
+      "Floran"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a crystalline or gem-like appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily an aquatic species?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have features that are primarily associated with plants or a plant-like appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species known for having traits that allow it to thrive in a forested or heavily vegetated environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien characterized by having a mobile form that allows it to move with agility through its environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have the ability to manipulate or control plant life around it?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species specifically known for being able to photosynthesize?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "I guess the species is **Floran**.",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have features that are more ethereal or airy, suggesting a connection to the wind or air?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "I guess the species is **Aetherian**.",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien have features that suggest it is adapted to living in mountainous or high-altitude environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien known for having fiery or volcanic aspects, potentially indicating a connection to heat or flame?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for having aquatic or water-related characteristics, such as the ability to thrive in wet environments or resemble aquatic life?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien have a strong connection to the earth or soil, such as features that suggest it thrives in or is related to terrestrial landscapes?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien characterized by having a strong affinity with the air or wind, potentially allowing it to manipulate or move gracefully through both?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "I guess the species is **Zephyrian**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "It seems I have successfully identified the **Zephyrian** species! Would you like to continue with another alien species or explore a different topic?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien known for having a body made of or resembling crystalline structures?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien have the ability to manipulate or thrive in volcanic or extremely hot environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien more adapted to a terrestrial environment, such as forests or plains, rather than aquatic or celestial environments?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Terradon",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Zephyrian",
+      "Floran",
+      "Frostian",
+      "Zyloxian",
+      "Glimmeron",
+      "Pyron",
+      "Aetherian",
+      "Crystar"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien possess a plant-like characteristic?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a physical characteristic associated with ice or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien exhibit characteristics related to fire or heat?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a crystalline or reflective feature?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien predominantly associated with light or luminosity?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien primarily known for its ability to manipulate or harness energy?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species most closely associated with the Aetherian?",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Crystar",
+      "Glimmeron",
+      "Pyron",
+      "Frostian",
+      "Terradon",
+      "Aetherian",
+      "Floran",
+      "Zyloxian"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have crystalline features?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a bioluminescent ability?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien typically associated with a warm or hot environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien possess traits that are typically associated with cold environments, such as frost or ice?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily a plant-based species?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have the ability to manipulate or control ice or snow in some way?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess Frostian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Frostian.",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Glimmeron",
+      "Aetherian",
+      "Aquarion",
+      "Pyron",
+      "Frostian",
+      "Zyloxian",
+      "Zephyrian",
+      "Terradon"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have bioluminescent features?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily associated with aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien possess any features related to extreme heat or fire?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have adaptations related to cold environments or ice?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for having strong aerial or wind-related abilities?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have any plant-like characteristics or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien known for its ability to manipulate or control the earth or land itself?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien have any metallic or crystalline features?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species characterized by having a unique visual or auditory communication method?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien use light-based communication as a primary method of interaction?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien use sound-based communication as a primary method of interaction?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for living in aerial or high-altitude environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien primarily inhabit terrestrial environments, such as forests or plains?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species characterized by having a robust or large physical build?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien possess features that are lightweight or streamlined for agile movement?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known for having vibrant or colorful markings or patterns on its body?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species known for being particularly harmonious or symbiotic with its environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "I guess the species is Zephyrian.",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species particularly known for its ability to adapt quickly to different environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known for having a connection to wind or air currents in its habitat?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "I guess the species is Zyloxian.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Zephyrian",
+      "Zyloxian",
+      "Terradon",
+      "Floran",
+      "Frostian",
+      "Glimmeron",
+      "Crystar",
+      "Aetherian"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have the ability to manipulate or control natural elements, such as wind or water?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily associated with an aerial environment or the atmosphere?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a physical form that resembles or consists of gaseous or cloud-like elements?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien primarily feed on energy or atmospheric elements rather than solid food sources?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien known for having luminescent or glowing features?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien possess the ability to change its shape or form?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species known for its ability to influence weather patterns or atmospheric conditions?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "I guess the species is **Zephyrian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 8
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Frostian",
+      "Crystar",
+      "Terradon",
+      "Floran",
+      "Glimmeron",
+      "Aquarion",
+      "Aetherian",
+      "Zyloxian"
+    ],
+    "target": "Aquarion",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have characteristics associated with ice or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien primarily inhabit aquatic environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have features that allow it to manipulate or control water?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien known for its bioluminescent features?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a crystalline structure or appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species known for its ability to thrive in both freshwater and saltwater environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien have plant-like characteristics, such as photosynthetic features?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for its adaptability to various environmental conditions outside of water, such as in atmospheric environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien known for having a streamlined body shape suited for efficient swimming?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "I guess Aquarion.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aquarion.",
+    "correct": true,
+    "questions_used": 10
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Crystar",
+      "Zephyrian",
+      "Terradon",
+      "Pyron",
+      "Glimmeron",
+      "Aetherian",
+      "Floran",
+      "Aquarion"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you have in mind possess an elemental feature related to water?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species you have in mind have the ability to control or manipulate air or wind?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species you have in mind primarily associated with natural environments like forests or flora?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species you have in mind characterized by crystalline or gem-like features?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species you have in mind associated with fire or heat?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species you have in mind known for its floating or aerial capabilities?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species you have in mind primarily possess ethereal or shimmering appearances?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "I guess the species is **Glimmeron**.",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species you have in mind known for being highly adaptable to different environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species you have in mind associated with the air or sky, particularly having a connection to the elements of wind or storms?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "I guess the species is **Zephyrian**.",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species you have in mind known for having a connection to ethereal light or glowing features?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "I guess the species is **Aetherian**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "I guess the species is **Aetherian**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Since you've already confirmed that the species is **Aetherian**, there are no further possibilities to narrow down. Would you like to discuss characteristics or traits of the Aetherian, or explore another alien?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species you have in mind known for possessing features that resemble plants or foliage?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species you have in mind have a connection to minerals or geological elements?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species you have in mind primarily associated with heat or fire-related features?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species you have in mind possess the ability to thrive in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species you have in mind capable of flight or gliding?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "I guess the species is **Zephyrian**.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Floran",
+      "Aquarion",
+      "Aetherian",
+      "Zyloxian",
+      "Crystar",
+      "Frostian",
+      "Zephyrian",
+      "Glimmeron"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have the ability to manipulate or control water in its environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a crystalline structure or appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien exhibit plant-like characteristics or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have the ability to produce light or exhibit bioluminescence?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily associated with a cold or icy environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for its ability to manipulate wind or air currents?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species primarily known for its ethereal or airy appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for having a connection to the sky or atmospheric phenomena?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species the Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a connection to light or luminosity in a prominent way, aside from bioluminescence?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species known for its shimmering or sparkling appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species the Glimmeron?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species the Aetherian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have a distinctive connection to the elements, such as air or light, as a core aspect of its identity?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species associated with the concept of freedom or movement within the atmosphere?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species the Zephyrian?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species embody traits that represent ethereal beauty or grace?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species the Aetherian?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "I guess the alien species is the Aetherian!",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 19
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Aquarion",
+      "Floran",
+      "Terradon",
+      "Zyloxian",
+      "Aetherian",
+      "Frostian",
+      "Zephyrian",
+      "Crystar"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have aquatic features or adaptations?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have plant-like characteristics?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a strong affiliation with cold climates or ice?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien characterized by crystalline or transparent features?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have the ability to manipulate or generate ice or frost?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien primarily known for its adaptability to mountainous or elevated terrains?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien possess any biological features that allow it to thrive in icy environments, such as fur or thick skin?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for having a humanoid or bipedal form?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a uniquely designed body that resembles a cold-adapted creature, such as a large animal or a creature with multiple limbs?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species you are thinking of specifically characterized as the \"Frostian\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Let's clarify the remaining options. Is the alien species known for having features that enable adaptation to airborne environments, such as wings or aerial abilities?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien have an affinity for mountains or rocky terrains?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species characterized as \"Terradon\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien known for having transparent or luminescent features?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien have features that allow it to produce or manipulate energy, such as glowing or bioluminescence?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien predominantly known for being a creature that thrives in cold, mountainous regions rather than one that is particularly large or impressive?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species you're thinking of characterized as \"Frostian\"?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien primarily inhabit aquatic environments or have features suited for living in water?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien known for having features that facilitate climbing or navigating rocky terrains?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien characterized as \"Zephyrian\"?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Zephyrian",
+      "Aquarion",
+      "Frostian",
+      "Glimmeron",
+      "Aetherian",
+      "Floran",
+      "Terradon",
+      "Zyloxian"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a feature related to flight or aerial capabilities?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a feature related to water or aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have characteristics associated with plant-like features or a connection to nature?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily characterized by its ability to thrive in forested or terrestrial environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have characteristics associated with being able to manipulate or control elements, like earth or nature?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for having a significant connection to flora, such as being able to grow or control plants?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien specifically known as a plant-based entity or characterized as a plant-like species?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species primarily associated with the name \"Floran\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien associated with an ability to thrive in a high-altitude or windy environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien characterized by a strong affinity for controlling or manipulating natural elements, particularly related to earth or soil?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien primarily associated with rocky or mountainous environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for its connection to fertile, lush environments, such as forests or plains?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for its ability to manipulate plant life or promote growth in lush environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known specifically as \"Aetherian\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species known as \"Glimmeron\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known as \"Floran\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species known as \"Terradon\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species known as \"Zyloxian\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species known as \"Frostian\"?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known as \"Aquarion\"?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 20
+  }
+]

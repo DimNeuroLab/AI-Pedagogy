@@ -1,0 +1,362 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedigij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedgij": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedgij": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedgij": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Pyron": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Qatiso"
+    },
+    "Zephyrian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Beravi",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Galewe"
+    },
+    "Frostian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Juzoqo",
+      "Sedgij": "Requhu",
+      "Holesoy": "Qatiso"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedgij": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedgij": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedgij": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedgij": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Pyron": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Qatiso"
+    },
+    "Zephyrian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Beravi",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Galewe"
+    },
+    "Frostian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Juzoqo",
+      "Sedgij": "Requhu",
+      "Holesoy": "Qatiso"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedgij": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedgij": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedgij": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedgij": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Pyron": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Qatiso"
+    },
+    "Zephyrian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Beravi",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Galewe"
+    },
+    "Frostian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Juzoqo",
+      "Sedgij": "Requhu",
+      "Holesoy": "Qatiso"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedgij": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedgij": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedgij": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedgij": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Pyron": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Qatiso"
+    },
+    "Zephyrian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Beravi",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Galewe"
+    },
+    "Frostian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Juzoqo",
+      "Sedgij": "Requhu",
+      "Holesoy": "Qatiso"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedgij": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Galewe"
+    },
+    "Glimmeron": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Zaleba",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Crystar": {
+      "Fabofot": "Yivabo",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Kaneti",
+      "Sedgij": "Requhu",
+      "Holesoy": "Galewe"
+    },
+    "Aetherian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Yitozu",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Qatiso"
+    },
+    "Terradon": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Rexoyu",
+      "Sedgij": "Sicezi",
+      "Holesoy": "Qatiso"
+    },
+    "Aquarion": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Qezede",
+      "Buxuwaf": "Yafiku",
+      "Sedgij": "Woqufe",
+      "Holesoy": "Galewe"
+    },
+    "Pyron": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Zudolu",
+      "Buxuwaf": "Dolido",
+      "Sedgij": "Bibeqe",
+      "Holesoy": "Qatiso"
+    },
+    "Zephyrian": {
+      "Fabofot": "Situji",
+      "Jogasiv": "Jufupo",
+      "Buxuwaf": "Beravi",
+      "Sedgij": "Cuzeko",
+      "Holesoy": "Galewe"
+    },
+    "Frostian": {
+      "Fabofot": "Xazepe",
+      "Jogasiv": "Qaporu",
+      "Buxuwaf": "Juzoqo",
+      "Sedgij": "Requhu",
+      "Holesoy": "Qatiso"
+    },
+    "Floran": {
+      "Fabofot": "Jajawe",
+      "Jogasiv": "Bavevu",
+      "Buxuwaf": "Zobulo",
+      "Sedgij": "Yajahi",
+      "Holesoy": "Galewe"
+    }
+  }
+}

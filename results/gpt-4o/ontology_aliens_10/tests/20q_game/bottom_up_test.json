@@ -1,0 +1,1032 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Zyloxian",
+      "Zephyrian",
+      "Aetherian",
+      "Terradon",
+      "Floran",
+      "Crystar",
+      "Pyron",
+      "Aquarion"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien rely on a plant-based diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's mode of movement related to flying or drifting?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien prefer to exist in a solitary environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien inhabit a crystalline environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien inhabit an arid region?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian.",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Crystar",
+      "Aquarion",
+      "Zyloxian",
+      "Pyron",
+      "Glimmeron",
+      "Floran",
+      "Zephyrian",
+      "Frostian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien rely on light for nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien have a diet that includes metal substances?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien inhabit a water-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien consume plant matter as part of its diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien reside in arid regions?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien prefer a solitary existence?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Aetherian",
+      "Zephyrian",
+      "Aquarion",
+      "Frostian",
+      "Crystar",
+      "Floran",
+      "Terradon",
+      "Glimmeron"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien inhabit a forest environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien rely on light for nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien consume metal substances?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien prefer to exist alone rather than in groups?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Crystar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Crystar.",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Zyloxian",
+      "Aetherian",
+      "Frostian",
+      "Zephyrian",
+      "Floran",
+      "Crystar",
+      "Aquarion",
+      "Terradon"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien rely on light for its nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter for its diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit a crystalline landscape?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien prefer solitude over living in groups?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Crystar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Pyron",
+      "Frostian",
+      "Aetherian",
+      "Crystar",
+      "Floran",
+      "Aquarion",
+      "Zephyrian",
+      "Glimmeron"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien rely on light for nourishment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit crystalline landscapes?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's environment water-based?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien possess wings for movement?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien inhabit arid regions?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien consume meat-based sustenance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien prefer living in solitude?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "I guess Pyron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Floran",
+      "Aetherian",
+      "Glimmeron",
+      "Crystar",
+      "Pyron",
+      "Terradon",
+      "Aquarion",
+      "Zyloxian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien depend on light for its sustenance?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien consume plant matter as part of its diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien inhabit a water-based environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien inhabit crystalline landscapes?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien inclined to live in solitude rather than in groups?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess Crystar.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Floran",
+      "Frostian",
+      "Glimmeron",
+      "Crystar",
+      "Terradon",
+      "Zyloxian",
+      "Pyron",
+      "Aetherian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien consume a plant-based diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien rely on light for nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien consume metal substances?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien inhabit arid regions?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien prefer to exist alone rather than in a community?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian.",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Crystar",
+      "Aetherian",
+      "Glimmeron",
+      "Floran",
+      "Zyloxian",
+      "Terradon",
+      "Frostian",
+      "Zephyrian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien rely on phototrophy for nourishment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter as its primary diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit crystalline landscapes?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien reside in arid regions?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien prefer to exist alone rather than in groups?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Terradon",
+      "Crystar",
+      "Aetherian",
+      "Frostian",
+      "Aquarion",
+      "Zephyrian",
+      "Zyloxian",
+      "Pyron"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily reside in a water-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter as its primary diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien rely on phototrophy (light) for nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien reside in a crystalline landscape?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien prefer to exist alone rather than in groups?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Crystar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Glimmeron",
+      "Zephyrian",
+      "Pyron",
+      "Crystar",
+      "Floran",
+      "Frostian",
+      "Aetherian",
+      "Terradon"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien in question rely on light for nourishment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's primary habitat located in a water-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have the ability to fly?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a reflective or hard exterior?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien thrive in a social setting as part of a group or community?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien's movement involve a sliding motion?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien reside in forested environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien's environment characterized by cold, icy conditions?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "I guess Zephyrian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Zyloxian",
+      "Terradon",
+      "Zephyrian",
+      "Crystar",
+      "Pyron",
+      "Floran",
+      "Frostian",
+      "Aquarion"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien move by flying?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter as part of its diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien prefer to exist in solitude?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien inhabit arid regions?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien inhabit crystalline landscapes?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien live in a water-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "I guess Frostian.",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien consume metal substances as part of its diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a flexible structure and move by drifting?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "I guess Zephyrian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 10
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Pyron",
+      "Aetherian",
+      "Aquarion",
+      "Zephyrian",
+      "Zyloxian",
+      "Frostian",
+      "Terradon",
+      "Glimmeron"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien thrive in a water-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien primarily rely on light for nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien live in an arid region?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien consume plant matter?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien reside in a forested environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Terradon.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Terradon",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Zyloxian",
+      "Frostian",
+      "Crystar",
+      "Glimmeron",
+      "Zephyrian",
+      "Terradon",
+      "Pyron",
+      "Aquarion"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien rely on light for its nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter as its primary diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit a water-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien's mode of movement involve sliding?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien inhabit an arid region?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien display solitary behavior?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Aquarion",
+      "Pyron",
+      "Zyloxian",
+      "Floran",
+      "Zephyrian",
+      "Aetherian",
+      "Frostian",
+      "Crystar"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien's diet rely primarily on phototrophy (light)?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien primarily inhabit a crystalline or ice-based environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien exist primarily in a water-based habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien consume meat-based sustenance?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien prefer to exist alone rather than in groups?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian.",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Terradon",
+      "Glimmeron",
+      "Aquarion",
+      "Crystar",
+      "Pyron",
+      "Floran",
+      "Aetherian",
+      "Zephyrian"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily consume light for sustenance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien thrive in a water-based environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit the sky?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have wings for locomotion?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess Aetherian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Frostian",
+      "Crystar",
+      "Terradon",
+      "Floran",
+      "Aquarion",
+      "Zephyrian",
+      "Pyron",
+      "Glimmeron"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien rely on metal substances for food?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien live in a forest environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien consume plant matter as its primary diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien travel on four limbs?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Terradon.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Terradon",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Aetherian",
+      "Frostian",
+      "Terradon",
+      "Aquarion",
+      "Crystar",
+      "Pyron",
+      "Zyloxian",
+      "Floran"
+    ],
+    "target": "Aquarion",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien rely on light for its nourishment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien consume plant matter as its primary diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit forested areas?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien prefer to exist in solitude?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess Floran.",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a reflective or hard surface?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien inhabit water-based environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "I guess Aquarion.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aquarion",
+    "correct": true,
+    "questions_used": 8
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Zyloxian",
+      "Aetherian",
+      "Zephyrian",
+      "Crystar",
+      "Glimmeron",
+      "Aquarion",
+      "Terradon",
+      "Floran"
+    ],
+    "target": "Aquarion",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien's diet based on light?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien inhabit a water-based environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien thrive in a communal or group setting?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien consume meat-based sustenance?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a flexible body that moves by drifting?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien feed on metal substances?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's habitat associated with the sky?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien consume plant matter?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess Aquarion.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aquarion",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Aetherian",
+      "Zephyrian",
+      "Frostian",
+      "Zyloxian",
+      "Pyron",
+      "Floran",
+      "Crystar",
+      "Aquarion"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily consume light for sustenance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien thrive in social groups?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien reside in the sky?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "I guess Zephyrian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 4
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Floran",
+      "Aquarion",
+      "Glimmeron",
+      "Zyloxian",
+      "Pyron",
+      "Crystar",
+      "Terradon",
+      "Aetherian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien feed on light for nourishment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien inhabit a forested area?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien prefer to exist alone rather than in a group?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien consume metal substances as part of its diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Crystar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 5
+  }
+]

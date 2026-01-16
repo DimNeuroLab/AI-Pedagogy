@@ -1,0 +1,204 @@
+{
+  "Test 1": {
+    "NeuroSphere": {
+      "diet": "neural energy",
+      "habitat": "cerebral cortices",
+      "morphology": "gelatinous spheres",
+      "locomotion": "electrical impulses",
+      "socialStructure": "distributed cognition"
+    },
+    "Luminari": {
+      "diet": "photonic energy",
+      "habitat": "stellar nurseries",
+      "morphology": "luminous plasma",
+      "locomotion": "photon sailing",
+      "socialStructure": "radiant harmony"
+    },
+    "CosmicWeavers": {
+      "diet": "dark matter",
+      "habitat": "intergalactic filaments",
+      "morphology": "filamentous networks",
+      "locomotion": "gravitational manipulation",
+      "socialStructure": "cosmic harmonics"
+    },
+    "N'Tari": {
+      "diet": "exotic matter",
+      "habitat": "black holes",
+      "morphology": "event horizon entities",
+      "locomotion": "gravitational waves",
+      "socialStructure": "harmonic resonance"
+    }
+  },
+  "Test 2": {
+    "Neurovora": {
+      "morphology": "neural network-like",
+      "locomotion": "electrical impulses",
+      "social structure": "hierarchical",
+      "diet": "electromagnetic radiation"
+    },
+    "Luminari": {
+      "morphology": "luminous plasma",
+      "locomotion": "photon sailing",
+      "social structure": "radiant harmony",
+      "diet": "broad spectrum electromagnetic radiation",
+      "propulsion system": "high-energy radiation",
+      "data storage": "holographic",
+      "sensors": "electromagnetic spectrum"
+    },
+    "Echoflora": {
+      "morphology": "flower-like",
+      "locomotion": "acoustic waves",
+      "social structure": "resonant harmony",
+      "diet": "sound energy"
+    },
+    "Cryochroma": {
+      "morphology": "crystalline structure",
+      "locomotion": "thermal fluctuations",
+      "social structure": "cryogenic resonance",
+      "diet": "thermal energy"
+    },
+    "Luminons": {
+      "morphology": "luminous particles",
+      "locomotion": "photon propulsion",
+      "social structure": "luminescent synchrony",
+      "diet": "electromagnetic radiation"
+    },
+    "Gravitons": {
+      "morphology": "massive particles",
+      "locomotion": "gravitational manipulation",
+      "social structure": "gravitational resonance",
+      "diet": "gravitational energy"
+    },
+    "Neuromorphs": {
+      "morphology": "neural network-like",
+      "locomotion": "electrical impulses",
+      "social structure": "hierarchical",
+      "diet": "electromagnetic radiation"
+    },
+    "Aerotrans": {
+      "morphology": "aerodynamic shape",
+      "locomotion": "gas flow manipulation",
+      "social structure": "turbulent harmony",
+      "diet": "kinetic energy"
+    }
+  },
+  "Test 3": {
+    "Neuroptera": {
+      "morphology": "neuronal network",
+      "locomotion": "electrical impulses",
+      "diet": "energy packets",
+      "social structure": "distributed intelligence",
+      "habitat": "energetic flux"
+    },
+    "Luminari": {
+      "morphology": "luminous plasma",
+      "locomotion": "photon sailing",
+      "diet": "broad spectrum electromagnetic radiation",
+      "social structure": "radiant harmony",
+      "habitat": "stellar nurseries",
+      "technologies": {
+        "propulsion system": "high-energy radiation",
+        "data storage": "holographic devices",
+        "sensors": "electromagnetic spectrum detection"
+      }
+    },
+    "Echoflux": {
+      "morphology": "crystal lattice structure",
+      "locomotion": "resonant frequency manipulation",
+      "diet": "acoustic energy",
+      "social structure": "harmonic resonance",
+      "habitat": "sonic landscapes"
+    },
+    "Luminons": {
+      "morphology": "photonic crystals",
+      "locomotion": "light-based propulsion",
+      "diet": "high-energy photons",
+      "social structure": "luminescent synchronization",
+      "habitat": "optical resonators"
+    }
+  },
+  "Test 4": {
+    "Neuromorphs": {
+      "morphology": "neuronal network",
+      "environment": "dark, high-pressure",
+      "locomotion": "electrical impulses",
+      "diet": "energy from planetary cores",
+      "socialStructure": "hierarchical clusters"
+    },
+    "Luminari": {
+      "morphology": "luminous plasma",
+      "environment": "stellar nurseries",
+      "locomotion": "photon sailing",
+      "diet": "broad spectrum electromagnetic radiation",
+      "socialStructure": "radiant harmony",
+      "technologies": {
+        "propulsion": "high-energy radiation",
+        "dataStorage": "holographic devices",
+        "sensors": "electromagnetic spectrum"
+      }
+    },
+    "Cryonix": {
+      "morphology": "crystalline structures",
+      "environment": "cryogenic environments",
+      "locomotion": "quantum tunneling",
+      "diet": "energy from crystal vibrations",
+      "socialStructure": "resonant harmonics"
+    },
+    "Aerotects": {
+      "morphology": "aerodynamic forms",
+      "environment": "high-velocity gas streams",
+      "locomotion": "aerodynamic manipulation",
+      "diet": "kinetic energy from gas flows",
+      "socialStructure": "turbulent swarms"
+    },
+    "Lithovores": {
+      "morphology": "mineral-based bodies",
+      "environment": "planetary crusts",
+      "locomotion": "seismic waves",
+      "diet": "geochemical energy",
+      "socialStructure": "subterranean colonies"
+    }
+  },
+  "Test 5": {
+    "Neurospawn": {
+      "habitat": "neural networks",
+      "diet": "information",
+      "morphology": "digital tendrils",
+      "locomotion": "data packet transmission",
+      "socialStructure": "collective intelligence"
+    },
+    "Luminari": {
+      "habitat": "stellar nurseries",
+      "diet": "electromagnetic radiation",
+      "morphology": "luminous plasma",
+      "locomotion": "photon sailing",
+      "socialStructure": "radiant harmony"
+    },
+    "Echoflux": {
+      "habitat": "acoustic realms",
+      "diet": "sound waves",
+      "morphology": "resonant chambers",
+      "locomotion": "echo-location",
+      "socialStructure": "harmonic resonance"
+    },
+    "Cryoven": {
+      "habitat": "cryogenic environments",
+      "diet": "thermal energy",
+      "morphology": "crystalline structures",
+      "locomotion": "subatomic manipulation",
+      "socialStructure": "frozen harmonies"
+    },
+    "Gravitons": {
+      "habitat": "gravity wells",
+      "diet": "gravitational forces",
+      "morphology": "mass-energy clusters",
+      "locomotion": "gravity surfing",
+      "socialStructure": "orbital resonance"
+    },
+    "Luminari Colonies": {
+      "propulsionSystem": "high-energy radiation",
+      "dataStorage": "holographic devices",
+      "sensors": "electromagnetic spectrum detection"
+    }
+  }
+}

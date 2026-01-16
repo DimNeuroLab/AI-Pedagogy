@@ -1,0 +1,539 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured, crawling",
+      "Social Structure": "Solitary",
+      "Reproductive Strategy": "Opportunistic mating",
+      "Leadership": "N/A",
+      "Adaptive Strategies": [
+        "Stealth hunting",
+        "Territorial defense"
+      ]
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Agile predator",
+      "Social Structure": "Communal",
+      "Reproductive Strategy": "Cooperative breeding",
+      "Leadership": {
+        "Traits": [
+          "Decisiveness",
+          "Charisma",
+          "Strategic thinking"
+        ]
+      },
+      "Adaptive Strategies": [
+        "Cooperative hunting",
+        "Resource sharing"
+      ]
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Social Structure": "Communal",
+      "Cultural Identity": "Value cooperative foraging",
+      "Adaptive Strategies": [
+        "Territorial marking",
+        "Resource rationing"
+      ]
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic environments",
+      "Morphology": "Tentacled, swimming",
+      "Social Structure": "Solitary",
+      "Cultural Exchange": "Sharing foraging techniques with Terradon",
+      "Adaptive Strategies": [
+        "Flexible feeding structures",
+        "Increased cooperation for resource access"
+      ]
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic environments",
+      "Morphology": "Gelatinous, floating",
+      "Social Structure": "Communal",
+      "Crisis Response": [
+        "Collective monitoring of resources",
+        "Transparent communication of resource levels"
+      ],
+      "Cultural Learning": "Rituals for sharing ecological knowledge",
+      "Adaptive Strategies": [
+        "Rotational foraging practices",
+        "Empowerment of collective decision-making"
+      ]
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial environments",
+      "Morphology": "Winged, feathered",
+      "Social Structure": "Communal",
+      "Cultural Identity": "Strong emphasis on collective rituals",
+      "Play Dynamics": "Encouragement of social play for learning",
+      "Adaptive Strategies": [
+        "Scenario planning for crises",
+        "Collaborative problem-solving"
+      ]
+    },
+    "Frostian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Crystal habitats",
+      "Morphology": "Adapted for cold environments",
+      "Social Structure": "Communal",
+      "Play Behavior": "Utilized for social learning and innovation",
+      "Interdependence": "Cooperative behaviors enhancing ecosystem stability",
+      "Adaptive Strategies": [
+        "Innovative foraging techniques",
+        "Role flexibility in community tasks"
+      ]
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal habitats",
+      "Morphology": "Metallic structure, sliding locomotion",
+      "Social Structure": "Solitary",
+      "Reproductive Strategy": "Territorial breeding",
+      "Adaptive Strategies": [
+        "Specialized resource extraction",
+        "Development of defensive adaptations"
+      ]
+    }
+  },
+  "Test 2": {
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "morphology": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal",
+      "leadership_traits": [
+        "decisiveness",
+        "empathy",
+        "strong communication"
+      ],
+      "coping_strategies": {
+        "resource_scarcity": [
+          "rotational foraging",
+          "communal gardens",
+          "community rituals"
+        ]
+      },
+      "cultural_practices": [
+        "storytelling",
+        "celebrations of seasonal changes",
+        "shared foraging techniques"
+      ],
+      "adaptive_responses": [
+        "feedback loops to manage habitat quality",
+        "flexibility in social dynamics under stress"
+      ]
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal or icy environment",
+      "morphology": "variable adaptations",
+      "locomotion": "sliding or gliding",
+      "social_structure": "communal",
+      "leadership_traits": [
+        "strategic thinking",
+        "social intelligence"
+      ],
+      "coping_strategies": {
+        "resource_scarcity": [
+          "forming alliances",
+          "rotational resource access"
+        ]
+      },
+      "cultural_practices": [
+        "playful rituals for skill development",
+        "celebrations of successful hunts"
+      ],
+      "adaptive_responses": [
+        "increased innovation through playful dynamics",
+        "behavioral flexibility during stress"
+      ]
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "morphology": "winged, feathered",
+      "locomotion": "flying",
+      "social_structure": "communal",
+      "leadership_traits": [
+        "charisma",
+        "inclusiveness"
+      ],
+      "coping_strategies": {
+        "crisis_management": [
+          "scenario planning",
+          "community problem-solving"
+        ]
+      },
+      "cultural_practices": [
+        "rituals for knowledge sharing",
+        "creative expressions in art and music"
+      ],
+      "adaptive_responses": [
+        "developing rituals around environmental challenges",
+        "enhanced cooperative foraging techniques"
+      ]
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest or terrestrial environment",
+      "morphology": "quadrupedal",
+      "locomotion": "bounding",
+      "social_structure": "communal",
+      "leadership_traits": [
+        "recognition of contributions",
+        "effective communication"
+      ],
+      "coping_strategies": {
+        "resource_scarcity": [
+          "territorial defense strategies",
+          "reciprocal foraging agreements"
+        ]
+      },
+      "cultural_practices": [
+        "community rituals for seasonal changes",
+        "cooperative gathering events"
+      ],
+      "adaptive_responses": [
+        "developing territories based on resource availability",
+        "flexible foraging strategies"
+      ]
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic environments",
+      "morphology": "tentacled",
+      "locomotion": "swimming",
+      "social_structure": "communal",
+      "leadership_traits": [
+        "collaborative spirit",
+        "communication skills"
+      ],
+      "coping_strategies": {
+        "resource_scarcity": [
+          "establishing shared feeding grounds",
+          "cooperative monitoring of resources"
+        ]
+      },
+      "cultural_practices": [
+        "joint foraging activities",
+        "celebrations of resource abundance"
+      ],
+      "adaptive_responses": [
+        "flexibility in resource management",
+        "establishing cooperative defense against predators"
+      ]
+    }
+  },
+  "Test 3": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Leadership Traits": [
+        "Decisiveness",
+        "Empathy",
+        "Strong communication skills"
+      ],
+      "Adaptive Strategies": [
+        "Resource monitoring",
+        "Rotational foraging",
+        "Community cohesion rituals"
+      ],
+      "Cultural Learning": "Storytelling and communal practices",
+      "Responses to Environmental Changes": [
+        "Behavioral flexibility",
+        "Innovative problem-solving exercises"
+      ]
+    },
+    "Frostian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Icy environments",
+      "Morphology": "Variable",
+      "Locomotion": "Variable",
+      "Social Structure": "Communal",
+      "Leadership Traits": [
+        "Inspirational",
+        "Problem-solving",
+        "Empathetic"
+      ],
+      "Adaptive Strategies": [
+        "Collaborative hunting",
+        "Role-playing in play behavior"
+      ],
+      "Cultural Learning": "Play-based learning and mock hunting",
+      "Responses to Environmental Changes": [
+        "Flexible social roles",
+        "Adaptations to resource management"
+      ]
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Cultural Identity": "Based on foraging practices and seasonal events",
+      "Resource Management": "Territorial behaviors with communal foraging",
+      "Interactions with Other Species": "Potential for cultural exchange with Aquarion"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal/Solitary",
+      "Cultural Identity": "Influenced by environmental interactions",
+      "Adaptations": [
+        "Specialized feeding structures",
+        "Resource-sharing agreements with Terradons"
+      ],
+      "Interactions with Other Species": "Potential for mutualistic relationships with Terradon"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying",
+      "Social Structure": "Communal",
+      "Cultural Practices": "Rituals celebrating seasonal changes",
+      "Social Learning Mechanisms": "Storytelling and artistic expressions",
+      "Crisis Preparations": "Contingency plans and community rituals"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Reproductive Strategy": "Opportunistic mating",
+      "Leadership": "N/A",
+      "Cooperative Behaviors": "Minimal"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Agile",
+      "Locomotion": "Running",
+      "Social Structure": "Communal",
+      "Reproductive Strategy": "Cooperative hunting",
+      "Leadership": "N/A",
+      "Cooperative Behaviors": "High during hunts"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Reproductive Strategy": "Cooperative care",
+      "Leadership": "Elders guide the group",
+      "Cooperative Behaviors": "Shared foraging"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming",
+      "Social Structure": "Solitary",
+      "Reproductive Strategy": "Territorial during breeding",
+      "Leadership": "N/A",
+      "Cooperative Behaviors": "Minimal, occasional aggregation"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Reproductive Strategy": "Collective care and resource sharing",
+      "Leadership": "Effective during crises",
+      "Cooperative Behaviors": "High, including shared foraging efforts"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying",
+      "Social Structure": "Communal",
+      "Reproductive Strategy": "Ritualistic courtship",
+      "Leadership": "Elders guide fledglings",
+      "Cooperative Behaviors": "High, especially for resource sharing"
+    },
+    "Frostian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Icy",
+      "Morphology": "Adaptable",
+      "Locomotion": "Slipping/sliding",
+      "Social Structure": "Communal",
+      "Reproductive Strategy": "Cooperative breeding",
+      "Leadership": "Emergent leaders during crises",
+      "Cooperative Behaviors": "High, with community-driven hunting"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Reproductive Strategy": "Opportunistic",
+      "Leadership": "N/A",
+      "Cooperative Behaviors": "Minimal, focused on individual foraging"
+    }
+  },
+  "Test 5": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Leadership Traits": [
+        "Decisiveness",
+        "Empathy",
+        "Strong communication skills"
+      ],
+      "Crisis Management": {
+        "Strategies": [
+          "Collaborative resource management",
+          "Rotational foraging practices",
+          "Community rituals for solidarity"
+        ]
+      },
+      "Cultural Learning": {
+        "Mechanisms": [
+          "Storytelling",
+          "Ritualized environmental monitoring"
+        ]
+      },
+      "Behavioral Flexibility": [
+        "Scenario planning",
+        "Collaborative problem-solving"
+      ],
+      "Impact on Ecosystem": "Enhances biodiversity through cooperative behaviors"
+    },
+    "Frostian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Flexible structure",
+      "Locomotion": "Variable depending on activity",
+      "Social Structure": "Communal",
+      "Leadership Traits": [
+        "Strategic thinking",
+        "Social intelligence",
+        "Problem-solving skills"
+      ],
+      "Play Behavior": {
+        "Functions": [
+          "Skill development",
+          "Stress relief",
+          "Creative problem-solving"
+        ]
+      },
+      "Crisis Management": {
+        "Strategies": [
+          "Cooperative resource pooling",
+          "Rotating defense responsibilities"
+        ]
+      },
+      "Cultural Learning": {
+        "Mechanisms": [
+          "Experiential learning through play",
+          "Mock hunting practices"
+        ]
+      },
+      "Impact on Ecosystem": "Promotes healthy habitats through resource management"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged, feathered",
+      "Locomotion": "Flying",
+      "Social Structure": "Communal",
+      "Cultural Identity": {
+        "Factors": [
+          "Shared experiences",
+          "Collective challenges",
+          "Rituals for community bonding"
+        ]
+      },
+      "Crisis Management": {
+        "Strategies": [
+          "Community preparedness",
+          "Rituals for ecological disasters"
+        ]
+      },
+      "Cultural Learning": {
+        "Mechanisms": [
+          "Storytelling",
+          "Structured community activities"
+        ]
+      },
+      "Impact on Ecosystem": "Shapes habitat through cooperative behaviors, enhancing stability"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Cultural Identity": {
+        "Factors": [
+          "Rituals for resource sharing",
+          "Collaborative foraging practices"
+        ]
+      },
+      "Crisis Response": {
+        "Strategies": [
+          "Territorial marking",
+          "Cooperative grazing"
+        ]
+      },
+      "Cultural Learning": {
+        "Mechanisms": [
+          "Rituals tied to seasons",
+          "Shared resource management knowledge"
+        ]
+      },
+      "Impact on Ecosystem": "Maintains vegetation health, enhancing habitat stability"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming",
+      "Social Structure": "Variable (solitary to communal)",
+      "Cultural Exchange": {
+        "Innovations Shared": [
+          "Knowledge of aquatic food sources",
+          "Cooperative defense against threats"
+        ]
+      },
+      "Crisis Response": {
+        "Strategies": [
+          "Temporary alliances during scarcity",
+          "Adaptive foraging techniques"
+        ]
+      },
+      "Cultural Learning": {
+        "Mechanisms": [
+          "Experimentation in feeding behavior",
+          "Learning through observation"
+        ]
+      },
+      "Impact on Ecosystem": "Supports aquatic food webs through resource management"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "Test 1": {
+    "Sylnar": {
+      "Diet": "carnivorous",
+      "Habitat": "terrestrial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "hopping",
+      "Social Structure": "pack",
+      "Adaptation": "enhanced senses",
+      "Cultural Development": "unique ritualistic dances"
+    },
+    "Gleeb": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "amphibious",
+      "Locomotion": "swimming",
+      "Social Structure": "colony",
+      "Adaptation": "bioluminescence",
+      "Cultural Development": "complex vocalizations"
+    },
+    "Zorvath": {
+      "Diet": "omnivorous",
+      "Habitat": "arctic",
+      "Morphology": "bipedal",
+      "Locomotion": "walking",
+      "Social Structure": "hierarchy",
+      "Adaptation": "thermal regulation",
+      "Cultural Development": "intricate symbolism"
+    }
+  },
+  "Test 2": {
+    "Sylnar": {
+      "Diet": "carnivorous",
+      "Habitat": "terrestrial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "hopping",
+      "Social Structure": "pack",
+      "Adaptation": "enhanced senses",
+      "Cultural Development": "unique ritualistic dances"
+    },
+    "G'Kor": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "amphibious",
+      "Locomotion": "swimming",
+      "Social Structure": "colony",
+      "Adaptation": "bioluminescence",
+      "Cultural Development": "complex communication systems"
+    },
+    "Z'Roth": {
+      "Diet": "omnivorous",
+      "Habitat": "arctic",
+      "Morphology": "bipedal",
+      "Locomotion": "walking",
+      "Social Structure": "hierarchy",
+      "Adaptation": "insulating fur",
+      "Cultural Development": "intricate art forms"
+    }
+  },
+  "Test 3": {
+    "Sylnar": {
+      "Diet": "carnivorous",
+      "Habitat": "terrestrial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "hopping",
+      "Social Structure": "pack",
+      "Adaptation": "enhanced senses",
+      "Cultural Development": "unique ritualistic dances"
+    },
+    "G'lork": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "amphibious",
+      "Locomotion": "swimming",
+      "Social Structure": "colony",
+      "Adaptation": "bioluminescence",
+      "Cultural Development": "complex communication systems"
+    },
+    "Xelkon": {
+      "Diet": "omnivorous",
+      "Habitat": "arctic",
+      "Morphology": "bipedal",
+      "Locomotion": "walking",
+      "Social Structure": "solitary",
+      "Adaptation": "insulating fur",
+      "Cultural Development": "intricate cave paintings"
+    }
+  },
+  "Test 4": {
+    "Sylnar": {
+      "Diet": "carnivorous",
+      "Habitat": "terrestrial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "hopping",
+      "Social Structure": "pack",
+      "Adaptation": "enhanced senses",
+      "Cultural Development": "unique ritualistic dances"
+    },
+    "G'lork": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "amphibious",
+      "Locomotion": "swimming",
+      "Social Structure": "colony",
+      "Adaptation": "bioluminescence",
+      "Cultural Development": "complex social hierarchies"
+    }
+  },
+  "Test 5": {
+    "Sylnar": {
+      "Diet": "carnivorous",
+      "Habitat": "terrestrial",
+      "Morphology": "quadrupedal",
+      "Locomotion": "hopping",
+      "Social Structure": "pack",
+      "Adaptation": "enhanced senses",
+      "Cultural Development": "unique ritualistic dances"
+    },
+    "Gleeb": {
+      "Diet": "herbivorous",
+      "Habitat": "aquatic",
+      "Morphology": "amphibious",
+      "Locomotion": "swimming",
+      "Social Structure": "colony",
+      "Adaptation": "bioluminescence",
+      "Cultural Development": "complex communication systems"
+    },
+    "Zorvath": {
+      "Diet": "omnivorous",
+      "Habitat": "arctic",
+      "Morphology": "bipedal",
+      "Locomotion": "walking",
+      "Social Structure": "hierarchy",
+      "Adaptation": "cold resistance",
+      "Cultural Development": "intricate social rituals"
+    }
+  }
+}

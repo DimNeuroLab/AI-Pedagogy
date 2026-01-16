@@ -1,0 +1,973 @@
+{
+    "0": {
+        "alignment_results": {
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.7168035426731079,
+                "name_similarity": 1.0,
+                "blended_score": 0.8584017713365539,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.5418225742714233,
+                "name_similarity": 1.0,
+                "blended_score": 0.7709112871357117,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 1.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Reproductive Strategy",
+                "average_similarity": 0.3853615520282187,
+                "name_similarity": 0.25806451612903225,
+                "blended_score": 0.3217130340786255,
+                "is_equivalent": false,
+                "num_comparisons": 3,
+                "skipped_comparisons": 5
+            }
+        },
+        "mapping": {
+            "Habitat": "Habitat",
+            "Morphology": "Morphology",
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet"
+        },
+        "mismatches": 2,
+        "comparison_results": {
+            "only_in_true_ontology": 2,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Glimmeron": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic environments"
+                    },
+                    "Morphology": {
+                        "true_ontology": "gelatinous",
+                        "agent_ontology": "Gelatinous, floating"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": null
+                    }
+                },
+                "Zyloxian": {
+                    "Habitat": {
+                        "true_ontology": "desert",
+                        "agent_ontology": "Desert"
+                    },
+                    "Morphology": {
+                        "true_ontology": "armoured",
+                        "agent_ontology": "Armoured, crawling"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "crawling",
+                        "agent_ontology": null
+                    }
+                },
+                "Terradon": {
+                    "Habitat": {
+                        "true_ontology": "forest",
+                        "agent_ontology": "Forest"
+                    },
+                    "Morphology": {
+                        "true_ontology": "quadrupedal",
+                        "agent_ontology": "Quadrupedal"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "bounding",
+                        "agent_ontology": null
+                    }
+                },
+                "Aquarion": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic environments"
+                    },
+                    "Morphology": {
+                        "true_ontology": "tentacled",
+                        "agent_ontology": "Tentacled, swimming"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "swimming",
+                        "agent_ontology": null
+                    }
+                },
+                "Aetherian": {
+                    "Habitat": {
+                        "true_ontology": "aerial",
+                        "agent_ontology": "Aerial environments"
+                    },
+                    "Morphology": {
+                        "true_ontology": "winged",
+                        "agent_ontology": "Winged, feathered"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": null
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "Crystal habitats"
+                    },
+                    "Morphology": {
+                        "true_ontology": "furry",
+                        "agent_ontology": "Adapted for cold environments"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": null
+                    }
+                },
+                "Crystar": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "Crystal habitats"
+                    },
+                    "Morphology": {
+                        "true_ontology": "metallic",
+                        "agent_ontology": "Metallic structure, sliding locomotion"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "metallic-eater",
+                        "agent_ontology": "Metallic-eater"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": null
+                    }
+                },
+                "Pyron": {
+                    "Habitat": {
+                        "true_ontology": "desert",
+                        "agent_ontology": "Desert"
+                    },
+                    "Morphology": {
+                        "true_ontology": "armoured",
+                        "agent_ontology": "Agile predator"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "crawling",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 8,
+            "num_common_species": 8,
+            "num_species_with_diff_features": 8
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "habitat",
+                "average_similarity": 0.65009065009065,
+                "name_similarity": 1.0,
+                "blended_score": 0.825045325045325,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "morphology",
+                "average_similarity": 0.7203478260869566,
+                "name_similarity": 1.0,
+                "blended_score": 0.8601739130434782,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "social_structure",
+                "average_similarity": 0.85,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9088709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "locomotion",
+                "average_similarity": 0.8548571428571428,
+                "name_similarity": 1.0,
+                "blended_score": 0.9274285714285714,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "habitat": "Habitat",
+            "morphology": "Morphology",
+            "social_structure": "SocialStructure",
+            "diet": "Diet",
+            "locomotion": "Locomotion"
+        },
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 5,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Terradon": {
+                    "Habitat": {
+                        "true_ontology": "forest",
+                        "agent_ontology": "forest or terrestrial environment"
+                    }
+                },
+                "Aquarion": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "aquatic environments"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    }
+                },
+                "Aetherian": {
+                    "Morphology": {
+                        "true_ontology": "winged",
+                        "agent_ontology": "winged, feathered"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "flying"
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "crystal or icy environment"
+                    },
+                    "Morphology": {
+                        "true_ontology": "furry",
+                        "agent_ontology": "variable adaptations"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": "sliding or gliding"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 5,
+            "num_species_with_diff_features": 4
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.8521739130434783,
+                "name_similarity": 1.0,
+                "blended_score": 0.9260869565217391,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.8307692307692308,
+                "name_similarity": 1.0,
+                "blended_score": 0.9153846153846155,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.9279999999999999,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9478709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.7695238095238095,
+                "name_similarity": 1.0,
+                "blended_score": 0.8847619047619047,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Habitat": "Habitat",
+            "Morphology": "Morphology",
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 5,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Glimmeron": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Morphology": {
+                        "true_ontology": "gelatinous",
+                        "agent_ontology": "Gelatinous"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "Floating"
+                    }
+                },
+                "Terradon": {
+                    "Habitat": {
+                        "true_ontology": "forest",
+                        "agent_ontology": "Forest"
+                    },
+                    "Morphology": {
+                        "true_ontology": "quadrupedal",
+                        "agent_ontology": "Quadrupedal"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "bounding",
+                        "agent_ontology": "Bounding"
+                    }
+                },
+                "Aquarion": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Morphology": {
+                        "true_ontology": "tentacled",
+                        "agent_ontology": "Tentacled"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Communal/Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "swimming",
+                        "agent_ontology": "Swimming"
+                    }
+                },
+                "Aetherian": {
+                    "Habitat": {
+                        "true_ontology": "aerial",
+                        "agent_ontology": "Aerial"
+                    },
+                    "Morphology": {
+                        "true_ontology": "winged",
+                        "agent_ontology": "Winged"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "Flying"
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "Icy environments"
+                    },
+                    "Morphology": {
+                        "true_ontology": "furry",
+                        "agent_ontology": "Variable"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": "Variable"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 5,
+            "num_species_with_diff_features": 5
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.925,
+                "name_similarity": 1.0,
+                "blended_score": 0.9625,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.7884615384615384,
+                "name_similarity": 1.0,
+                "blended_score": 0.8942307692307692,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 1.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.8570393374741201,
+                "name_similarity": 1.0,
+                "blended_score": 0.92851966873706,
+                "is_equivalent": true,
+                "num_comparisons": 8,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Habitat": "Habitat",
+            "Morphology": "Morphology",
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 2,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Glimmeron": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Morphology": {
+                        "true_ontology": "gelatinous",
+                        "agent_ontology": "Gelatinous"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "Floating"
+                    }
+                },
+                "Zyloxian": {
+                    "Habitat": {
+                        "true_ontology": "desert",
+                        "agent_ontology": "Desert"
+                    },
+                    "Morphology": {
+                        "true_ontology": "armoured",
+                        "agent_ontology": "Armoured"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "crawling",
+                        "agent_ontology": "Crawling"
+                    }
+                },
+                "Terradon": {
+                    "Habitat": {
+                        "true_ontology": "forest",
+                        "agent_ontology": "Forest"
+                    },
+                    "Morphology": {
+                        "true_ontology": "quadrupedal",
+                        "agent_ontology": "Quadrupedal"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "bounding",
+                        "agent_ontology": "Bounding"
+                    }
+                },
+                "Aquarion": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Morphology": {
+                        "true_ontology": "tentacled",
+                        "agent_ontology": "Tentacled"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "swimming",
+                        "agent_ontology": "Swimming"
+                    }
+                },
+                "Aetherian": {
+                    "Habitat": {
+                        "true_ontology": "aerial",
+                        "agent_ontology": "Aerial"
+                    },
+                    "Morphology": {
+                        "true_ontology": "winged",
+                        "agent_ontology": "Winged"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "Flying"
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "Icy"
+                    },
+                    "Morphology": {
+                        "true_ontology": "furry",
+                        "agent_ontology": "Adaptable"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": "Slipping/sliding"
+                    }
+                },
+                "Crystar": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "Crystal"
+                    },
+                    "Morphology": {
+                        "true_ontology": "metallic",
+                        "agent_ontology": "Metallic"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Solitary"
+                    },
+                    "Diet": {
+                        "true_ontology": "metallic-eater",
+                        "agent_ontology": "Metallic-eater"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": "Sliding"
+                    }
+                },
+                "Pyron": {
+                    "Habitat": {
+                        "true_ontology": "desert",
+                        "agent_ontology": "Desert"
+                    },
+                    "Morphology": {
+                        "true_ontology": "armoured",
+                        "agent_ontology": "Agile"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "crawling",
+                        "agent_ontology": "Running"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 8,
+            "num_common_species": 8,
+            "num_species_with_diff_features": 8
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.7565217391304347,
+                "name_similarity": 1.0,
+                "blended_score": 0.8782608695652174,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.8820512820512821,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9248966087675765,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.7969111969111969,
+                "name_similarity": 1.0,
+                "blended_score": 0.8984555984555984,
+                "is_equivalent": true,
+                "num_comparisons": 5,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Habitat": "Habitat",
+            "Morphology": "Morphology",
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 5,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Glimmeron": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Morphology": {
+                        "true_ontology": "gelatinous",
+                        "agent_ontology": "Gelatinous"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "Floating"
+                    }
+                },
+                "Terradon": {
+                    "Habitat": {
+                        "true_ontology": "forest",
+                        "agent_ontology": "Forest"
+                    },
+                    "Morphology": {
+                        "true_ontology": "quadrupedal",
+                        "agent_ontology": "Quadrupedal"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "bounding",
+                        "agent_ontology": "Bounding"
+                    }
+                },
+                "Aquarion": {
+                    "Habitat": {
+                        "true_ontology": "aquatic",
+                        "agent_ontology": "Aquatic"
+                    },
+                    "Morphology": {
+                        "true_ontology": "tentacled",
+                        "agent_ontology": "Tentacled"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "Variable (solitary to communal)"
+                    },
+                    "Diet": {
+                        "true_ontology": "herbivorous",
+                        "agent_ontology": "Herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "swimming",
+                        "agent_ontology": "Swimming"
+                    }
+                },
+                "Aetherian": {
+                    "Habitat": {
+                        "true_ontology": "aerial",
+                        "agent_ontology": "Aerial"
+                    },
+                    "Morphology": {
+                        "true_ontology": "winged",
+                        "agent_ontology": "Winged, feathered"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "Phototrophic"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "Flying"
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "Crystal"
+                    },
+                    "Morphology": {
+                        "true_ontology": "furry",
+                        "agent_ontology": "Flexible structure"
+                    },
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "Communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "Carnivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "sliding",
+                        "agent_ontology": "Variable depending on activity"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 5,
+            "num_species_with_diff_features": 5
+        }
+    }
+}

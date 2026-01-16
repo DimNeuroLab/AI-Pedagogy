@@ -1,0 +1,276 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "SocialStructure": "Solitary"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying",
+      "SocialStructure": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "SocialStructure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Bounding",
+      "Locomotion": "Bounding",
+      "SocialStructure": "Communal"
+    },
+    "Floran": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Petal-like",
+      "Locomotion": "N/A",
+      "SocialStructure": "Solitary"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "N/A",
+      "SocialStructure": "Solitary"
+    },
+    "Pyron": {
+      "Diet": "N/A",
+      "Habitat": "Desert",
+      "Morphology": "N/A",
+      "Locomotion": "N/A",
+      "SocialStructure": "Communal"
+    },
+    "Frostian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Furry",
+      "Locomotion": "N/A",
+      "SocialStructure": "N/A"
+    },
+    "Zephyrian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Feathered",
+      "Locomotion": "N/A",
+      "SocialStructure": "Communal"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "SocialStructure": "Solitary"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying",
+      "SocialStructure": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eaters",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "SocialStructure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Bounding",
+      "Locomotion": "Bounding",
+      "SocialStructure": "Communal"
+    },
+    "Floran": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Petal-like",
+      "Locomotion": "Fixed",
+      "SocialStructure": "Solitary"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "SocialStructure": "Solitary"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "SocialStructure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Undefined",
+      "Locomotion": "Bounding",
+      "SocialStructure": "Communal"
+    },
+    "Floran": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Petal-like",
+      "SocialStructure": "Solitary"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "SocialStructure": "Solitary"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Flying",
+      "SocialStructure": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eaters",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "SocialStructure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Unknown",
+      "Locomotion": "Bounding",
+      "SocialStructure": "Communal"
+    },
+    "Floran": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Petal-like",
+      "Locomotion": "Unknown",
+      "SocialStructure": "Solitary"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "morphology": "armoured",
+      "locomotion": "crawling",
+      "social_structure": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "morphology": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "morphology": "winged",
+      "locomotion": "flying",
+      "social_structure": "context not provided"
+    },
+    "Crystar": {
+      "diet": "metallic-eaters",
+      "habitat": "crystal",
+      "morphology": "metallic",
+      "locomotion": "sliding",
+      "social_structure": "solitary"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "morphology": "context not provided",
+      "locomotion": "bounding",
+      "social_structure": "communal"
+    },
+    "Floran": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "morphology": "petal-like",
+      "locomotion": "context not provided",
+      "social_structure": "solitary"
+    },
+    "Pyron": {
+      "diet": "context not provided",
+      "habitat": "desert",
+      "morphology": "context not provided",
+      "locomotion": "context not provided",
+      "social_structure": "communal"
+    },
+    "Aquarion": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "morphology": "tentacled",
+      "locomotion": "context not provided",
+      "social_structure": "context not provided"
+    },
+    "Frostian": {
+      "diet": "carnivorous",
+      "habitat": "crystal",
+      "morphology": "furry",
+      "locomotion": "context not provided",
+      "social_structure": "context not provided"
+    },
+    "Zephyrian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "morphology": "feathered",
+      "locomotion": "context not provided",
+      "social_structure": "context not provided"
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+    "0": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.7633333333333334,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.8655376344086022,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.9105263157894736,
+                "name_similarity": 1.0,
+                "blended_score": 0.9552631578947368,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.9044444444444444,
+                "name_similarity": 1.0,
+                "blended_score": 0.9522222222222222,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.9,
+                "name_similarity": 1.0,
+                "blended_score": 0.95,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.9,
+                "name_similarity": 1.0,
+                "blended_score": 0.95,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion",
+            "Morphology": "Morphology",
+            "Habitat": "Habitat"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    }
+                },
+                "Floran": {
+                    "Locomotion": {
+                        "true_ontology": "fluttering",
+                        "agent_ontology": "flutters"
+                    }
+                },
+                "Pyron": {
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "solitary"
+                    }
+                },
+                "Zephyrian": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": null
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": null
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": null
+                    },
+                    "Morphology": {
+                        "true_ontology": "feathered",
+                        "agent_ontology": null
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 5
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.775,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.8713709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.9533333333333334,
+                "name_similarity": 1.0,
+                "blended_score": 0.9766666666666667,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.9199999999999999,
+                "name_similarity": 1.0,
+                "blended_score": 0.96,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.9199999999999999,
+                "name_similarity": 1.0,
+                "blended_score": 0.96,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion",
+            "Morphology": "Morphology",
+            "Habitat": "Habitat"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    }
+                },
+                "Pyron": {
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "solitary"
+                    }
+                },
+                "Zephyrian": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "gliding"
+                    },
+                    "Morphology": {
+                        "true_ontology": "feathered",
+                        "agent_ontology": "lightweight"
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "cold climates"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 4
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.8333333333333334,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9005376344086022,
+                "is_equivalent": true,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.9696969696969696,
+                "name_similarity": 1.0,
+                "blended_score": 0.9848484848484849,
+                "is_equivalent": true,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.9166666666666666,
+                "name_similarity": 1.0,
+                "blended_score": 0.9583333333333333,
+                "is_equivalent": true,
+                "num_comparisons": 9,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion",
+            "Morphology": "Morphology",
+            "Habitat": "Habitat"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 1,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    }
+                },
+                "Pyron": {
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "solitary"
+                    }
+                },
+                "Frostian": {
+                    "Diet": {
+                        "true_ontology": "carnivorous",
+                        "agent_ontology": "herbivorous"
+                    },
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "cold environments"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 9,
+            "num_common_species": 9,
+            "num_species_with_diff_features": 3
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 1.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.9838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 3,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 3,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 3,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 3,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 3,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion",
+            "Morphology": "Morphology",
+            "Habitat": "Habitat"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 7,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 3,
+            "num_common_species": 3,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.775,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.8713709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.9347826086956521,
+                "name_similarity": 1.0,
+                "blended_score": 0.967391304347826,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.9533333333333334,
+                "name_similarity": 1.0,
+                "blended_score": 0.9766666666666667,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.9307692307692308,
+                "name_similarity": 1.0,
+                "blended_score": 0.9653846153846154,
+                "is_equivalent": true,
+                "num_comparisons": 10,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Diet": "Diet",
+            "Locomotion": "Locomotion",
+            "Morphology": "Morphology",
+            "Habitat": "Habitat"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 0,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Aquarion": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    }
+                },
+                "Pyron": {
+                    "SocialStructure": {
+                        "true_ontology": "communal",
+                        "agent_ontology": "solitary"
+                    }
+                },
+                "Zephyrian": {
+                    "SocialStructure": {
+                        "true_ontology": "solitary",
+                        "agent_ontology": "communal"
+                    },
+                    "Diet": {
+                        "true_ontology": "phototrophic",
+                        "agent_ontology": "herbivorous"
+                    },
+                    "Locomotion": {
+                        "true_ontology": "floating",
+                        "agent_ontology": "gliding"
+                    }
+                },
+                "Frostian": {
+                    "Habitat": {
+                        "true_ontology": "crystal",
+                        "agent_ontology": "arctic"
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 10,
+            "num_common_species": 10,
+            "num_species_with_diff_features": 4
+        }
+    }
+}

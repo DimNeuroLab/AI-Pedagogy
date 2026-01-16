@@ -1,0 +1,10 @@
+Zyloxian:  Zyloxians are carnivorous desert dwellers with armoured exoskeletons that enable survival in arid conditions. They crawl slowly across dunes and live in solitude.
+Glimmeron: Glimmerons are gelatinous beings that thrive in aquatic environments, feeding phototrophically on captured light. They float in groups, forming communal clusters.
+Crystar: Crystars consume metallic substances within crystal habitats and display metallic bodies that refract light. They slide across crystalline surfaces and maintain a solitary existence.
+Aetherian: Aetherians are winged beings that live in aerial domains, drawing sustenance phototrophically from solar energy. They float collectively in skyward communes.
+Terradon: Terradons are quadrupedal herbivores that inhabit forests, feeding on dense vegetation. They bound through terrain and thrive in communal herds.
+Aquarion: Aquarions are tentacled herbivores that dwell in aquatic environments, feeding on submerged plant matter. They swim with grace yet prefer solitary lives.
+Pyron: Pyrons are desert-dwelling carnivores with protective armour adapted to harsh climates.  They crawl across the sands and organize into communal groups for survival.
+Zephyrian: Zephyrians are feathered aerial beings that sustain themselves phototrophically in high-altitude regions. They float alone and maintain a solitary presence in the skies.
+Frostian: Frostians are carnivorous crystal dwellers, distinguished by their thick fur adapted to frigid crystalline environments. They slide across icy structures in communal packs.
+Floran: Florans are forest-dwelling herbivores with petal-like bodies that aid in camouflage. They flutter gently through vegetation and prefer solitary life.

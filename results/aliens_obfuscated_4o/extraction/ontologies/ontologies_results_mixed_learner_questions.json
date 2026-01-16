@@ -1,0 +1,327 @@
+{
+  "Test 1": {
+    "Gokixi": {
+      "Glimacule": "throx",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Notizi": {
+      "Glimacule": "throx",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Zeyeqo": {
+      "Glimacule": "vorka",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "mezorn",
+      "Nuzzala": "ziblon"
+    },
+    "Kuroni": {
+      "Glimacule": "vorka",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Mitomu": {
+      "Glimacule": "vorka",
+      "Chanderon": "hulda",
+      "Umberflow": "verlink",
+      "Prandiglot": "zinten",
+      "Nuzzala": "quintel"
+    },
+    "Hebipa": {
+      "Glimacule": "throx",
+      "Chanderon": "tremn",
+      "Umberflow": "verlink",
+      "Prandiglot": "glarp",
+      "Nuzzala": "yantor"
+    },
+    "Pahazo": {
+      "Glimacule": "throx",
+      "Chanderon": "mendal",
+      "Umberflow": "ulvek",
+      "Prandiglot": "toval",
+      "Nuzzala": "quintel"
+    },
+    "Zolode": {
+      "Glimacule": "glent",
+      "Chanderon": "fentar",
+      "Umberflow": "plenth",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Diqive": {
+      "Glimacule": "glent",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "flarn",
+      "Nuzzala": "tarvell"
+    },
+    "Vafilu": {
+      "Glimacule": "glent",
+      "Chanderon": "hulda",
+      "Umberflow": "verlink",
+      "Prandiglot": "mezorn",
+      "Nuzzala": "drint"
+    }
+  },
+  "Test 2": {
+    "Gokixi": {
+      "Glimacule": "throx",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Notizi": {
+      "Glimacule": "throx",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Zeyeqo": {
+      "Glimacule": "vorka",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "flarn",
+      "Nuzzala": "quintel"
+    },
+    "Hebipa": {
+      "Glimacule": "throx",
+      "Chanderon": "fintra",
+      "Umberflow": "verlink",
+      "Prandiglot": "glerm",
+      "Nuzzala": "trakil"
+    },
+    "Pahazo": {
+      "Glimacule": "throx",
+      "Chanderon": "zorl",
+      "Umberflow": "plevent",
+      "Prandiglot": "drux",
+      "Nuzzala": "quintel"
+    },
+    "Kuroni": {
+      "Glimacule": "vorka",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Mitomu": {
+      "Glimacule": "vorka",
+      "Chanderon": "fintra",
+      "Umberflow": "santai",
+      "Prandiglot": "drux",
+      "Nuzzala": "quintel"
+    },
+    "Zolode": {
+      "Glimacule": "glent",
+      "Chanderon": "blava",
+      "Umberflow": "verlink",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Diqive": {
+      "Glimacule": "glent",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "drux",
+      "Nuzzala": "zixir"
+    },
+    "Vafilu": {
+      "Glimacule": "glent",
+      "Chanderon": "zorl",
+      "Umberflow": "verlink",
+      "Prandiglot": "glerm",
+      "Nuzzala": "trakil"
+    }
+  },
+  "Test 3": {
+    "Gokixi": {
+      "Glimacule": "throx",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Notizi": {
+      "Glimacule": "throx",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Zeyeqo": {
+      "Glimacule": "vorka",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "wexler",
+      "Nuzzala": "zeblush"
+    },
+    "Zolode": {
+      "Glimacule": "glent",
+      "Chanderon": "halkin",
+      "Umberflow": "verlink",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Kuroni": {
+      "Glimacule": "vorka",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "blinter"
+    }
+  },
+  "Test 4": {
+    "Gokixi": {
+      "Glimacule": "throx",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Notizi": {
+      "Glimacule": "throx",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Zeyeqo": {
+      "Glimacule": "vorka",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Hebipa": {
+      "Glimacule": "throx",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Pahazo": {
+      "Glimacule": "throx",
+      "Chanderon": "blava",
+      "Umberflow": "verlink",
+      "Prandiglot": "flarn",
+      "Nuzzala": "quintel"
+    },
+    "Kuroni": {
+      "Glimacule": "vorka",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Mitomu": {
+      "Glimacule": "vorka",
+      "Chanderon": "greldon",
+      "Umberflow": "verlink",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Zolode": {
+      "Glimacule": "glent",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Diqive": {
+      "Glimacule": "glent",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Vafilu": {
+      "Glimacule": "glent",
+      "Chanderon": "greldon",
+      "Umberflow": "verlink",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    }
+  },
+  "Test 5": {
+    "Gokixi": {
+      "Glimacule": "throx",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Notizi": {
+      "Glimacule": "throx",
+      "Chanderon": "greldon",
+      "Umberflow": "plenth",
+      "Prandiglot": "flarn",
+      "Nuzzala": "zeblush"
+    },
+    "Zeyeqo": {
+      "Glimacule": "vorka",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": null,
+      "Nuzzala": null
+    },
+    "Hebipa": {
+      "Glimacule": "throx",
+      "Chanderon": null,
+      "Umberflow": null,
+      "Prandiglot": null,
+      "Nuzzala": null
+    },
+    "Pahazo": {
+      "Glimacule": "throx",
+      "Chanderon": null,
+      "Umberflow": null,
+      "Prandiglot": null,
+      "Nuzzala": "quintel"
+    },
+    "Kuroni": {
+      "Glimacule": "vorka",
+      "Chanderon": "greldon",
+      "Umberflow": null,
+      "Prandiglot": "flarn",
+      "Nuzzala": null
+    },
+    "Mitomu": {
+      "Glimacule": "vorka",
+      "Chanderon": null,
+      "Umberflow": null,
+      "Prandiglot": null,
+      "Nuzzala": "quintel"
+    },
+    "Zolode": {
+      "Glimacule": "glent",
+      "Chanderon": null,
+      "Umberflow": null,
+      "Prandiglot": "vork",
+      "Nuzzala": "quintel"
+    },
+    "Diqive": {
+      "Glimacule": "glent",
+      "Chanderon": "blava",
+      "Umberflow": "santai",
+      "Prandiglot": null,
+      "Nuzzala": null
+    },
+    "Vafilu": {
+      "Glimacule": "glent",
+      "Chanderon": null,
+      "Umberflow": null,
+      "Prandiglot": null,
+      "Nuzzala": null
+    }
+  }
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Mirzephpy",
+      "Janpho",
+      "Flolum",
+      "Tultha",
+      "Vorvenvor",
+      "Sylpho",
+      "Zyqui",
+      "Janzy"
+    ],
+    "target": "Sylpho",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Here's a yes/no question to narrow down the possibilities:\n\nDoes the Mirzephpy species have a diet that involves consuming something that is not organic (i.e., not from living organisms)?\n\n(Please respond with a simple \"yes\" or \"no\")",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Here's another question:\n\nDoes the Janpho species have a diet that involves consuming plants?\n\n(Please respond with a simple \"yes\" or \"no\")",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Vorvenvor",
+    "correct": false,
+    "questions_used": 2
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Froscrys",
+      "Venrin",
+      "Zephyrian",
+      "Terradon",
+      "Frosvadra",
+      "Janpho",
+      "Janzy",
+      "Vamir"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Here's a question to help narrow down the possibilities:\n\nDoes the alien species have a diet that is based on consuming living organisms (either plants or animals)?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Here's another question to help narrow down the possibilities:\n\nDoes the alien species have a diet that involves consuming non-organic materials (such as metals or energy from light)?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Froscrys",
+    "correct": false,
+    "questions_used": 2
+  }
+]

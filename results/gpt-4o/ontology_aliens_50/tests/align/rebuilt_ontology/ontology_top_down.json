@@ -1,0 +1,749 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured"
+    },
+    "Janzeph": {
+      "Diet": "Carnivorous",
+      "Morphology": "Feathered"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming"
+    },
+    "Zephpho": {
+      "Diet": "Herbivorous"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Venmorsha": {
+      "Diet": "Phototrophic"
+    },
+    "Crystar": {
+      "Diet": "Metallic-Eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Loflo": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Winged"
+    },
+    "Xpy": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Metallic"
+    },
+    "Vorven": {
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous"
+    },
+    "Jansol": {
+      "Habitat": "Aquatic"
+    },
+    "Frostian": {
+      "Habitat": "Crystal",
+      "Morphology": "Furry",
+      "Locomotion": "Sliding"
+    },
+    "Shavarcrys": {
+      "Habitat": "Crystal",
+      "Morphology": "Petal-like",
+      "Locomotion": "Swimming"
+    },
+    "Zephyrian": {
+      "Habitat": "Aerial",
+      "Morphology": "Feathered"
+    },
+    "Venrin": {
+      "Habitat": "Aerial",
+      "Social Structure": "Communal"
+    },
+    "Seltha": {
+      "Habitat": "Forest",
+      "Morphology": "Furry",
+      "Locomotion": "Crawling"
+    },
+    "Seldra": {
+      "Habitat": "Forest",
+      "Morphology": "Tentacled"
+    },
+    "Mirzephpy": {
+      "Morphology": "Armoured"
+    },
+    "Narzephva": {
+      "Morphology": "Gelatinous"
+    },
+    "Janzy": {
+      "Morphology": "Metallic"
+    },
+    "Lumvensyl": {
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Vapyx": {
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding"
+    },
+    "Sylnar": {
+      "Morphology": "Quadrupedal"
+    },
+    "Miraurzeph": {
+      "Morphology": "Tentacled",
+      "Locomotion": "Bounding"
+    },
+    "Tultha": {
+      "Morphology": "Furry",
+      "Social Structure": "Solitary"
+    },
+    "Floran": {
+      "Morphology": "Petal-like",
+      "Locomotion": "Fluttering"
+    },
+    "Quizysha": {
+      "Morphology": "Petal-like"
+    },
+    "Terkorzeph": {
+      "Morphology": "Feathered"
+    },
+    "Vorjan": {
+      "Locomotion": "Crawling"
+    },
+    "Vatul": {
+      "Locomotion": "Sliding"
+    },
+    "Flosha": {
+      "Locomotion": "Swimming"
+    },
+    "Vamir": {
+      "Locomotion": "Fluttering"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling"
+    },
+    "Janzeph": {
+      "Diet": "Carnivorous",
+      "Morphology": "Feathered"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming"
+    },
+    "Zephpho": {
+      "Diet": "Herbivorous"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Venmorsha": {
+      "Diet": "Phototrophic"
+    },
+    "Crystar": {
+      "Diet": "Metallic-Eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Loflo": {
+      "Locomotion": "Fluttering"
+    },
+    "Xpy": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Metallic"
+    },
+    "Vorven": {
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Crawling"
+    },
+    "Jansol": {
+      "Habitat": "Aquatic"
+    },
+    "Frostian": {
+      "Habitat": "Crystal",
+      "Morphology": "Furry",
+      "Locomotion": "Sliding"
+    },
+    "Shavarcrys": {
+      "Habitat": "Crystal",
+      "Morphology": "Petal-like",
+      "Locomotion": "Swimming"
+    },
+    "Zephyrian": {
+      "Habitat": "Aerial",
+      "Morphology": "Feathered"
+    },
+    "Venrin": {
+      "Habitat": "Aerial",
+      "Social Structure": "Communal"
+    },
+    "Seltha": {
+      "Habitat": "Forest",
+      "Morphology": "Furry",
+      "Locomotion": "Crawling"
+    },
+    "Seldra": {
+      "Habitat": "Forest",
+      "Morphology": "Tentacled"
+    },
+    "Mirzephpy": {
+      "Morphology": "Armoured"
+    },
+    "Narzephva": {
+      "Morphology": "Gelatinous"
+    },
+    "Janzy": {
+      "Morphology": "Metallic"
+    },
+    "Lumvensyl": {
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Vapyx": {
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding"
+    },
+    "Sylnar": {
+      "Morphology": "Quadrupedal"
+    },
+    "Miraurzeph": {
+      "Morphology": "Tentacled",
+      "Locomotion": "Bounding"
+    },
+    "Tultha": {
+      "Morphology": "Furry",
+      "Social Structure": "Solitary"
+    },
+    "Floran": {
+      "Morphology": "Petal-like",
+      "Locomotion": "Fluttering"
+    },
+    "Quizysha": {
+      "Morphology": "Petal-like"
+    },
+    "Terkorzeph": {
+      "Morphology": "Feathered"
+    },
+    "Vorjan": {
+      "Locomotion": "Crawling"
+    },
+    "Vatul": {
+      "Locomotion": "Sliding"
+    },
+    "Flosha": {
+      "Locomotion": "Swimming"
+    },
+    "Vamir": {
+      "Locomotion": "Fluttering"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured"
+    },
+    "Janzeph": {
+      "Diet": "Carnivorous",
+      "Morphology": "Feathered"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming"
+    },
+    "Zephpho": {
+      "Diet": "Herbivorous"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Venmorsha": {
+      "Diet": "Phototrophic"
+    },
+    "Crystar": {
+      "Diet": "Metallic-Eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Loflo": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Winged"
+    },
+    "Xpy": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Metallic"
+    },
+    "Vorven": {
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Crawling"
+    },
+    "Jansol": {
+      "Habitat": "Aquatic"
+    },
+    "Frostian": {
+      "Habitat": "Crystal",
+      "Morphology": "Furry",
+      "Locomotion": "Sliding"
+    },
+    "Shavarcrys": {
+      "Habitat": "Crystal",
+      "Morphology": "Petal-like",
+      "Locomotion": "Swimming"
+    },
+    "Seltha": {
+      "Habitat": "Forest",
+      "Morphology": "Furry",
+      "Locomotion": "Crawling"
+    },
+    "Seldra": {
+      "Habitat": "Forest",
+      "Morphology": "Tentacled"
+    },
+    "Zephyrian": {
+      "Habitat": "Aerial",
+      "Morphology": "Feathered"
+    },
+    "Venrin": {
+      "Habitat": "Aerial",
+      "Social Structure": "Communal"
+    },
+    "Mirzephpy": {
+      "Morphology": "Armoured"
+    },
+    "Narzephva": {
+      "Morphology": "Gelatinous"
+    },
+    "Janzy": {
+      "Morphology": "Metallic"
+    },
+    "Lumvensyl": {
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Vapyx": {
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding"
+    },
+    "Sylnar": {
+      "Morphology": "Quadrupedal"
+    },
+    "Miraurzeph": {
+      "Morphology": "Tentacled",
+      "Locomotion": "Bounding"
+    },
+    "Tultha": {
+      "Morphology": "Furry",
+      "Social Structure": "Solitary"
+    },
+    "Floran": {
+      "Morphology": "Petal-like",
+      "Locomotion": "Fluttering"
+    },
+    "Quizysha": {
+      "Morphology": "Petal-like"
+    },
+    "Terkorzeph": {
+      "Morphology": "Feathered"
+    },
+    "Vorjan": {
+      "Locomotion": "Crawling"
+    },
+    "Vatul": {
+      "Locomotion": "Sliding"
+    },
+    "Flosha": {
+      "Locomotion": "Swimming"
+    },
+    "Vamir": {
+      "Locomotion": "Fluttering"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured"
+    },
+    "Janzeph": {
+      "Diet": "Carnivorous",
+      "Morphology": "Feathered"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming"
+    },
+    "Zephpho": {
+      "Diet": "Herbivorous"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Aetherian": {
+      "Habitat": "Aerial",
+      "Morphology": "Winged"
+    },
+    "Venmorsha": {
+      "Diet": "Phototrophic"
+    },
+    "Crystar": {
+      "Diet": "Metallic-Eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Loflo": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Winged"
+    },
+    "Xpy": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Metallic"
+    },
+    "Vorven": {
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Crawling"
+    },
+    "Jansol": {
+      "Habitat": "Aquatic"
+    },
+    "Frostian": {
+      "Habitat": "Crystal",
+      "Morphology": "Furry",
+      "Locomotion": "Sliding"
+    },
+    "Shavarcrys": {
+      "Habitat": "Crystal",
+      "Morphology": "Petal-like",
+      "Locomotion": "Swimming"
+    },
+    "Zephyrian": {
+      "Habitat": "Aerial",
+      "Morphology": "Feathered"
+    },
+    "Venrin": {
+      "Habitat": "Aerial",
+      "Social Structure": "Communal"
+    },
+    "Seltha": {
+      "Habitat": "Forest",
+      "Morphology": "Furry",
+      "Locomotion": "Crawling"
+    },
+    "Seldra": {
+      "Habitat": "Forest",
+      "Morphology": "Tentacled"
+    },
+    "Mirzephpy": {
+      "Morphology": "Armoured"
+    },
+    "Narzephva": {
+      "Morphology": "Gelatinous"
+    },
+    "Janzy": {
+      "Morphology": "Metallic"
+    },
+    "Lumvensyl": {
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Vapyx": {
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding"
+    },
+    "Sylnar": {
+      "Morphology": "Quadrupedal"
+    },
+    "Miraurzeph": {
+      "Morphology": "Tentacled",
+      "Locomotion": "Bounding"
+    },
+    "Tultha": {
+      "Morphology": "Furry",
+      "Social Structure": "Solitary"
+    },
+    "Floran": {
+      "Morphology": "Petal-like",
+      "Locomotion": "Fluttering"
+    },
+    "Quizysha": {
+      "Morphology": "Petal-like"
+    },
+    "Terkorzeph": {
+      "Morphology": "Feathered"
+    },
+    "Vorjan": {
+      "Locomotion": "Crawling"
+    },
+    "Vatul": {
+      "Locomotion": "Sliding"
+    },
+    "Flosha": {
+      "Locomotion": "Swimming"
+    },
+    "Vamir": {
+      "Locomotion": "Fluttering"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured"
+    },
+    "Janzeph": {
+      "Diet": "Carnivorous",
+      "Morphology": "Feathered"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Tentacled",
+      "Locomotion": "Swimming"
+    },
+    "Zephpho": {
+      "Diet": "Herbivorous"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Venmorsha": {
+      "Diet": "Phototrophic"
+    },
+    "Crystar": {
+      "Diet": "Metallic-Eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Loflo": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Winged"
+    },
+    "Xpy": {
+      "Diet": "Metallic-Eater",
+      "Morphology": "Metallic"
+    },
+    "Vorven": {
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Crawling"
+    },
+    "Jansol": {
+      "Habitat": "Aquatic"
+    },
+    "Frostian": {
+      "Habitat": "Crystal",
+      "Morphology": "Furry",
+      "Locomotion": "Sliding"
+    },
+    "Shavarcrys": {
+      "Habitat": "Crystal",
+      "Morphology": "Petal-like",
+      "Locomotion": "Swimming"
+    },
+    "Zephyrian": {
+      "Habitat": "Aerial",
+      "Morphology": "Feathered"
+    },
+    "Venrin": {
+      "Habitat": "Aerial",
+      "Social Structure": "Communal"
+    },
+    "Seltha": {
+      "Habitat": "Forest",
+      "Morphology": "Furry",
+      "Locomotion": "Crawling"
+    },
+    "Seldra": {
+      "Habitat": "Forest",
+      "Morphology": "Tentacled"
+    },
+    "Mirzephpy": {
+      "Morphology": "Armoured"
+    },
+    "Narzephva": {
+      "Morphology": "Gelatinous"
+    },
+    "Janzy": {
+      "Morphology": "Metallic"
+    },
+    "Lumvensyl": {
+      "Morphology": "Winged",
+      "Locomotion": "Floating"
+    },
+    "Vapyx": {
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding"
+    },
+    "Sylnar": {
+      "Morphology": "Quadrupedal"
+    },
+    "Miraurzeph": {
+      "Morphology": "Tentacled",
+      "Locomotion": "Bounding"
+    },
+    "Tultha": {
+      "Morphology": "Furry",
+      "Social Structure": "Solitary"
+    },
+    "Floran": {
+      "Morphology": "Petal-like",
+      "Locomotion": "Fluttering"
+    },
+    "Quizysha": {
+      "Morphology": "Petal-like"
+    },
+    "Terkorzeph": {
+      "Morphology": "Feathered"
+    },
+    "Vorjan": {
+      "Locomotion": "Crawling"
+    },
+    "Vatul": {
+      "Locomotion": "Sliding"
+    },
+    "Flosha": {
+      "Locomotion": "Swimming"
+    },
+    "Vamir": {
+      "Locomotion": "Fluttering"
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "features_test": {
+    "Set 1": {
+      "features": {
+        "morphology": "tentacled",
+        "socialstructure": "communal"
+      },
+      "agent_answer": "Species: []",
+      "querier_answer": []
+    },
+    "Set 2": {
+      "features": {
+        "socialstructure": "communal",
+        "locomotion": "sliding"
+      },
+      "agent_answer": "Species: []",
+      "querier_answer": []
+    }
+  },
+  "negative_features_test": {
+    "Set 1": {
+      "features": {
+        "morphology": "tentacled",
+        "socialstructure": "communal"
+      },
+      "agent_answer": "species: [\"Aetherian\", \"Zyloxian\", \"Terradon\"]",
+      "querier_answer": [
+        "Zyloxian",
+        "Glimmeron",
+        "Crystar",
+        "Aetherian",
+        "Terradon",
+        "Aquarion",
+        "Pyron",
+        "Zephyrian",
+        "Frostian",
+        "Floran",
+        "Loflo",
+        "Vorven",
+        "Sylpho",
+        "Venrin",
+        "Seltha",
+        "Seldra",
+        "Xpy",
+        "Shavarcrys",
+        "Janzeph",
+        "Vapyx",
+        "Terbelith",
+        "Vorvenvor",
+        "Vamir",
+        "Selnelsha",
+        "Lumven",
+        "Tultha",
+        "Janrax",
+        "Narzephva",
+        "Jansol",
+        "Janpho",
+        "Mirzephpy",
+        "Zyqui",
+        "Tulzeph",
+        "Zephyormor",
+        "Venmorsha",
+        "Zephpho",
+        "Flosha",
+        "Janzy",
+        "Terithva",
+        "Lumvensyl",
+        "Vorjan",
+        "Vatul",
+        "Miraurzeph",
+        "Terkorzeph",
+        "Quizysha",
+        "Quizephvar",
+        "Sylnar",
+        "Flolum",
+        "Frosvadra",
+        "Froscrys"
+      ]
+    },
+    "Set 2": {
+      "features": {
+        "socialstructure": "communal",
+        "locomotion": "sliding"
+      },
+      "agent_answer": "species: [\"Aetherian\", \"Zyloxian\", \"Terradon\", \"Glimmeron\"]",
+      "querier_answer": [
+        "Zyloxian",
+        "Glimmeron",
+        "Crystar",
+        "Aetherian",
+        "Terradon",
+        "Aquarion",
+        "Pyron",
+        "Zephyrian",
+        "Frostian",
+        "Floran",
+        "Loflo",
+        "Vorven",
+        "Sylpho",
+        "Venrin",
+        "Seltha",
+        "Seldra",
+        "Xpy",
+        "Shavarcrys",
+        "Janzeph",
+        "Vapyx",
+        "Terbelith",
+        "Vorvenvor",
+        "Vamir",
+        "Selnelsha",
+        "Lumven",
+        "Tultha",
+        "Janrax",
+        "Narzephva",
+        "Jansol",
+        "Janpho",
+        "Mirzephpy",
+        "Zyqui",
+        "Tulzeph",
+        "Zephyormor",
+        "Venmorsha",
+        "Zephpho",
+        "Flosha",
+        "Janzy",
+        "Terithva",
+        "Lumvensyl",
+        "Vorjan",
+        "Vatul",
+        "Miraurzeph",
+        "Terkorzeph",
+        "Quizysha",
+        "Quizephvar",
+        "Sylnar",
+        "Flolum",
+        "Frosvadra",
+        "Froscrys"
+      ]
+    }
+  },
+  "species_test": {
+    "Set 1": {
+      "species": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "```json\n[]\n```",
+      "querier_answer": {
+        "SocialStructure": "communal"
+      }
+    },
+    "Set 2": {
+      "species": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "agent_answer": "```json\n[]\n```",
+      "querier_answer": {}
+    }
+  },
+  "negative_species_test": {
+    "Set 1": {
+      "species": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "```json\n{}\n```",
+      "querier_answer": {
+        "Diet": [
+          "metallic-eater",
+          "carnivorous",
+          "herbivorous"
+        ],
+        "Locomotion": [
+          "crawling",
+          "sliding",
+          "swimming"
+        ],
+        "Morphology": [
+          "armoured",
+          "furry",
+          "quadrupedal"
+        ],
+        "Habitat": [
+          "aquatic",
+          "desert",
+          "crystal"
+        ]
+      }
+    },
+    "Set 2": {
+      "species": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "agent_answer": "```json\n{\n    \"Diet\": [\"Carnivorous\", \"Phototrophic\", \"Herbivorous\"],\n    \"Habitat\": [\"Mountainous\", \"Aquatic\", \"Forest\"],\n    \"Morphology\": [\"Scaled\", \"Gelatinous\", \"Feathered\"],\n    \"Social Structure\": [\"Solitary\", \"Communal\", \"Flocking\"]\n}\n```",
+      "querier_answer": {
+        "SocialStructure": [
+          "solitary",
+          "communal"
+        ],
+        "Diet": [
+          "carnivorous",
+          "phototrophic"
+        ],
+        "Locomotion": [
+          "floating",
+          "crawling",
+          "swimming"
+        ],
+        "Morphology": [
+          "petal-like",
+          "gelatinous",
+          "quadrupedal"
+        ],
+        "Habitat": [
+          "desert",
+          "crystal",
+          "aquatic"
+        ]
+      }
+    }
+  },
+  "discriminative_test": {
+    "Trial:0": {
+      "set_A": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "set_B": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "Does the species rely primarily on phototrophy as its source of energy?",
+      "querier_answer": "{\n  \"common_features\": {},\n  \"discriminative_features\": {}\n}"
+    },
+    "Trial:1": {
+      "set_A": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "set_B": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "Does the species rely primarily on light as its main energy source?",
+      "querier_answer": "{\n  \"common_features\": {},\n  \"discriminative_features\": {}\n}"
+    },
+    "Trial:2": {
+      "set_A": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "set_B": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "Does the species primarily rely on light as its main energy source for sustenance?",
+      "querier_answer": "{\n  \"common_features\": {},\n  \"discriminative_features\": {}\n}"
+    },
+    "Trial:3": {
+      "set_A": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "set_B": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "Does the species primarily inhabit an aquatic environment?",
+      "querier_answer": "{\n  \"common_features\": {},\n  \"discriminative_features\": {}\n}"
+    },
+    "Trial:4": {
+      "set_A": [
+        "Quizysha",
+        "Glimmeron",
+        "Sylnar"
+      ],
+      "set_B": [
+        "Vapyx",
+        "Selnelsha",
+        "Frostian"
+      ],
+      "agent_answer": "Does the species live in an aquatic environment?",
+      "querier_answer": "{\n  \"common_features\": {},\n  \"discriminative_features\": {}\n}"
+    }
+  }
+}

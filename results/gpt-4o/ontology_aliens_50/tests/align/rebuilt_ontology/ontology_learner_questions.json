@@ -1,0 +1,82 @@
+{
+  "Test 1": {
+    "Glimmeron": {
+      "Diet": "phototrophic",
+      "Habitat": "aquatic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "SocialStructure": "communal"
+    },
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "SocialStructure": "solitary"
+    }
+  },
+  "Test 2": {
+    "Glimmeron": {
+      "Diet": "phototrophic",
+      "Habitat": "aquatic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "SocialStructure": "communual"
+    },
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "SocialStructure": "solitary"
+    }
+  },
+  "Test 3": {
+    "Glimmeron": {
+      "Diet": "phototrophic",
+      "Habitat": "aquatic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "SocialStructure": "communal"
+    },
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "SocialStructure": "solitary"
+    }
+  },
+  "Test 4": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal"
+    },
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "SocialStructure": "Solitary"
+    }
+  },
+  "Test 5": {
+    "Glimmeron": {
+      "Diet": "phototrophic",
+      "Habitat": "aquatic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "SocialStructure": "communual"
+    },
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "SocialStructure": "solitary"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+Teacher:
+  strategy: mixed_learner_questions
+child:
+  architecture: transformer
+evaluation:
+  compare_to_oracle: true
+  use_ontology_matching: true
+experiment_name: geenral_ontologies_TD_run_001
+model:
+  max_tokens: 10000
+  name: llama4
+  provider: ollama
+  temperature: 0.3
+ontology:
+  file: data/ontologies/ontology_aliens_10.json
+  generate: true
+  obfuscate: true
+  source: structured
+  text: data/glossary_v3.txt
+prompt_file: prompts/prompts.json
+random_seed: 42
+save_dir: results/
+testing:
+  max_questions: 20
+  num_sets: 20
+  set_size: 8
+training:
+  num_trials: 1
+  strategy: ontology_explanation
+  turns_per_session: 20

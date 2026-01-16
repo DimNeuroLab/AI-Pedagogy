@@ -1,0 +1,1897 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Seldra",
+      "Seltha",
+      "Zephyrian",
+      "Lumven",
+      "Vapyx",
+      "Selnelsha",
+      "Janzeph",
+      "Xpy"
+    ],
+    "target": "Lumven",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have the ability to fly?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species exhibit bioluminescence?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species primarily live in forested environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a social structure characterized by large, cooperative groups?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species primarily thrive in arid or desert environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species possess telepathic communication abilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have highly advanced technological capabilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a diet that is primarily herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species primarily live in mountainous environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have unique adaptations for living in cold or icy environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species exhibit a predatory behavior?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species primarily inhabit urban or built environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species live in coastal or marine-adjacent environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Based on the answers so far, let's try narrowing it down with a question about their general environment. \n\nDo the alien species primarily inhabit plains or grassland environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species primarily inhabit subterranean or underground environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Considering the information we have, it seems we might benefit from narrowing down based on some unique or specific trait:\n\nIs the alien species characterized by having an enigmatic or mysterious way of life that is difficult for others to understand?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Do the alien species primarily inhabit wetland or swamp environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have a notable feature of being highly adaptable to diverse environmental conditions?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species have a primary environment that includes tropical or rainforest regions?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Seldra",
+      "Floran",
+      "Janzeph",
+      "Crystar",
+      "Zephyrian",
+      "Selnelsha",
+      "Vapyx",
+      "Venrin"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Based on the current list of candidate aliens, let's ask a question about one specific feature to narrow down the possibilities:\n\nDoes this alien species primarily inhabit aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien species primarily utilize flight as their main form of locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien species primarily inhabit subterranean or underground environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien species primarily interact with other species through mutualistic or symbiotic relationships?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien species rely on photosynthesis or consume primarily plant-based resources?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien species possess a form of armor or protective exoskeleton for defense?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Does this alien species primarily inhabit environments with extreme temperatures, such as volcanic or desert regions?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is this alien species known for its ability to camouflage or blend into its environment as a primary defense mechanism?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is this alien species known for possessing advanced technology or high intelligence relative to others in its environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is this alien species primarily found in forested or jungle environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does this alien species predominantly inhabit mountainous regions or rocky terrains?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is this alien species known for its social behavior, living in large groups or communities?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does this alien species have any unique bioluminescent features or abilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does this alien species primarily reside in or near aquatic environments, but not entirely within them?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is this alien species primarily active during nighttime or in low-light environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Has this alien species evolved to primarily consume mineral-based substances or derive nutrients from mineral-rich sources?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Crystar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 17
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Aquarion",
+      "Jansol",
+      "Vorven",
+      "Floran",
+      "Zephyrian",
+      "Frostian",
+      "Vorvenvor",
+      "Zyloxian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily live in cold or icy environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily have a plant-like morphology or characteristics?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species primarily inhabit windy or aerial environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a name that begins with the letter 'V'?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species name composed of a single word rather than a compound or hyphenated name?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species' name longer than six letters?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "I guess Zephyrian.",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Frostian",
+      "Venrin",
+      "Seldra",
+      "Floran",
+      "Aquarion",
+      "Vorven",
+      "Xpy",
+      "Vorvenvor"
+    ],
+    "target": "Vorvenvor",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Based on the candidate alien species provided, I want to narrow down the possibilities by focusing on a specific characteristic. \n\n**Does the alien primarily inhabit aquatic environments?**",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "**Does the alien primarily thrive in cold or icy environments?**",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "**Is the alien known for having plant-like characteristics or features?**",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "**Does the alien species predominantly inhabit forested or jungle environments?**",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "**Does the alien species possess the ability to photosynthesize?**",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "**Is the alien species known for having vibrant, colorful foliage or appendages?**",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "**Does the alien species typically inhabit arid or desert-like environments?**",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "**Is the alien species primarily associated with rocky or mountainous habitats?**",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "**Is the alien species known for having a preference for humid environments?**",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "**Is the alien species characterized by being primarily nocturnal in its activities?**",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species predominantly found in artificial or heavily modified environments, such as urban or constructed areas?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "**Is the alien species known for having a symbiotic relationship with another species?**",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "**Is the alien species primarily found in aquatic or subaquatic environments?**",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "**Is the alien species typically found in environments with abundant sunlight?**",
+        "answer": "Yes."
+      },
+      {
+        "turn": 15,
+        "question": "Given the characteristics of being plant-like, having the ability to photosynthesize, and being found in environments with abundant sunlight, it seems more aligned with specific traits for Floran:\n\nI guess **Floran**.",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "**Is the alien species known for having a simple or minimalistic physical structure, possibly lacking complex appendages?**",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "I guess **Xpy**.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "**Does the alien species primarily rely on passive defense mechanisms, such as camouflage, rather than active ones?**",
+        "answer": "Yes."
+      },
+      {
+        "turn": 19,
+        "question": "I guess **Seldra**.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "**Is the alien species associated with wide, open spaces such as plains or savannas?**",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Venrin",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Tultha",
+      "Loflo",
+      "Seltha",
+      "Janrax",
+      "Xpy",
+      "Frostian",
+      "Crystar",
+      "Terbelith"
+    ],
+    "target": "Loflo",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species inhabit a cold or icy environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species known for having advanced technological or bioengineering capabilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily inhabit aquatic or water-rich environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a crystalline or mineral-based morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species possess bioluminescent features?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species known for living in a social or community-based structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species predominantly solitary in its behavior and lifestyle?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species adapted to environments with higher temperatures or tropical climates?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species primarily rely on hunting other creatures as its source of food?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have any specific adaptations for filtering or processing nutrients from their aquatic environment, such as filter-feeding structures?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species primarily known for photosynthesizing or deriving energy directly from sunlight or another light source?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Janrax.",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have any unique sensory adaptations for detecting changes in their aquatic environment, such as specialized lateral lines or electroreception?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "I guess Loflo.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Loflo",
+    "correct": true,
+    "questions_used": 14
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Janzeph",
+      "Vapyx",
+      "Selnelsha",
+      "Terradon",
+      "Aquarion",
+      "Narzephva",
+      "Terbelith",
+      "Sylpho"
+    ],
+    "target": "Sylpho",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a predominantly herbivorous diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily inhabit forested environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species possess any form of advanced technology or cultural practices?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species predominantly inhabit mountainous environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species known for its ability to thrive in desert environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have the ability to glide or fly?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species predominantly inhabit grassland environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species primarily inhabit urban or artificial environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species known to inhabit subterranean environments or caves?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species primarily inhabit coastal or marine environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species adapted to living in polar or icy environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have a notable feature related to its sensory perception, such as heightened vision or smell?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species inhabit environments characterized by high humidity or wetland regions?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Do the alien species have unique adaptations for nighttime activity, such as nocturnal vision?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species primarily inhabit rocky or barren landscapes?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species predominantly terrestrial rather than arboreal or aquatic?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species have a significant social structure, such as living in large groups or colonies?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have a notable physical characteristic like armor or thick skin for protection?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Considering the traits narrowed down, I\u2019ll focus on another distinguishing feature: Does the alien species exhibit any unique reproductive adaptations, such as laying eggs or a unique form of nurturing offspring?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Vapyx",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Xpy",
+      "Jansol",
+      "Floran",
+      "Vapyx",
+      "Narzephva",
+      "Vorvenvor",
+      "Terradon",
+      "Vorven"
+    ],
+    "target": "Vorvenvor",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien species primarily live in aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien species have a plant-based diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is this alien species known for its advanced technological capabilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien species have adaptations for living in subterranean environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien species known for its predation capabilities or being a predator?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien species primarily live in forest or jungle environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does this alien species have notable adaptations for extreme temperature environments, such as very hot or very cold climates?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is this alien species known for its flying or gliding abilities?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "Is this alien species primarily herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does this alien species rely heavily on social structures or cooperative behaviors for survival?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Does this alien species inhabit environments primarily characterized by vast open spaces, such as plains or mountaintops?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does this alien species primarily inhabit urban or technologically developed environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is this alien species known for having a carnivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "I guess Jansol.",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is this alien species known for living in environments that are primarily water-rich, such as wetlands or coastal regions?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does this alien species have a diet that relies on omnivory, consuming a variety of food sources?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Vorven.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Is this alien species primarily known for its unique physical appearance or distinct morphological features?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Narzephva.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "I guess Vapyx.",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Xpy.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Janzeph",
+      "Zyloxian",
+      "Janrax",
+      "Frostian",
+      "Lumven",
+      "Pyron",
+      "Vapyx",
+      "Janpho"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit environments with extreme temperatures, such as very high or very low conditions?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily inhabit cold environments, such as icy or snowy regions?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have adaptations for surviving and thriving in hot, volcanic, or geothermal environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species exhibit bio-luminescent or glowing features for communication or navigation?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species possess a heat-resistant exoskeleton or armor-like exterior to withstand high temperatures?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess Pyron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Loflo",
+      "Selnelsha",
+      "Tultha",
+      "Shavarcrys",
+      "Aquarion",
+      "Venrin",
+      "Janzeph",
+      "Zyloxian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a social structure primarily based on individual or solitary behavior?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily inhabit terrestrial (land-based) environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have adaptations for living in desert-like, arid environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have an external morphology that includes protective features, such as a tough exoskeleton or rough skin, adapted for harsh climates?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species exhibit any form of camouflage or color adaptation that helps it blend into its desert environment?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species primarily feed on other organisms, indicating a carnivorous or omnivorous diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have any specialized features for hunting or capturing prey, such as claws or enhanced speed?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for being particularly intelligent or having advanced problem-solving abilities compared to others?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species possess any unique sensory adaptations, such as the ability to detect vibrations or changes in temperature, particularly useful in its arid environment?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species exhibit any notable nocturnal behaviors, such as being primarily active during the night to avoid the heat of the day?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species have any known ability to conserve water efficiently, which is crucial for survival in arid climates?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species exhibit any territorial behavior, such as actively defending a certain area from other individuals or species?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have a reputation for being particularly resilient or adaptable to sudden environmental changes or harsh conditions?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species known for having a distinctive physical feature, such as a particular shape or form, that sets it apart from others?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species have a diet that primarily consists of insects or small creatures typically found in desert environments?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species have the ability to generate or utilize some form of internal or external heat as part of its survival strategy?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species use any form of tool or object manipulation as part of its behavior, indicating a level of dexterity or intelligence?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species possess any abilities or adaptations that enable it to store food for long periods, aiding in survival during scarce resource conditions?",
+        "answer": "I don't know."
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species have any known method of communication, such as vocalizations or signals, that is used despite typically solitary behavior?",
+        "answer": "I don't know."
+      }
+    ],
+    "final_guess": "Tultha",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Terbelith",
+      "Lumven",
+      "Pyron",
+      "Jansol",
+      "Narzephva",
+      "Glimmeron",
+      "Zyloxian",
+      "Vorvenvor"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit environments with high levels of volcanic activity or geothermal features?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily reside in arboreal, forested environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species inhabit aquatic environments, such as oceans or lakes?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species known for living in or adapting to subterranean environments, such as caves or underground tunnels?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species possess advanced technological capabilities or engage in complex cultural practices?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species primarily known for inhabiting open plains or grassland environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a significant adaptation for flight or aerial locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species primarily associated with desert or arid environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for its ability to conserve water efficiently, which is a crucial adaptation for survival in arid environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have nocturnal habits, allowing it to avoid the extreme heat of the day in desert environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have specialized sensory adaptations for navigating or hunting in low-light conditions typical of nighttime?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Narzephva.",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for having a highly developed camouflage ability to blend into the desert landscape?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "I guess Jansol.",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species possess the ability to rapidly change its body temperature to adapt to the fluctuating temperatures of desert environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Pyron.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 16
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Seltha",
+      "Vamir",
+      "Tultha",
+      "Frostian",
+      "Xpy",
+      "Loflo",
+      "Pyron",
+      "Narzephva"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit environments with extreme temperatures, such as very hot or very cold climates?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species primarily adapted to cold environments, such as icy or snowy regions?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species adapted to survive in volcanic or geothermally active environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species primarily inhabit hot and arid environments, such as deserts?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have morphological adaptations for conserving water, such as specialized skin or tissues?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have a diet primarily consisting of plants or vegetation found in its desert environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a social structure that involves living in groups or communities?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species exhibit any traits or abilities that allow for communication using sound, such as vocalizations or auditory signals?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species primarily communicate through visual signals or body language?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species possess any form of bioluminescence or color-changing ability for communication within its social groups?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species adapted to primarily move on two legs, exhibiting bipedal locomotion?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species have a primary mode of locomotion involving crawling or moving close to the ground, such as being quadrupedal or serpentine?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have any features or adaptations specifically for digging or burrowing in its desert environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have any defensive structures, such as spikes or armor, to protect itself from predators or environmental hazards?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species primarily consume small animals or insects as part of its diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "I guess Pyron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 16
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Floran",
+      "Sylpho",
+      "Glimmeron",
+      "Zephyrian",
+      "Shavarcrys",
+      "Frostian",
+      "Seltha",
+      "Janpho"
+    ],
+    "target": "Seltha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit environments with low temperatures, such as icy or snowy regions?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have the ability to manipulate or generate light as part of their natural abilities or adaptations?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily inhabit forested or heavily vegetated environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a strong connection to plant life, such as having plant-like characteristics or engaging in symbiotic relationships with plants?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have the ability to fly or glide through the air as a primary mode of locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have a distinct affinity or adaptation for aquatic environments, such as being able to swim efficiently or breathe underwater?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have specialized adaptations for burrowing or living underground?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have unique sensory adaptations, such as heightened senses or the ability to detect environmental changes in a way that is uncommon among other species?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for having a highly organized social structure or hierarchy within their community?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have any well-known technological capabilities or cultural developments that are distinct within their society?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species demonstrate any unique defensive adaptations or mechanisms to protect themselves against predators or environmental threats?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for engaging in complex, ritualistic behaviors or social practices within their community?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species characterized by a prominent physical trait, such as an unusual coloration or structural feature that distinguishes them from others?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species primarily nocturnal, being most active and engaged in their primary activities during the night?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species predominantly herbivorous, relying mainly on plant-based resources for sustenance?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species primarily communicate using vocalizations as opposed to other forms of communication such as chemical signals or body language?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species have an omnivorous diet, consuming both plant and animal matter?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "I guess Zephyrian.",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species primarily rely on a carnivorous diet, consuming other animals as their primary food source?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Based on the process of elimination and the remaining options, I guess Seltha.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Seltha",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Narzephva",
+      "Xpy",
+      "Janrax",
+      "Vapyx",
+      "Terbelith",
+      "Vorvenvor",
+      "Selnelsha",
+      "Zyloxian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species in question possess a prominent carnivorous diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily inhabit terrestrial environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a hierarchical social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species primarily use bipedal locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for having a camouflage ability to blend into its environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species exhibit any notable form of bioluminescence?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species possess a tail adapted for use in locomotion or balance?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a naturally armored exterior or exoskeleton?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species prefer solitary living as opposed to social groupings?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "I guess Narzephva.",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have the ability to survive in extreme temperature conditions?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Janrax.",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have more than four limbs?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "I guess Vorvenvor.",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "I guess Vapyx.",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Xpy.",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 17
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Xpy",
+      "Selnelsha",
+      "Narzephva",
+      "Janrax",
+      "Vorven",
+      "Janzeph",
+      "Terbelith",
+      "Pyron"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have adaptations suited for high-temperature environments, such as volcanic areas?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species possess a heat-resistant exoskeleton or outer layer as an adaptation for their high-temperature environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species known for engaging in activities that involve manipulating or utilizing geothermal energy sources?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species exhibit social behaviors that involve clan-based systems for survival in their environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species participate in any form of symbiotic relationship with heat-loving microorganisms?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species involved in territorial behavior or adaptations related to competition for resources?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a primary diet focused on mineral consumption?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species primarily live in subterranean habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a morphology that includes wings or other adaptations for flight or gliding?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species known for its ability to adapt quickly to changing environmental conditions?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species possess any unique camouflage abilities to blend in with their volcanic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species exhibit any significant nocturnal behaviors or adaptations?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "I guess Narzephva.",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have any specialized sensory adaptations for navigating or detecting food at night?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "I guess Janrax.",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "I guess Pyron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 16
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Vorvenvor",
+      "Zyloxian",
+      "Aquarion",
+      "Venrin",
+      "Narzephva",
+      "Selnelsha",
+      "Xpy",
+      "Tultha"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit aquatic environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a social structure that is primarily solitary rather than group-based?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species possess a carnivorous diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have enhanced sensory adaptations for hunting, such as heightened vision or olfactory abilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for inhabiting arid or desert-like environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species distinguished by having a unique form of locomotion, such as the ability to glide or burrow?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species known for having any form of natural armor or protective exoskeleton?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species possess a notable adaptation for conserving water, such as specialized skin or metabolic processes?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "I guess Zyloxian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Lumven",
+      "Vamir",
+      "Janrax",
+      "Selnelsha",
+      "Seltha",
+      "Zephyrian",
+      "Sylpho",
+      "Pyron"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have adaptations suited for high-temperature environments, such as volcanic or geothermal areas?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien primarily inhabit aerial or high-altitude environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have features or adaptations specifically for flight or gliding?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species known for having ethereal or wind-related characteristics?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Zephyrian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Glimmeron",
+      "Venrin",
+      "Vorvenvor",
+      "Seldra",
+      "Narzephva",
+      "Crystar",
+      "Janzeph",
+      "Seltha"
+    ],
+    "target": "Seldra",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a social structure characterized by tightly-knit family units or cooperative group behavior?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily rely on bioluminescence for communication or camouflage?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a crystalline or mineral-like morphology, such as an exoskeleton or armor?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species adapted to thrive in volcanic or geothermal environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species primarily rely on burrowing as a form of locomotion or habitat adaptation?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species possess advanced technological capabilities or engage in significant cultural practices?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species primarily herbivorous in its dietary habits?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a solitary lifestyle, typically living alone rather than in groups?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species primarily inhabit forested or dense vegetation environments?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species exhibit adaptations for climbing or navigating through trees, such as prehensile limbs or tails?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Vorvenvor.",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for possessing any unique sensory abilities, such as heightened vision or hearing, adapted to its environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have any notable adaptations for ground-level movement or locomotion, such as increased speed or strength specifically for navigating the forest floor?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "I guess Seldra.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Seldra",
+    "correct": true,
+    "questions_used": 15
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Vorvenvor",
+      "Aetherian",
+      "Frostian",
+      "Seltha",
+      "Selnelsha",
+      "Janrax",
+      "Zyloxian",
+      "Janzeph"
+    ],
+    "target": "Janzeph",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit an environment characterized by extreme cold temperatures?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species possess advanced technological capabilities or demonstrate significant cultural development?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species known for having a symbiotic relationship with another species in their ecosystem?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species primarily terrestrial, living on land rather than in aquatic or aerial environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species inhabit gaseous or atmospheric environments, such as floating in gas giant atmospheres?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species capable of manipulating or generating electromagnetic fields as a part of their natural physiology?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species possess unique adaptations for surviving in high-pressure environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for having a highly social structure or forming large cooperative groups?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have the ability to camouflage or change color to blend into its atmospheric environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species primarily known for its ability to harness or utilize electrical energy from its environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species characterized by their solitary nature, preferring to live and operate independently in their environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species have a diet primarily consisting of gaseous or microscopic organisms found in their atmospheric environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for its ability to withstand or thrive in environments with extreme temperature fluctuations?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species unique for having a bioluminescent feature used for navigation or interaction within its gaseous environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species utilize a form of chemical sensing or detection to interact with and navigate their environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species' primary method of locomotion based on gliding or floating within their gaseous environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Zyloxian.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species have any known ability to generate or withstand high levels of radiation within their environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Aetherian.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "I guess Vorvenvor.",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Seltha",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Aetherian",
+      "Terradon",
+      "Zephyrian",
+      "Frostian",
+      "Floran",
+      "Xpy",
+      "Zyloxian",
+      "Vorvenvor"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit a terrestrial environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily inhabit an aerial environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species primarily thrive in a cold or icy environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for possessing characteristics or adaptations that involve manipulating or generating cold or ice?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Frostian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Seldra",
+      "Zyloxian",
+      "Terbelith",
+      "Sylpho",
+      "Floran",
+      "Pyron",
+      "Shavarcrys",
+      "Loflo"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit environments with high temperatures, such as volcanic or geothermal areas?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a heat-resistant exoskeleton or protective outer layer adapted for survival in extreme heat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily consume minerals or have a diet that includes mineral consumption for sustenance?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species exhibit bioluminescent features for communication or camouflage in their environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have adaptations for burrowing or navigating through underground environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have wings or any capability for aerial locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species primarily live in environments with volcanic activity and lava flows?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have any notable resistance or adaptation to extreme cold, in addition to their adaptation to high temperatures?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have any adaptations for aquatic environments or the ability to swim?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species possess any notable regenerative abilities or quick healing properties?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species predominantly rely on stealth or camouflage for protection against predators?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for having a highly social structure, such as living in large groups or communities?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species exhibit any form of advanced technological development or tool use within their community?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species primarily plant-based or exhibit any characteristics similar to flora, such as photosynthesis?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have any unique sensory adaptations, such as enhanced vision or hearing, to navigate their high-temperature environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 16,
+        "question": "Based on the unique sensory adaptations and high temperature environment described, is the alien species known for its heightened sense of smell or chemical detection capabilities?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Pyron.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 17
+  }
+]

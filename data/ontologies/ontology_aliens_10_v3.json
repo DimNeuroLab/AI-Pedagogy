@@ -1,0 +1,72 @@
+{
+  "Terbelith": {
+    "Diet": "herbivorous",
+    "Habitat": "aquatic",
+    "Morphology": "metallic",
+    "Locomotion": "bounding",
+    "SocialStructure": "solitary"
+  },
+  "Vorvenvor": {
+    "Diet": "phototrophic",
+    "Habitat": "aerial",
+    "Morphology": "gelatinous",
+    "Locomotion": "floating",
+    "SocialStructure": "communal"
+  },
+  "Vamir": {
+    "Diet": "carnivorous",
+    "Habitat": "forest",
+    "Morphology": "winged",
+    "Locomotion": "fluttering",
+    "SocialStructure": "solitary"
+  },
+  "Selnelsha": {
+    "Diet": "metallic-eater",
+    "Habitat": "desert",
+    "Morphology": "armoured",
+    "Locomotion": "swimming",
+    "SocialStructure": "communal"
+  },
+  "Lumven": {
+    "Diet": "phototrophic",
+    "Habitat": "crystal",
+    "Morphology": "tentacled",
+    "Locomotion": "fluttering",
+    "SocialStructure": "communal"
+  },
+  "Tultha": {
+    "Diet": "herbivorous",
+    "Habitat": "crystal",
+    "Morphology": "furry",
+    "Locomotion": "floating",
+    "SocialStructure": "solitary"
+  },
+  "Janrax": {
+    "Diet": "carnivorous",
+    "Habitat": "aerial",
+    "Morphology": "petal-like",
+    "Locomotion": "crawling",
+    "SocialStructure": "solitary"
+  },
+  "Narzephva": {
+    "Diet": "metallic-eater",
+    "Habitat": "forest",
+    "Morphology": "gelatinous",
+    "Locomotion": "sliding",
+    "SocialStructure": "communal"
+  },
+  "Jansol": {
+    "Diet": "phototrophic",
+    "Habitat": "aquatic",
+    "Morphology": "winged",
+    "Locomotion": "swimming",
+    "SocialStructure": "communal"
+  },
+  "Janpho": {
+    "Diet": "herbivorous",
+    "Habitat": "desert",
+    "Morphology": "tentacled",
+    "Locomotion": "bounding",
+    "SocialStructure": "solitary"
+  }
+}

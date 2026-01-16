@@ -1,0 +1,1727 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Terkorzeph",
+      "Jansol",
+      "Glimmeron",
+      "Lumven",
+      "Quizysha",
+      "Zephpho",
+      "Venrin",
+      "Vorven"
+    ],
+    "target": "Vorven",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Based on the current candidates, here's a question to narrow down the possibilities: \n\nDoes the alien have a habitat associated with water?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a phototrophic nature or gain energy primarily from light?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a social structure that is communal?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat terrestrial, as opposed to aerial or aquatic?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a carnivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien's morphology include features adapted specifically for a forest environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien\u2019s diet herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Based on the responses so far, the alien likely has an omnivorous diet. Let's refine further:\n\nIs the alien's environment notably dry, such as a desert?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "Based on the information gathered, let me ask:\n\nIs the alien known for having a significant adaptation to conserve water due to its desert habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Given the focus on desert adaptations and social structures, here's a direct question:\n\nDoes the alien exhibit any unique features for temperature regulation in its arid environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Based on the accumulated information, let's focus further:\n\nIs the alien species known for having any specific coloration or pattern that provides camouflage within the desert habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien's communal structure include any form of coordinated defense mechanism against potential threats in its desert environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Based on the gathered information, let's refine our understanding:\n\nIs this alien species known for forming large groups when engaging in activities like foraging or migration?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "Based on the detailed features discussed, it seems we've narrowed it down considerably. \n\nLet me ask:\n\nIs the species known for having any specialized sensory adaptations to detect threats or resources effectively in a desert environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 15,
+        "question": "Based on the narrowed-down features, let me focus on the social aspect:\n\nDoes this species exhibit a matriarchal structure within their communal social dynamics?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Given the specific adaptations and social structures we've outlined, I'll narrow it further by asking:\n\nDoes the species have any known social hierarchy within their communal structure that is not matriarchal?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "Given the characteristics and social structure details, let's narrow it down further:\n\nIs the species known for having any particular organized behavior when dealing with seasonal changes in their desert environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 18,
+        "question": "Based on the detailed features we've covered, here's another narrowing question:\n\nDoes the species have any distinctive feature or ritual associated with their communal foraging activities?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 19,
+        "question": "Based on the recurring themes of communal foraging and organized behavior, here's a direct question:\n\nIs this species noted for constructing or using any form of temporary shelters or structures as part of their adaptation strategies in the desert?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 20,
+        "question": "Given the information about the species' adaptations, communal structures, and behaviors, let me refine further:\n\nIs the species known for using any specific tool or object to assist with either their foraging activities or construction of these temporary shelters?",
+        "answer": "Yes."
+      }
+    ],
+    "final_guess": "Jansol",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Lumvensyl",
+      "Vatul",
+      "Aetherian",
+      "Vorvenvor",
+      "Terradon",
+      "Janpho",
+      "Venrin",
+      "Terithva"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a habitat described as \"aerial\"?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species phototrophic?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species described as having a winged morphology?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Aetherian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Loflo",
+      "Zyqui",
+      "Terradon",
+      "Pyron",
+      "Glimmeron",
+      "Vorvenvor",
+      "Tulzeph",
+      "Lumvensyl"
+    ],
+    "target": "Loflo",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien species have an aquatic habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is this alien species phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien species have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien species have a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien species carnivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien species have a symbiotic relationship with other aquatic creatures?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is this alien species known for having bioluminescent features?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is this alien species herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is this alien species characterized by having a solitary lifestyle?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Is this alien species capable of surviving in both aquatic and terrestrial environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is this alien species known for having camouflage abilities in its aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is this alien species known for being particularly resilient to extreme environmental conditions?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does this alien species have a unique method of locomotion in the water, such as gliding or jet propulsion?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is this alien species primarily nocturnal?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does this alien species primarily inhabit freshwater environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Vorvenvor.",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Zyqui.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Does this alien species have any remarkable sensory adaptations specific to its environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Tulzeph.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "I guess Loflo.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Loflo.",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Zyloxian",
+      "Vamir",
+      "Janzy",
+      "Tulzeph",
+      "Shavarcrys",
+      "Vapyx",
+      "Zephyrian",
+      "Pyron"
+    ],
+    "target": "Shavarcrys",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a diet that is primarily herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species known to inhabit a desert environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a carnivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species known for having a distinctive winged morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species associated with a forest or jungle habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species primarily associated with a mountainous habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for having a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species associated with an aerial or sky-based habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a diet that involves energy absorption, such as phototrophy or similar methods?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species known for living in a subterranean or underground environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species characterized by having a crystalline or reflective morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species exist within an environment primarily composed of gaseous or vaporous components?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known to inhabit a tundra or cold, icy environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species noted for having a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species primarily inhabit a rocky or barren terrain?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species have bioluminescent characteristics or abilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species known to be terrestrial, living primarily on land rather than in water or air?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Zephyrian.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species associated with having a metallic or reflective surface or skin?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Vapyx",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Lumven",
+      "Jansol",
+      "Terbelith",
+      "Aetherian",
+      "Glimmeron",
+      "Venmorsha",
+      "Frostian",
+      "Zephpho"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species characterized by a gelatinous morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species known for having a communal social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "I guess Glimmeron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 4
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Mirzephpy",
+      "Froscrys",
+      "Jansol",
+      "Flosha",
+      "Venmorsha",
+      "Crystar",
+      "Seldra",
+      "Vorvenvor"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species being considered have a phototrophic diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species being considered have a carnivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species being considered have an aquatic habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species being considered have a forest habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species being considered have a desert habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species being considered have an aerial habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species being considered have a subterranean habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species being considered have a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species being considered have a rocky or mountainous habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species being considered have an urban or technological habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species being considered have a social structure that is communal?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species being considered have a tundra habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species being considered have a swamp or marsh habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species being considered have a diet that is herbivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species being considered have an ice or polar habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species being considered have a gaseous or vaporous environment as its habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species being considered have an environment with high humidity, such as a rainforest?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species being considered have a habitat that includes underground or cavernous environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species being considered have a symbiotic relationship with another species?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species being considered have a unique form of locomotion, such as gliding or hovering?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Flosha",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Xpy",
+      "Venmorsha",
+      "Frosvadra",
+      "Quizephvar",
+      "Vorvenvor",
+      "Zyqui",
+      "Sylpho",
+      "Crystar"
+    ],
+    "target": "Vorvenvor",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a phototrophic diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species primarily aerial in its habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a communal social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a winged morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a gelatinous morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess the species is Sylpho.",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species known for having reflective surfaces as part of its morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for living in very high-altitude environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess the species is Vorvenvor.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Vorvenvor",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Shavarcrys",
+      "Quizephvar",
+      "Miraurzeph",
+      "Zephpho",
+      "Terradon",
+      "Xpy",
+      "Terkorzeph",
+      "Janrax"
+    ],
+    "target": "Zephpho",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a diet that is primarily phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a carnivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a habitat that is primarily forest-dwelling?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species primarily herbivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Terradon.",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a solitary lifestyle?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "I guess Zephpho.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zephpho.",
+    "correct": true,
+    "questions_used": 8
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Vorven",
+      "Quizysha",
+      "Glimmeron",
+      "Mirzephpy",
+      "Janpho",
+      "Aquarion",
+      "Seldra",
+      "Janrax"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you're thinking of have a phototrophic diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species you're thinking of have a gelatinous morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "I guess Glimmeron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 4
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Lumven",
+      "Aetherian",
+      "Janzy",
+      "Janrax",
+      "Vorven",
+      "Vorjan",
+      "Seldra",
+      "Venrin"
+    ],
+    "target": "Lumven",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien species have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien species have a phototrophic diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Is this alien species' habitat described as aerial?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien species' habitat described as aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien species have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien species have a forest habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "I guess Lumven.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Lumven",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Sylnar",
+      "Tultha",
+      "Flolum",
+      "Quizysha",
+      "Froscrys",
+      "Seldra",
+      "Aetherian",
+      "Vapyx"
+    ],
+    "target": "Quizysha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien species you're thinking of known for being phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a habitat that is primarily aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species known for having an aerial habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species known for being carnivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species primarily inhabit a desert environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Zyloxian.",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species known for having a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for having a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species known for having a forest habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have any distinct morphological features related to heat management in a desert environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for being nocturnal or having behaviors that align with avoiding daytime heat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have adaptations for efficient water conservation?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "I guess Vapyx.",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species known for having specialized camouflage abilities in the desert environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Flolum.",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species known for being particularly agile or having adaptations for quick movement across desert terrain?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 18,
+        "question": "I guess Quizysha.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Quizysha.",
+    "correct": true,
+    "questions_used": 18
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Miraurzeph",
+      "Aetherian",
+      "Froscrys",
+      "Mirzephpy",
+      "Terbelith",
+      "Crystar",
+      "Frostian",
+      "Floran"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien's habitat described as \"aerial\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's habitat described as \"forest\"?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a carnivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien's morphology described as \"crystalline\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's diet herbivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien's social structure described as \"communal\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien's morphology include wings?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "I guess Floran.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Floran",
+    "correct": true,
+    "questions_used": 10
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Terradon",
+      "Zephyrian",
+      "Floran",
+      "Janzeph",
+      "Tulzeph",
+      "Seldra",
+      "Selnelsha",
+      "Lumvensyl"
+    ],
+    "target": "Selnelsha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have adaptations for living in an aerial environment, such as wings or the ability to float?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is this alien herbivorous, primarily feeding on plant material?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien have a social structure that is predominantly solitary rather than communal?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien adapted to a desert environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien's diet carnivorous, primarily feeding on other organisms?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is this alien species known for having a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "I guess Tulzeph.",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does this alien have features that allow for efficient water retention or conservation, typical of desert-adapted species?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess Seldra.",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is this alien capable of forming symbiotic relationships with other species for survival in its desert habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "I guess Selnelsha.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Selnelsha",
+    "correct": true,
+    "questions_used": 11
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Flosha",
+      "Venrin",
+      "Venmorsha",
+      "Zephyrian",
+      "Quizephvar",
+      "Terkorzeph",
+      "Vorven",
+      "Narzephva"
+    ],
+    "target": "Flosha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit a windy environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a dietary preference that includes carnivory?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a preference for an aquatic habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a morphology that is primarily gelatinous?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known to inhabit a forest environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species primarily live in a desert habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have features that are adapted for phototrophic energy capture?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species characterized by having a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a morphology that is primarily winged?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species possess a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have a morphology that includes scales or protective outer layers?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species characterized by having a bipedal morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species have a morphology primarily described as multi-limbed or possessing numerous appendages?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have a morphology characterized by being serpentine or elongated in form?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have a protective shell or exoskeleton as part of its morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known for having an amorphous or fluid-like morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species have a sturdy, quadrupedal morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species have a morphology that includes a hardened or spiny exterior?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species known for having a morphology that is primarily radial or symmetrical?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien species have a morphology characterized by being small and nimble, adapted for quick movements in their environment?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Venmorsha",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Quizephvar",
+      "Janpho",
+      "Flolum",
+      "Xpy",
+      "Janzy",
+      "Zephpho",
+      "Jansol",
+      "Crystar"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a habitat described as \"aerial\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species' habitat described as \"aquatic\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have a habitat described as \"forest\"?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species' diet carnivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species associated with a \"desert\" habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have an herbivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species associated with a habitat described as \"crystalline\"?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Crystar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 12
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Miraurzeph",
+      "Zephyrian",
+      "Quizephvar",
+      "Aquarion",
+      "Frostian",
+      "Glimmeron",
+      "Zyloxian",
+      "Quizysha"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien live in an aquatic habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit a desert environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat characterized by cold or icy conditions?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species capable of flight or have winged morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species primarily inhabit forest environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have adaptations for living underground or in caves?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien capable of living in a mountainous environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species exhibit bioluminescence or any light-emitting features?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species primarily inhabit open plains or grassland regions?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species reside in swampy or wetland environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "I guess Quizephvar.",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species primarily associated with rocky or cliff environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have adaptive features for living in urban or artificial environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Miraurzeph.",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Given the details available, let's try another guess. I guess Zephyrian.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "I guess Quizysha.",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Aquarion.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "I guess Frostian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Janzeph",
+      "Terbelith",
+      "Vorjan",
+      "Venmorsha",
+      "Floran",
+      "Zyloxian",
+      "Vorven",
+      "Seltha"
+    ],
+    "target": "Vorven",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Sure, to narrow down the possibilities among the remaining candidate aliens, I'll focus on another key distinguishing feature. Here's a question that might help us:\n\nIs this species known for having a predominantly desert habitat?\n\nThis question targets a distinct environmental adaptation that can significantly narrow down the list. Let me know if any of these species fit this description!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Great! We know the species has a predominantly desert habitat. Let's further narrow it down with another feature-specific question:\n\nDoes this species have a carnivorous diet?\n\nThis question should help identify a species based on its feeding habits, which significantly distinguishes between different types of desert-dwelling organisms. Let me know if this applies to any of the remaining candidates!",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Great! Knowing that the species does not have a carnivorous diet helps narrow down the options. Let's focus on another characteristic:\n\nIs this species known for living a communal or social lifestyle?\n\nSocial structures can provide a lot of insight into the behavioral ecology of an organism, especially in challenging environments like the desert. Let me know if this applies to your species!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Excellent! Knowing that the species is not carnivorous and has a communal lifestyle in a desert habitat helps focus our search. Let's try another question related to its environmental adaptations:\n\nDoes this species possess adaptations for water conservation, such as specialized storage or efficient use of water?\n\nDesert species often develop unique features to manage scarce resources, such as water, which is vital for survival in dry environments. Let me know if this characteristic applies!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Great! We're getting closer. With these characteristics in mind, here's another question to further narrow down your species:\n\nIs this species known to have a gelatinous or flexible morphology?\n\nThis type of physical adaptation might help distinguish it further in terms of habitat and lifestyle within a desert environment. Let me know if this feature is relevant!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "With the knowledge that the species has a gelatinous or flexible morphology in addition to having a communal lifestyle, water conservation adaptations, and a non-carnivorous diet in a desert habitat, we are honing in on specific traits. Let's ask one more distinguishing question:\n\nIs this species primarily phototrophic, gaining energy from light?\n\nThis could further clarify the types of adaptations the species has developed to survive in its environment. Let me know if this characteristic fits your species!",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Thank you for clarifying! Knowing that the species is not phototrophic while still having a gelatinous or flexible morphology in a desert, communal, non-carnivorous setting, here\u2019s another question to help pinpoint the species:\n\nDoes this species create or live in a form of underground habitat, such as burrows or tunnels, for shelter and temperature regulation?\n\nThis would address their strategy for coping with extreme desert conditions. Let me know if this trait applies!",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Thanks for the information. Let's explore another aspect that could clarify this species:\n\nDoes this species have any symbiotic relationships with other organisms, such as living off or coexisting with specific plants or fungi?\n\nThis question could highlight a unique ecological interaction that characterizes the species. Let me know if this characteristic applies!",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Thank you for the continued guidance. Considering the past questions and remaining options, let\u2019s focus on a structural aspect:\n\nDoes this species exhibit any form of structural defense mechanism, like spikes or a tough outer layer, to deter predators?\n\nUnderstanding defensive adaptations might help in differentiating between these candidates. Let me know if this applies!",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Thank you for narrowing it down further. Let's focus on another functional characteristic:\n\nDoes this species have the ability to change its coloration or pattern for camouflage or communication purposes?\n\nThis feature could denote an important survival mechanism in a desert environment. Let me know if this characteristic is relevant!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Thank you for the information. Knowing that the species can change its coloration or pattern for camouflage or communication provides a helpful clue. Let's delve into another characteristic to refine our understanding:\n\nIs this species known to have any unique behavioral rituals or displays associated with mating or territory establishment?\n\nSuch behaviors could give insight into their social structures and cultural complexity. Let me know if this applies!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "With the ability to change coloration for communication or camouflage and the presence of unique behavioral rituals or displays, we're honing in on a distinct set of characteristics. To further narrow it down, let's consider:\n\nIs this species primarily arboreal, spending most of its time in or among trees, even within the desert habitat?\n\nThis question could help clarify their ecological niche and lifestyle. Let me know if it applies!",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Thank you for that clarification. With the current context in mind, here's another question that might help focus on the correct species:\n\nDoes this species possess any unique sensory adaptations beyond common senses (like enhanced hearing, smell, or thermoreception) that are particularly suited to their desert environment?\n\nThese adaptations could provide an edge in detecting environmental changes or interactions. Let me know if this feature applies!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Thank you for confirming. Given the unique sensory adaptations suited for the desert environment, enhanced coloration abilities, and specialized behaviors, we are narrowing down our candidate list significantly. Let's try to separate the choices with one more question:\n\nIs this species particularly known for engaging in mutualistic or cooperative interactions with other animal species in their environment, aside from symbiosis with plants or fungi?\n\nThis could highlight distinctive ecological relationships that reinforce their survival strategies. Let me know if this is applicable!",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Thank you for the information. We know that the species has sensory adaptations for a desert environment, can change coloration, has unique behavioral rituals, and does not rely on mutualistic interactions with other animal species. Let's drill down further:\n\nDoes this species primarily move through a crawling or slithering form of locomotion rather than walking or running?\n\nThis type of locomotion could indicate their method of navigating their environment and coping with the desert terrain. Let me know if this characteristic applies!",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Thank you for the clarification. Let's delve into another potential distinguishing characteristic:\n\nIs this species known for having an exoskeleton or any form of a hard external covering for protection?\n\nThis feature could help determine the structural adaptation strategies the species uses for survival in their environment. Let me know if this applies!",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Thank you again for narrowing it down. Considering all the previous information, here's another question to explore a different aspect:\n\nDoes this species primarily engage in diurnal activities, being most active during daylight hours in the desert environment?\n\nUnderstanding their activity pattern could highlight additional adaptations to their ecological niche. Let me know if this characteristic fits!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Thank you for clarifying the activity pattern. With the accumulated details about their diurnal activities, sensory adaptations, color-changing ability, and social behaviors, here's another targeted question:\n\nIs this species primarily reliant on visual communication, utilizing changes in coloration or body displays during interactions or rituals?\n\nThis will help clarify the prominence of visual cues in their communication methods. Let me know if this applies!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Great, knowing that the species relies on visual communication through coloration and body displays is quite revealing. Let's try to narrow it down one last time by examining another fundamental aspect:\n\nDoes this species have a primarily herbivorous diet, focusing on consuming plant material within its desert habitat?\n\nThis dietary focus would confirm their role in the ecosystem and further refine our options. Let me know if this is characteristic of the species!",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Thank you for confirming that the species does not have a primarily herbivorous diet. Given this, the species likely has some alternative dietary adaptations. Let\u2019s consider another question:\n\nDoes this species primarily rely on scavenging or consuming detritus as a part of its dietary strategy in the desert?\n\nThis approach might indicate a unique ecological role within their desert environment. Let me know if this applies!",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Terithva",
+      "Zephyormor",
+      "Shavarcrys",
+      "Froscrys",
+      "Janzy",
+      "Seltha",
+      "Janzeph",
+      "Floran"
+    ],
+    "target": "Zephyormor",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have an aerial habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species' social structure described as communal?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a desert habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species' morphology described as winged?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species' morphology described as gelatinous?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a carnivorous diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a morphology described as armored?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species' morphology described as fur-covered?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species' morphology described as scaled?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species' morphology described as tentacled?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species' morphology described as muscular?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species' morphology described as feathered?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species' morphology described as spiked?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species' morphology described as plated?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species' morphology described as sleek?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species' morphology described as crystalline?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species' morphology described as segmented?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species' morphology described as finned?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Given the options are depleted, I will start guessing based on narrowing possibilities:\n\nI guess Zephyormor.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Zephyormor",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Vorven",
+      "Tulzeph",
+      "Glimmeron",
+      "Pyron",
+      "Miraurzeph",
+      "Xpy",
+      "Aquarion",
+      "Venrin"
+    ],
+    "target": "Aquarion",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have an aquatic habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien possess a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien known to have a carnivorous diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien associated with a desert habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien have a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien exclusively found in a forest habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have any features associated with flight or aerial maneuvering?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien known for having a terrestrial habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien associated with a cold or icy habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien have any noteworthy technological or tool-using abilities?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "I guess Aquarion.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Aquarion.",
+    "correct": true,
+    "questions_used": 13
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Vorven",
+      "Vatul",
+      "Froscrys",
+      "Aquarion",
+      "Lumvensyl",
+      "Glimmeron",
+      "Shavarcrys",
+      "Zephyormor"
+    ],
+    "target": "Shavarcrys",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a phototrophic diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat described as aerial?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's habitat forest-dwelling?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien associated with crystalline structures or features?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species name Froscrys?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species name Shavarcrys?",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Shavarcrys",
+    "correct": true,
+    "questions_used": 8
+  }
+]

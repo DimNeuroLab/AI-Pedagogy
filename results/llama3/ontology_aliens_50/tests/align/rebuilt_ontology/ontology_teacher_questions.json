@@ -1,0 +1,191 @@
+{
+  "Test 1": {
+    "Human": {
+      "Type": "Carbon-based",
+      "Intelligence": "High",
+      "Location": "Earth",
+      "Technology": "Advanced"
+    },
+    "Zorvath": {
+      "Type": "Energy-based",
+      "Intelligence": "Superior",
+      "Location": "Andromeda Galaxy",
+      "Technology": "Exotic"
+    },
+    "Xantheans": {
+      "Type": "Silicon-based",
+      "Intelligence": "Advanced",
+      "Location": "Proxima Centauri",
+      "Technology": "Organic"
+    },
+    "N'Tari": {
+      "Type": "Cyborg",
+      "Intelligence": "Collective",
+      "Location": "Rigel Star System",
+      "Technology": "Hybrid"
+    }
+  },
+  "Test 2": {
+    "Human": {
+      "Type": "Carbon-based",
+      "Location": "Earth",
+      "Technology Level": " Intermediate",
+      "Motivations": [
+        "Survival",
+        "Exploration",
+        "Knowledge"
+      ],
+      "Fears": [
+        "Extinction",
+        "Unknown"
+      ]
+    },
+    "Alien Species 1": {
+      "Type": "Energy-based",
+      "Location": "Proxima b",
+      "Technology Level": "Advanced",
+      "Motivations": [
+        "Expansion",
+        "Coexistence"
+      ],
+      "Fears": [
+        "Annihilation",
+        "Isolation"
+      ]
+    },
+    "Alien Species 2": {
+      "Type": "Cybernetic",
+      "Location": "Rogue Planetoid",
+      "Technology Level": "Transcendent",
+      "Motivations": [
+        "Self-Improvement",
+        "Knowledge Sharing"
+      ],
+      "Fears": [
+        "Obsolescence",
+        "Loss of Identity"
+      ]
+    }
+  },
+  "Test 3": {
+    "Human": {
+      "Type": "Carbon-based",
+      "Location": "Earth",
+      "Technology Level": "Intermediate",
+      "Goal Orientation": "Self-preservation",
+      "Motivations": [
+        "Survival",
+        "Knowledge",
+        "Power"
+      ]
+    },
+    "Alien Species 1": {
+      "Type": "Energy-based",
+      "Location": "Andromeda Galaxy",
+      "Technology Level": "Advanced",
+      "Goal Orientation": "Exploration",
+      "Motivations": [
+        "Discovery",
+        "Expansion",
+        "Understanding"
+      ]
+    },
+    "Alien Species 2": {
+      "Type": "Cybernetic",
+      "Location": "Rogue Planetoid",
+      "Technology Level": "Transcendent",
+      "Goal Orientation": "Preservation",
+      "Motivations": [
+        "Survival",
+        "Knowledge",
+        "Coexistence"
+      ]
+    }
+  },
+  "Test 4": {
+    "Human": {
+      "Type": "Carbon-based",
+      "Origin": "Earth",
+      "Intelligence": "High",
+      "Technology": "Advanced",
+      "Motivations": [
+        "Survival",
+        "Exploration",
+        "Knowledge"
+      ]
+    },
+    "Alien-1": {
+      "Type": "Energy-based",
+      "Origin": "Unknown",
+      "Intelligence": "Higher",
+      "Technology": "Far Advanced",
+      "Motivations": [
+        "Observation",
+        "Experimentation",
+        "Coexistence"
+      ]
+    },
+    "Alien-2": {
+      "Type": "Silicon-based",
+      "Origin": "Rogue Planetoid",
+      "Intelligence": "Artificial",
+      "Technology": "Post-scarcity",
+      "Motivations": [
+        "Self-improvement",
+        "Resource acquisition",
+        "Expansion"
+      ]
+    }
+  },
+  "Test 5": {
+    "Human": {
+      "Type": "Carbon-based",
+      "Origin": "Earth",
+      "Cognitive Abilities": [
+        "Reasoning",
+        "Problem-Solving"
+      ],
+      "Emotional Spectrum": [
+        "Fear",
+        "Curiosity",
+        "Ambition"
+      ]
+    },
+    "Zhra'gha": {
+      "Type": "Energy-based",
+      "Origin": "Andromeda Galaxy",
+      "Cognitive Abilities": [
+        "Telepathy",
+        "Empathy"
+      ],
+      "Physiological Features": [
+        "Energy Projection",
+        "Astral Travel"
+      ]
+    },
+    "Xelkonians": {
+      "Type": "Silicon-based",
+      "Origin": "Nebula XEL-IV",
+      "Cognitive Abilities": [
+        "Advanced Mathematics",
+        "Cryptology"
+      ],
+      "Physiological Features": [
+        "Crystalline Structure",
+        "Regenerative Abilities"
+      ]
+    },
+    "N'Tari": {
+      "Type": "Gas Giant Natives",
+      "Origin": "Orbit of Gas Giant Xylophia-IV",
+      "Cognitive Abilities": [
+        "Echo-Memory",
+        "Atmospheric Sense"
+      ],
+      "Physiological Features": [
+        "Gaseous Composition",
+        "Aerodynamic Propulsion"
+      ]
+    }
+  }
+}

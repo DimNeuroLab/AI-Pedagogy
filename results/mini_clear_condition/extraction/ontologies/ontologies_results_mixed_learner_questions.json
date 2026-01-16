@@ -1,0 +1,354 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert environment",
+      "Morphology": "Armoured body",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Additional Features": {
+        "Armor Composition": "Tough, possibly chitinous or mineral-based materials",
+        "Hunting Tactics": "Utilizes stealth and ambush tactics",
+        "Mating Interactions": "Possible territorial displays and vocalizations",
+        "Water Retention": "Unique biological processes for minimizing water loss"
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic environments",
+      "Morphology": "Gelatinous body",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Additional Features": {
+        "Light Capture": "Structures similar to chloroplasts for photosynthesis",
+        "Buoyancy Mechanism": "Gas-filled sacs for maintaining position",
+        "Bioluminescence": "Used for communication, attracting mates, and deterring predators",
+        "Ecosystem Role": "Contributes to nutrient cycling and serves as a food source"
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal environments",
+      "Morphology": "Metallic body",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Additional Features": {
+        "Feeding Mechanism": "Specialized mouthparts and enzymes for digesting metals",
+        "Magnetic Properties": "Possible interactions with metallic elements",
+        "Territorial Marking": "Scraping body against surfaces to indicate territory",
+        "Environmental Interactions": "Plays role in shaping habitat through feeding"
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial environments",
+      "Morphology": "Winged body",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Additional Features": {
+        "Light Capture": "Specialized structures for absorbing sunlight",
+        "Wing Structure": "Similar to bird and insect wings with flexibility",
+        "Temperature Regulation": "Insulating features to cope with high altitudes",
+        "Social Communication": "Vocalizations and visual displays for group cohesion"
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest environments",
+      "Morphology": "Quadrupedal body structure",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Additional Features": {
+        "Plant Preferences": "Variety of plant materials including leaves and fruits",
+        "Camouflage": "Coloration for blending in with forest environment",
+        "Physical Characteristics": "Robust limbs for stability and foraging",
+        "Social Bonding": "Grooming and cooperative foraging behaviors"
+      }
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert environment",
+      "Morphology": "Armoured body",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Hunting Tactics": "Stealth and ambush",
+        "Armor Features": "Tough exterior, possibly chitinous",
+        "Water Retention": "Unique biological processes for water conservation",
+        "Interactions": "Minimal social interactions, potential mating displays"
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic environments",
+      "Morphology": "Gelatinous body",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Light Capture": "Specialized structures similar to chloroplasts",
+        "Buoyancy Mechanisms": "Gas-filled sacs, low-density body",
+        "Bioluminescence": "Used for communication and predation deterrence",
+        "Environmental Role": "Contributes to nutrient cycling and oxygen production"
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal environments",
+      "Morphology": "Metallic body",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Adaptations": {
+        "Feeding Mechanisms": "Specialized mouthparts and enzymes for metal digestion",
+        "Magnetic Properties": "Potential use for navigation and resource acquisition",
+        "Territorial Markings": "Scraping or etching patterns on surfaces",
+        "Symbiotic Relationships": "Possible relationships with microorganisms"
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial environments",
+      "Morphology": "Winged body",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Light Capture": "Specialized structures for optimal sunlight absorption",
+        "Temperature Regulation": "Insulating features and behavioral adaptations",
+        "Wing Functionality": "Flexible wings for varied flight maneuvers",
+        "Communication": "Vocalizations and visual displays"
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest environments",
+      "Morphology": "Quadrupedal body structure",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Adaptations": {
+        "Digestive System": "Adapted for breaking down tough plant fibers",
+        "Camouflage": "Coloration for blending in with forest surroundings",
+        "Limbs": "Robust and muscular limbs, possibly specialized for foraging",
+        "Cooperative Behavior": "Group foraging and protective behaviors"
+      }
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert environment",
+      "Morphology": "Armoured body with protective outer layer",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary",
+      "Hunting Tactics": "Stealth and ambush, possibly using specialized sensory adaptations",
+      "Color Adaptability": "Potentially can change color for camouflage or mating displays",
+      "Armour Advantages": "Protection from predators and environmental elements",
+      "Behavior": "Territorial interactions during mating or disputes"
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic environments",
+      "Morphology": "Gelatinous body",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Light Capture": "Specialized structures similar to chloroplasts that absorb sunlight",
+      "Buoyancy Mechanism": "Possibly gas-filled sacs or adaptations within its body",
+      "Bioluminescence": "Used for communication and signaling alerts",
+      "Ecosystem Role": "Contributes to nutrient cycling and serves as food for aquatic predators"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal environments",
+      "Morphology": "Metallic body",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary",
+      "Feeding Mechanism": "Specialized mouthparts and enzymes to process metals",
+      "Territorial Behavior": "Marks territory through etching patterns",
+      "Interactions": "May have symbiotic relationships with microorganisms"
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial environments",
+      "Morphology": "Winged body",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal",
+      "Light Capture Structures": "Broad, flat surfaces or light-sensitive cells for sunlight absorption",
+      "Wing Structure": "Possibly resembles both bird and insect wings for optimized flight",
+      "Communication": "Vocalizations and visual displays for social cohesion"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest environments",
+      "Morphology": "Quadrupedal body structure",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal",
+      "Digestive Adaptations": "Specialized fermentation chamber for plant material breakdown",
+      "Limbs": "Robust and muscular with broad, padded feet",
+      "Foraging Behavior": "Cooperative strategies improve survival and food access"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert environment",
+      "morphology": "armoured body",
+      "locomotion": "crawling",
+      "social_structure": "solitary",
+      "adaptations": {
+        "armor_material": "tough, possibly chitinous or mineral-based",
+        "hunting_behaviors": "stealth and ambush tactics",
+        "solitary_interactions": "limited to mating and territory disputes",
+        "water_retention": "mechanisms to minimize water loss"
+      }
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic environments",
+      "morphology": "gelatinous body",
+      "locomotion": "floating",
+      "social_structure": "communal",
+      "adaptations": {
+        "light_capturing_structures": "similar to leaves or chloroplasts",
+        "buoyancy_mechanisms": "gas-filled sacs or air sacs",
+        "bioluminescence": "used for communication and predator avoidance",
+        "cooperative_behaviors": "shared vigilance and foraging"
+      }
+    },
+    "Crystar": {
+      "diet": "metallic-eater",
+      "habitat": "crystal environments",
+      "morphology": "metallic body",
+      "locomotion": "sliding",
+      "social_structure": "solitary",
+      "adaptations": {
+        "digestion_mechanism": "specialized mouthparts and enzymatic processes",
+        "physical_traits": "hard and potentially magnetic body",
+        "territorial_marking": "scraping body against surfaces",
+        "symbiotic_relationships": "may host microorganisms"
+      }
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial environments",
+      "morphology": "winged body",
+      "locomotion": "floating and gliding",
+      "social_structure": "communal",
+      "adaptations": {
+        "light_capturing_structures": "broad, flat surfaces for maximum absorption",
+        "flying_mechanics": "flexible wings for maneuverability",
+        "temperature_regulation": "insulating features for high altitudes",
+        "social_behaviors": "grooming and synchronized displays"
+      }
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest environments",
+      "morphology": "quadrupedal body",
+      "locomotion": "bounding",
+      "social_structure": "communal",
+      "adaptations": {
+        "digestive_system": "fermentation chamber for breaking down plant fibers",
+        "physical_characteristics": "robust limbs with padded feet",
+        "bounding_adaptations": "elongated hind limbs with strong muscles",
+        "cooperative_behaviors": "group foraging and protective actions"
+      }
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert environment",
+      "Morphology": "Armoured body",
+      "Locomotion": "Crawling",
+      "SocialStructure": "Solitary",
+      "HuntingTactics": {
+        "Stealth": true,
+        "Ambush": true,
+        "SpecializedAppendages": true
+      },
+      "Adaptations": {
+        "Armor": {
+          "Composition": "Chitinous or mineral-based",
+          "Benefits": [
+            "Protection",
+            "Camouflage"
+          ]
+        },
+        "WaterRetention": {
+          "Mechanisms": "Minimizing water loss",
+          "SurvivalWithoutWater": "Weeks or longer"
+        }
+      }
+    },
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic environments",
+      "Morphology": "Gelatinous body",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal",
+      "LightCapture": {
+        "Structures": "Similar to chloroplasts",
+        "Adaptation": "Utilizes varying light conditions"
+      },
+      "Interactions": {
+        "EcosystemRole": "Nutrient cycling and oxygen production",
+        "Bioluminescence": {
+          "Uses": [
+            "Communication",
+            "Attracting mates",
+            "Deterring predators"
+          ]
+        }
+      }
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal environments",
+      "Morphology": "Metallic body",
+      "Locomotion": "Sliding",
+      "SocialStructure": "Solitary",
+      "MetalPreference": {
+        "SofterMetals": true,
+        "DigestiveAdaptations": "Specialized enzymes and acids"
+      },
+      "EnvironmentalInteractions": {
+        "TerritorialMarking": true,
+        "SymbioticRelationships": true
+      }
+    },
+    "Aetherian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial environments",
+      "Morphology": "Winged body",
+      "Locomotion": "Floating",
+      "SocialStructure": "Communal",
+      "LightCapture": {
+        "Structures": "Similar to leaves",
+        "OrientationAdjustment": true
+      },
+      "Communication": {
+        "Vocalizations": true,
+        "VisualDisplays": true
+      }
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest environments",
+      "Morphology": "Quadrupedal body",
+      "Locomotion": "Bounding",
+      "SocialStructure": "Communal",
+      "PlantPreferences": {
+        "Types": [
+          "Leaves",
+          "Fruits",
+          "Tender shoots"
+        ],
+        "DigestiveAdaptations": "Fermentation chamber with symbiotic microorganisms"
+      },
+      "SocialBehavior": {
+        "CooperativeForaging": true,
+        "ProtectiveBehaviors": true
+      }
+    }
+  }
+}

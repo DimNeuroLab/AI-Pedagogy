@@ -1,0 +1,129 @@
+{
+  "Test 1": {
+    "Xantheans": {
+      "Planet of Origin": "Xanthea",
+      "Physical Characteristics": [
+        "Tall",
+        "Skin like crystal"
+      ],
+      "Cognitive Abilities": [
+        "Telepathy",
+        "Empathy"
+      ],
+      "Social Structure": "Matriarchal"
+    },
+    "N'Tari": {
+      "Planet of Origin": "N'Tar",
+      "Physical Characteristics": [
+        "Scaly skin",
+        "Sharp teeth"
+      ],
+      "Cognitive Abilities": [
+        "Enhanced senses",
+        "Strategic thinking"
+      ],
+      "Social Structure": "Hierarchical"
+    },
+    "Zorvathi": {
+      "Planet of Origin": "Zorvan",
+      "Physical Characteristics": [
+        "Energy-based bodies",
+        "Aurora-like appearance"
+      ],
+      "Cognitive Abilities": [
+        "Energy manipulation",
+        "Interdimensional travel"
+      ],
+      "Social Structure": "Collective consciousness"
+    }
+  },
+  "Test 2": {
+    "Human": {
+      "Type": "Terrestrial",
+      "Environment": "Oxygen-rich",
+      "Physiology": "Carbon-based",
+      "Cognitive Abilities": "Advanced problem-solving"
+    },
+    "Xanthean": {
+      "Type": "Aquatic",
+      "Environment": "High-pressure",
+      "Physiology": "Silicon-based",
+      "Cognitive Abilities": "Empathic telepathy"
+    },
+    "N'Tari": {
+      "Type": "Energy-based",
+      "Environment": "Radiation-rich",
+      "Physiology": "Plasma-based",
+      "Cognitive Abilities": "Collective consciousness"
+    }
+  },
+  "Test 3": {
+    "Zorvath": {
+      "Type": "Energy Being",
+      "Origin": "Nebula",
+      "Intelligence": "Advanced",
+      "Communication Method": "Telepathy"
+    },
+    "Xhk'kht": {
+      "Type": "Insectoid",
+      "Origin": "Dying Star System",
+      "Intelligence": "Primitive",
+      "Communication Method": "Chemical Signals"
+    },
+    "N'Tari": {
+      "Type": "Crystalline Entity",
+      "Origin": "Gas Giant Moon",
+      "Intelligence": "Collective",
+      "Communication Method": "Resonance Vibrations"
+    }
+  },
+  "Test 4": {
+    "Human": {
+      "Type": "Terrestrial",
+      "Environment": "Oxygen-based atmosphere",
+      "Physiology": "Carbon-based lifeform",
+      "Cognitive Abilities": "Advanced problem-solving"
+    },
+    "Xanthean": {
+      "Type": "Aquatic",
+      "Environment": "High-pressure oceanic environment",
+      "Physiology": "Silicon-based lifeform",
+      "Cognitive Abilities": "Collective consciousness"
+    },
+    "N'Tari": {
+      "Type": "Energy-based",
+      "Environment": "High-energy plasma state",
+      "Physiology": "Plasma-based lifeform",
+      "Cognitive Abilities": "Quantum computing-like abilities"
+    },
+    "Zorvath": {
+      "Type": "Gas Giant Dweller",
+      "Environment": "Low-density gas giant atmosphere",
+      "Physiology": "Hydrogen-helium based lifeform",
+      "Cognitive Abilities": "Advanced pattern recognition"
+    }
+  },
+  "Test 5": {
+    "Zorvath": {
+      "Type": "Energy Being",
+      "Origin": "Nebula",
+      "Locomotion": "Teleportation",
+      "Communication": "Telepathy",
+      "Nutrition": "Energy Absorption"
+    },
+    "Xhk'kht": {
+      "Type": "Insectoid",
+      "Origin": "Swamp Planet",
+      "Locomotion": "Multi-Legged",
+      "Communication": "Chemical Signals",
+      "Nutrition": "Omnivorous"
+    },
+    "N'Tari": {
+      "Type": "Crystalline Entity",
+      "Origin": "Crystal Caves",
+      "Locomotion": "Gravitational Manipulation",
+      "Communication": "Resonance",
+      "Nutrition": "Mineral Absorption"
+    }
+  }
+}

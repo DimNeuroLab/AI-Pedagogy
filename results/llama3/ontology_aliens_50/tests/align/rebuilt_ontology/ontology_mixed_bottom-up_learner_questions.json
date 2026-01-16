@@ -1,0 +1,131 @@
+{
+  "Test 1": {
+    "Quantum Fluxers": {
+      "Domain": "Subatomic",
+      "Interaction": "Gravitational",
+      "Role": "Stabilizers"
+    },
+    "Echo Walkers": {
+      "Domain": "Interdimensional",
+      "Interaction": "Resonant",
+      "Role": "Cartographers"
+    },
+    "Aurorach": {
+      "Domain": "Auroral",
+      "Interaction": "Echoflux",
+      "Role": "Cosmic Cartographers",
+      "Features": {
+        "Luminescent Bodies": true,
+        "Collective Memory": "Auroral Archive"
+      }
+    },
+    "Echoflux": {
+      "Type": "Unified Field",
+      "Properties": {
+        "Dynamic": true,
+        "Evolving": true
+      },
+      "Role": "Fabric of Reality"
+    },
+    "Auroral Archive": {
+      "Type": "Collective Memory",
+      "Properties": {
+        "Non-Physical": true,
+        "Beyond Space and Time": true
+      }
+    }
+  },
+  "Test 2": {
+    "Quantum Fluxer": {
+      "Domain": "Subatomic",
+      "Influence": "Probability Fields",
+      "Role": " Reality Shapers"
+    },
+    "Graviton Weaver": {
+      "Domain": "Cosmic Fabric",
+      "Influence": "Gravity Waves",
+      "Role": "Reality Architects"
+    },
+    "Aurorach": {
+      "Domain": "Auroras of Distant Stars",
+      "Connection": "Cosmic Consciousness",
+      "Role": "Fabric Maintainers",
+      "Interaction": "Echoflux",
+      "Knowledge Repository": "Auroral Archive"
+    }
+  },
+  "Test 3": {
+    "Quantum Fluxers": {
+      "type": "energy-based",
+      "environment": "high-energy environments",
+      "influence": "manipulate probability fields"
+    },
+    "Aurorach": {
+      "type": "luminescent beings",
+      "environment": "auroras of distant stars",
+      "influence": "maintain fabric of reality",
+      "connection": "cosmic consciousness",
+      "field": "Echoflux",
+      "archive": "Auroral Archive"
+    },
+    "Gravitons": {
+      "type": "subatomic particles",
+      "environment": "high-gravity environments",
+      "influence": "mediate gravitational forces"
+    },
+    "Cosmic Weavers": {
+      "type": "interdimensional beings",
+      "environment": "fabric of reality",
+      "influence": "weave threads of reality"
+    }
+  },
+  "Test 4": {
+    "Quantum Fluxers": {
+      "habitat": "Quantum Foam",
+      "role": "Navigators of Quantum Probability",
+      "ability": "Manipulate Quantum States"
+    },
+    "Aurorach": {
+      "habitat": "Auroras of Distant Stars",
+      "role": "Cosmic Cartographers and Maintainers of Reality",
+      "ability": "Interact with the Echoflux",
+      "archive": "Auroral Archive",
+      "echoflux": "Dynamic, Evolving Matrix of Interconnected Resonances"
+    },
+    "Echoflux": {
+      "nature": "Unified Field Underlying All Existence",
+      "properties": [
+        "Dynamic",
+        "Evolving",
+        "Matrix of Interconnected Resonances"
+      ]
+    }
+  },
+  "Test 5": {
+    "Quantum Fluxers": {
+      "Domain": "Subatomic",
+      "Role": "Reality Shapers",
+      "Features": {
+        "Flux Sense": "Active",
+        "Energy Manipulation": "Precise"
+      }
+    },
+    "Aurorach": {
+      "Domain": "Auroral",
+      "Role": "Cosmic Cartographers",
+      "Features": {
+        "Luminescent Body": "True",
+        "Echoflux Interaction": "Navigational",
+        "Auroral Archive Access": "Collective"
+      }
+    },
+    "Gravitons": {
+      "Domain": "Gravitational",
+      "Role": "Mass Shapers",
+      "Features": {
+        "Gravity Manipulation": "Selective",
+        "Mass Warping": "Precise"
+      }
+    }
+  }
+}

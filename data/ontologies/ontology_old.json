@@ -1,0 +1,316 @@
+{
+  "alien_species": [
+    {
+      "name": "Zyloxian",
+      "diet": "carnivorous",
+      "habitat": "desert caves",
+      "morphology": "multi-limbed",
+      "locomotion": "tunnelling",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Glimmeron",
+      "diet": "phototrophic",
+      "habitat": "floating archipelagos",
+      "morphology": "gelatinous",
+      "locomotion": "hovering",
+      "social_structure": "swarm-based"
+    },
+    {
+      "name": "Ferrax",
+      "diet": "metallic-eater",
+      "habitat": "crystal jungles",
+      "morphology": "metallic shell",
+      "locomotion": "crawling",
+      "social_structure": "duopolistic"
+    },
+    {
+      "name": "Blorbian",
+      "diet": "carnivorous",
+      "habitat": "swampy marshes",
+      "morphology": "gelatinous",
+      "locomotion": "slithering",
+      "social_structure": "swarm-based"
+    },
+    {
+      "name": "Quorax",
+      "diet": "phototrophic",
+      "habitat": "crystal jungles",
+      "morphology": "multi-limbed",
+      "locomotion": "climbing",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Tundragon",
+      "diet": "carnivorous",
+      "habitat": "icy plains",
+      "morphology": "fur-covered",
+      "locomotion": "bounding",
+      "social_structure": "pack-based"
+    },
+    {
+      "name": "Luminoid",
+      "diet": "phototrophic",
+      "habitat": "floating archipelagos",
+      "morphology": "translucent",
+      "locomotion": "gliding",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Metallivore",
+      "diet": "metallic-eater",
+      "habitat": "rocky craters",
+      "morphology": "metallic shell",
+      "locomotion": "rolling",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Cavernite",
+      "diet": "carnivorous",
+      "habitat": "underground caverns",
+      "morphology": "spiked",
+      "locomotion": "crawling",
+      "social_structure": "hive-based"
+    },
+    {
+      "name": "Aetherian",
+      "diet": "phototrophic",
+      "habitat": "cloud cities",
+      "morphology": "winged",
+      "locomotion": "soaring",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Siliconian",
+      "diet": "metallic-eater",
+      "habitat": "lava fields",
+      "morphology": "silicon-based",
+      "locomotion": "slithering",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Frostling",
+      "diet": "carnivorous",
+      "habitat": "icy plains",
+      "morphology": "feathered",
+      "locomotion": "skating",
+      "social_structure": "duopolistic"
+    },
+    {
+      "name": "Vaporite",
+      "diet": "phototrophic",
+      "habitat": "gas giants",
+      "morphology": "amorphous",
+      "locomotion": "drifting",
+      "social_structure": "swarm-based"
+    },
+    {
+      "name": "Crystallon",
+      "diet": "metallic-eater",
+      "habitat": "crystal jungles",
+      "morphology": "crystalline",
+      "locomotion": "gliding",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Sandstrider",
+      "diet": "carnivorous",
+      "habitat": "desert dunes",
+      "morphology": "exoskeletal",
+      "locomotion": "scuttling",
+      "social_structure": "pack-based"
+    },
+    {
+      "name": "Skywhale",
+      "diet": "phototrophic",
+      "habitat": "floating archipelagos",
+      "morphology": "massive",
+      "locomotion": "floating",
+      "social_structure": "herd-based"
+    },
+    {
+      "name": "Ironclad",
+      "diet": "metallic-eater",
+      "habitat": "metallic wastelands",
+      "morphology": "armored",
+      "locomotion": "trudging",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Cavecrawler",
+      "diet": "carnivorous",
+      "habitat": "underground caverns",
+      "morphology": "segmented",
+      "locomotion": "crawling",
+      "social_structure": "hive-based"
+    },
+    {
+      "name": "Cloudling",
+      "diet": "phototrophic",
+      "habitat": "cloud cities",
+      "morphology": "ethereal",
+      "locomotion": "drifting",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Moltenite",
+      "diet": "metallic-eater",
+      "habitat": "lava fields",
+      "morphology": "molten",
+      "locomotion": "flowing",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Iceclaw",
+      "diet": "carnivorous",
+      "habitat": "icy plains",
+      "morphology": "clawed",
+      "locomotion": "bounding",
+      "social_structure": "pack-based"
+    },
+    {
+      "name": "Gaseous",
+      "diet": "phototrophic",
+      "habitat": "gas giants",
+      "morphology": "gaseous",
+      "locomotion": "swirling",
+      "social_structure": "swarm-based"
+    },
+    {
+      "name": "Quartzite",
+      "diet": "metallic-eater",
+      "habitat": "crystal jungles",
+      "morphology": "faceted",
+      "locomotion": "gliding",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Dunewalker",
+      "diet": "carnivorous",
+      "habitat": "desert dunes",
+      "morphology": "long-legged",
+      "locomotion": "striding",
+      "social_structure": "pack-based"
+    },
+    {
+      "name": "Aetherwhale",
+      "diet": "phototrophic",
+      "habitat": "floating archipelagos",
+      "morphology": "gigantic",
+      "locomotion": "floating",
+      "social_structure": "herd-based"
+    },
+    {
+      "name": "Steelbiter",
+      "diet": "metallic-eater",
+      "habitat": "metallic wastelands",
+      "morphology": "sharp-toothed",
+      "locomotion": "trudging",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Tunnelworm",
+      "diet": "carnivorous",
+      "habitat": "underground caverns",
+      "morphology": "worm-like",
+      "locomotion": "burrowing",
+      "social_structure": "hive-based"
+    },
+    {
+      "name": "Nimbus",
+      "diet": "phototrophic",
+      "habitat": "cloud cities",
+      "morphology": "wispy",
+      "locomotion": "drifting",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Lavaslug",
+      "diet": "metallic-eater",
+      "habitat": "lava fields",
+      "morphology": "magma-like",
+      "locomotion": "slithering",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Frostfang",
+      "diet": "carnivorous",
+      "habitat": "icy plains",
+      "morphology": "fanged",
+      "locomotion": "skating",
+      "social_structure": "duopolistic"
+    },
+    {
+      "name": "Gaswhirl",
+      "diet": "phototrophic",
+      "habitat": "gas giants",
+      "morphology": "vaporous",
+      "locomotion": "swirling",
+      "social_structure": "swarm-based"
+    },
+    {
+      "name": "Gemling",
+      "diet": "metallic-eater",
+      "habitat": "crystal jungles",
+      "morphology": "gem-encrusted",
+      "locomotion": "gliding",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Sandhopper",
+      "diet": "carnivorous",
+      "habitat": "desert dunes",
+      "morphology": "spring-legged",
+      "locomotion": "hopping",
+      "social_structure": "pack-based"
+    },
+    {
+      "name": "Skyglider",
+      "diet": "phototrophic",
+      "habitat": "floating archipelagos",
+      "morphology": "aerodynamic",
+      "locomotion": "gliding",
+      "social_structure": "herd-based"
+    },
+    {
+      "name": "Ironmaw",
+      "diet": "metallic-eater",
+      "habitat": "metallic wastelands",
+      "morphology": "heavy-jawed",
+      "locomotion": "trudging",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Cavebeast",
+      "diet": "carnivorous",
+      "habitat": "underground caverns",
+      "morphology": "hulking",
+      "locomotion": "lumbering",
+      "social_structure": "hive-based"
+    },
+    {
+      "name": "Cloudbeast",
+      "diet": "phototrophic",
+      "habitat": "cloud cities",
+      "morphology": "fluffy",
+      "locomotion": "drifting",
+      "social_structure": "communal"
+    },
+    {
+      "name": "Lavamorph",
+      "diet": "metallic-eater",
+      "habitat": "lava fields",
+      "morphology": "shape-shifting",
+      "locomotion": "flowing",
+      "social_structure": "solitary"
+    },
+    {
+      "name": "Iceprowler",
+      "diet": "carnivorous",
+      "habitat": "icy plains",
+      "morphology": "sleek",
+      "locomotion": "skating",
+      "social_structure": "duopolistic"
+    }
+  ]
+}

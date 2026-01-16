@@ -1,0 +1,167 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "diet": "meat",
+      "habitat": "arid regions",
+      "movement": "dragging",
+      "social_behavior": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "light",
+      "habitat": "water-based environments",
+      "movement": "drifting",
+      "social_behavior": "group"
+    },
+    "Crystar": {
+      "diet": "metal",
+      "habitat": "crystalline landscapes",
+      "movement": "sliding",
+      "social_behavior": "solitary"
+    },
+    "Aetherian": {
+      "diet": "light",
+      "habitat": "sky",
+      "movement": "drifting",
+      "social_behavior": "group"
+    },
+    "Terradon": {
+      "diet": "plants",
+      "habitat": "forests",
+      "movement": "walking on four limbs",
+      "social_behavior": "community"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "Diet": "Meat-based",
+      "Habitat": "Arid regions",
+      "Movement": "Dragging",
+      "Social Behavior": "Solitary"
+    },
+    "Glimmeron": {
+      "Diet": "Light-based",
+      "Habitat": "Water-based",
+      "Movement": "Drifting",
+      "Social Behavior": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metal substances",
+      "Habitat": "Crystalline landscapes",
+      "Movement": "Sliding",
+      "Social Behavior": "Solitary"
+    },
+    "Aetherian": {
+      "Diet": "Light-based",
+      "Habitat": "Sky",
+      "Movement": "Drifting",
+      "Social Behavior": "Communal"
+    },
+    "Terradon": {
+      "Diet": "Plant matter",
+      "Habitat": "Forested areas",
+      "Movement": "Walking on four limbs",
+      "Social Behavior": "Communal"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "diet": "meat-based",
+      "habitat": "arid regions",
+      "structure": "protective",
+      "movement": "dragging",
+      "social_behavior": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "light",
+      "habitat": "water-based environments",
+      "structure": "flexible",
+      "movement": "drifting",
+      "social_behavior": "group"
+    },
+    "Crystar": {
+      "diet": "metal substances",
+      "habitat": "crystalline landscapes",
+      "structure": "hard and reflective",
+      "movement": "sliding",
+      "social_behavior": "solitary"
+    },
+    "Aetherian": {
+      "diet": "light",
+      "habitat": "sky",
+      "structure": "wings",
+      "movement": "drifting",
+      "social_behavior": "group"
+    },
+    "Terradon": {
+      "diet": "plant matter",
+      "habitat": "forested areas",
+      "structure": "four limbs",
+      "movement": "active",
+      "social_behavior": "community"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "diet": "meat-based",
+      "habitat": "arid regions",
+      "movement": "dragging",
+      "social_behavior": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "light",
+      "habitat": "water-based",
+      "movement": "drifting",
+      "social_behavior": "social"
+    },
+    "Crystar": {
+      "diet": "metal substances",
+      "habitat": "crystalline landscapes",
+      "movement": "sliding",
+      "social_behavior": "solitary"
+    },
+    "Aetherian": {
+      "diet": "light",
+      "habitat": "sky",
+      "movement": "drifting",
+      "social_behavior": "social"
+    },
+    "Terradon": {
+      "diet": "plant matter",
+      "habitat": "forested areas",
+      "movement": "four-limbed walking",
+      "social_behavior": "social"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "diet": "meat",
+      "habitat": "arid",
+      "movement": "dragging",
+      "social_behavior": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "light",
+      "habitat": "water-based",
+      "movement": "drifting",
+      "social_behavior": "group"
+    },
+    "Crystar": {
+      "diet": "metal",
+      "habitat": "crystalline",
+      "movement": "sliding",
+      "social_behavior": "solitary"
+    },
+    "Aetherian": {
+      "diet": "light",
+      "habitat": "sky",
+      "movement": "drifting",
+      "social_behavior": "group"
+    },
+    "Terradon": {
+      "diet": "plants",
+      "habitat": "forest",
+      "movement": "four-limbed walking",
+      "social_behavior": "community"
+    }
+  }
+}

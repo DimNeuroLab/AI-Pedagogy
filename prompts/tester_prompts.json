@@ -1,0 +1,27 @@
+{
+    "features_based": 
+    {
+        "prompt": "Based on everything you have learned so far, list all species that match all of the following features-value pairs. \n Features : {features}. \n Output format: Species: string[]. If no species match, return an empty list. Do not include any extra text, explanations, or commentary."
+    },
+    "objects_based":
+    {
+        "prompt": "Based on everything you have learned so far, list all features that the following species have in common.\n Species: {species}. Output format: JSON object where each feature is a key and the value is the feature value. If no features match, return an empty list. Do not include any extra text, explanations, or commentary."
+    },
+    "discriminative":
+    {
+        "prompt": "Based on everything you have learned so far, generate a discriminative question that can be used to differentiate between the following two species sets.\n Set A : {set_A} \n Set B : {set_B}. The question should be based on their features and should help in identifying one species from the others. Do not include any extra text, explanations, or commentary."
+    },
+    "negative_features_based": 
+    {
+        "prompt": "Based on everything you have learned so far, list all species that do not match the following features-value pairs. \n Features : {features}. Output format: species: string[]. If no species match, return an empty list. Do not include any extra text, explanations, or commentary."
+    },
+    "negative_objects_based":
+    {
+        "prompt": "Based on everything you have learned so far, list all features that the following species do not have in common.\n Species: {species}. Output format: JSON object where each feature is a key and the value is a list of the values such feature assume in the input list. If no features match, return an empty list. Do not include any extra text, explanations, or commentary."
+    },
+    "rebuild_ontology":
+    {
+        "prompt": "Based on everything you have learned so far, output your internal representation of the ontology. Structure it as a JSON object where each species is a key and the value is a dictionary of its features and their values. Do not include any extra text, explanations, or commentary."
+
+    }
+}

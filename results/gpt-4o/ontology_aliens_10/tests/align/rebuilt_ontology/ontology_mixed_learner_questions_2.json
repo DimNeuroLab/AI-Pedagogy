@@ -1,0 +1,194 @@
+{
+  "Test 1": {
+    "Loflo": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Aquatic",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Solitary"
+    },
+    "Vorven": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Sylpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Feathered",
+      "Locomotion": "Swimming",
+      "Social Structure": "Communal"
+    },
+    "Xpy": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Communal"
+    },
+    "Venrin": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    }
+  },
+  "Test 2": {
+    "Loflo": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Aquatic",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Solitary"
+    },
+    "Vorven": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Xpy": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Communal"
+    },
+    "Sylpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Feathered",
+      "Locomotion": "Swimming",
+      "Social Structure": "Solitary"
+    },
+    "Janzeph": {
+      "Diet": "Carnivorous",
+      "Habitat": "Aerial",
+      "Morphology": "Tentacled",
+      "Locomotion": "Sliding",
+      "Social Structure": "Communal"
+    },
+    "Venrin": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    }
+  },
+  "Test 3": {
+    "Loflo": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Aquatic",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Communal"
+    },
+    "Vorven": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Sylpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Feathered",
+      "Locomotion": "Swimming",
+      "Social Structure": "Solitary"
+    },
+    "Xpy": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Communal"
+    },
+    "Venrin": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    }
+  },
+  "Test 4": {
+    "Loflo": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Aquatic",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Unknown"
+    },
+    "Vorven": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Sylpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Feathered",
+      "Locomotion": "Swimming",
+      "Social Structure": "Unknown"
+    },
+    "Xpy": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Communal"
+    },
+    "Venrin": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    }
+  },
+  "Test 5": {
+    "Loflo": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Aquatic",
+      "Morphology": "Winged",
+      "Locomotion": "Fluttering",
+      "Social Structure": "Solitary"
+    },
+    "Vorven": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Sylpho": {
+      "Diet": "Herbivorous",
+      "Habitat": "Crystal",
+      "Morphology": "Feathered",
+      "Locomotion": "Swimming",
+      "Social Structure": "Solitary"
+    },
+    "Venrin": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Xpy": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Desert",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Communal"
+    }
+  }
+}

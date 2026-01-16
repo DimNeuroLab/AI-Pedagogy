@@ -1,0 +1,77 @@
+{
+    "features_test": {
+        "Set 1": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 10
+        },
+        "Set 2": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 10
+        }
+    },
+    "negative_features_test": {
+        "Set 1": {
+            "missing": 50,
+            "correct": 0,
+            "extra": 26
+        },
+        "Set 2": {
+            "missing": 50,
+            "correct": 0,
+            "extra": 26
+        }
+    },
+    "species_test": {
+        "Set 1": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 8
+        },
+        "Set 2": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 8
+        }
+    },
+    "negative_species_test": {
+        "Set 1": {
+            "missing": 5,
+            "correct": 0,
+            "extra": 41
+        },
+        "Set 2": {
+            "missing": 5,
+            "correct": 0,
+            "extra": 41
+        }
+    },
+    "discriminative_test": {
+        "Trial:0": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 0
+        },
+        "Trial:1": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 0
+        },
+        "Trial:2": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 0
+        },
+        "Trial:3": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 0
+        },
+        "Trial:4": {
+            "missing": 0,
+            "correct": 0,
+            "extra": 0
+        }
+    }
+}

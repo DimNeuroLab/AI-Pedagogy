@@ -1,0 +1,229 @@
+{
+  "Test 1": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Zephyrian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Feathered",
+      "Locomotion": "Floating",
+      "Social Structure": "Solitary"
+    }
+  },
+  "Test 2": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Communal"
+    },
+    "Zephyrian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Feathered",
+      "Locomotion": "Floating",
+      "Social Structure": "Solitary"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Sandstrider": {
+      "Diet": "Unknown",
+      "Habitat": "Desert",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Dune Dweller": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    },
+    "Jansol": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Unknown"
+    }
+  },
+  "Test 3": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Zephyrian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Feathered",
+      "Locomotion": "Floating",
+      "Social Structure": "Solitary"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Unknown",
+      "Locomotion": "Unknown",
+      "Social Structure": "Solitary"
+    },
+    "Sandstrider": {
+      "Diet": "Scavenger",
+      "Habitat": "Desert",
+      "Morphology": "Long-legged",
+      "Locomotion": "Running",
+      "Social Structure": "Unknown"
+    },
+    "Dune Dweller": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Burrowing",
+      "Locomotion": "Digging",
+      "Social Structure": "Unknown"
+    }
+  },
+  "Test 4": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Communal"
+    },
+    "Terradon": {
+      "Diet": "Herbivorous",
+      "Habitat": "Forest",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Crystar": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal",
+      "Morphology": "Metallic",
+      "Locomotion": "Sliding",
+      "Social Structure": "Solitary"
+    },
+    "Zephyrian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Feathered",
+      "Locomotion": "Floating",
+      "Social Structure": "Solitary"
+    }
+  },
+  "Test 5": {
+    "Glimmeron": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aquatic",
+      "Morphology": "Gelatinous",
+      "Locomotion": "Floating",
+      "Social Structure": "Communal"
+    },
+    "Pyron": {
+      "Diet": "Carnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Armoured",
+      "Locomotion": "Crawling",
+      "Social Structure": "Communal"
+    },
+    "Zephyrian": {
+      "Diet": "Phototrophic",
+      "Habitat": "Aerial",
+      "Morphology": "Feathered",
+      "Locomotion": "Floating",
+      "Social Structure": "Solitary"
+    },
+    "Aquarion": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Quadrupedal",
+      "Locomotion": "Bounding",
+      "Social Structure": "Communal"
+    },
+    "Sandstrider": {
+      "Diet": "Omnivorous",
+      "Habitat": "Desert",
+      "Morphology": "Streamlined",
+      "Locomotion": "Running",
+      "Social Structure": "Nomadic"
+    },
+    "Dune Dweller": {
+      "Diet": "Herbivorous",
+      "Habitat": "Desert",
+      "Morphology": "Burrower",
+      "Locomotion": "Digging",
+      "Social Structure": "Solitary"
+    }
+  }
+}

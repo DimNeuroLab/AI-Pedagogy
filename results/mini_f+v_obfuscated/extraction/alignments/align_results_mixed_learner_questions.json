@@ -1,0 +1,327 @@
+{
+    "0": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Collaboration",
+                "average_similarity": 0.0,
+                "name_similarity": 0.4,
+                "blended_score": 0.2,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Resilience",
+                "average_similarity": 0.0,
+                "name_similarity": 0.23529411764705882,
+                "blended_score": 0.11764705882352941,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Collaboration",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2,
+                "blended_score": 0.1,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Collaboration",
+                "average_similarity": 0.0,
+                "name_similarity": 0.3,
+                "blended_score": 0.15,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Challenges",
+                "average_similarity": 0.0,
+                "name_similarity": 0.47058823529411764,
+                "blended_score": 0.23529411764705882,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 5,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Collaboration",
+                "average_similarity": 0.0,
+                "name_similarity": 0.4,
+                "blended_score": 0.2,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Strengths",
+                "average_similarity": 0.0,
+                "name_similarity": 0.375,
+                "blended_score": 0.1875,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Collaboration",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2,
+                "blended_score": 0.1,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Leadership",
+                "average_similarity": 0.0,
+                "name_similarity": 0.35294117647058826,
+                "blended_score": 0.17647058823529413,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Core Values",
+                "average_similarity": 0.0,
+                "name_similarity": 0.4444444444444444,
+                "blended_score": 0.2222222222222222,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 6,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 6,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.18181818181818182,
+                "blended_score": 0.09090909090909091,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.18181818181818182,
+                "blended_score": 0.09090909090909091,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "External",
+                "average_similarity": 0.0,
+                "name_similarity": 0.26666666666666666,
+                "blended_score": 0.13333333333333333,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Themes",
+                "average_similarity": 0.0,
+                "name_similarity": 0.46153846153846156,
+                "blended_score": 0.23076923076923078,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 5,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Collaboration and Unity",
+                "average_similarity": 0.0,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.16666666666666666,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Environmental Stewardship",
+                "average_similarity": 0.0,
+                "name_similarity": 0.25,
+                "blended_score": 0.125,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Collaboration and Unity",
+                "average_similarity": 0.0,
+                "name_similarity": 0.13333333333333333,
+                "blended_score": 0.06666666666666667,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Key Characters",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2857142857142857,
+                "blended_score": 0.14285714285714285,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 4,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 4,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "Fabofot": {
+                "feature_a": "Fabofot",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.18181818181818182,
+                "blended_score": 0.09090909090909091,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Sedigij": {
+                "feature_a": "Sedigij",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.18181818181818182,
+                "blended_score": 0.09090909090909091,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Buxuwaf": {
+                "feature_a": "Buxuwaf",
+                "feature_b": "Cultural Aspects",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2608695652173913,
+                "blended_score": 0.13043478260869565,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Jogasiv": {
+                "feature_a": "Jogasiv",
+                "feature_b": "Characteristics",
+                "average_similarity": 0.0,
+                "name_similarity": 0.2727272727272727,
+                "blended_score": 0.13636363636363635,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Holesoy": {
+                "feature_a": "Holesoy",
+                "feature_b": "Challenges",
+                "average_similarity": 0.0,
+                "name_similarity": 0.47058823529411764,
+                "blended_score": 0.23529411764705882,
+                "is_equivalent": false,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {},
+        "mismatches": 5,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 4,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 4,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    }
+}

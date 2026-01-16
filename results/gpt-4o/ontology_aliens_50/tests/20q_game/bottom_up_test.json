@@ -1,0 +1,1722 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Aetherian",
+      "Terbelith",
+      "Janzy",
+      "Janrax",
+      "Shavarcrys",
+      "Seldra",
+      "Xpy",
+      "Seltha"
+    ],
+    "target": "Seltha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien live in an aquatic habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien's morphology winged?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien have a desert habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien have a metallic morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does this alien have a forest habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Is this alien's locomotion bounding?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is this alien's locomotion crawling?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "I guess Janrax.",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "I guess Seltha.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Seltha",
+    "correct": true,
+    "questions_used": 11
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Janpho",
+      "Terithva",
+      "Seldra",
+      "Mirzephpy",
+      "Venrin",
+      "Janrax",
+      "Frosvadra",
+      "Sylnar"
+    ],
+    "target": "Sylnar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a social structure that is communal?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's diet phototrophic?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien's morphology winged?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's locomotion floating?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien's habitat forest?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien's habitat aerial?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien's morphology gelatinous?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien's morphology armoured?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien's locomotion sliding?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien's morphology quadrupedal?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species Terithva?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species Seldra?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species Frosvadra?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species Janpho?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species Janrax?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species Venrin?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species Sylnar?",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Sylnar",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Terbelith",
+      "Vorven",
+      "Frosvadra",
+      "Shavarcrys",
+      "Zephyrian",
+      "Zephyormor",
+      "Aquarion",
+      "Vorvenvor"
+    ],
+    "target": "Vorven",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have an aquatic habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien possess phototrophic dietary habits?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's locomotion characterized by floating?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a desert habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess Shavarcrys.",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species called Vorvenvor?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species called Vorven?",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Vorven",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Janzy",
+      "Zyloxian",
+      "Miraurzeph",
+      "Selnelsha",
+      "Aquarion",
+      "Sylpho",
+      "Vorjan",
+      "Quizephvar"
+    ],
+    "target": "Quizephvar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien have an armoured morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien inhabit an aquatic environment?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien's diet phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is this alien's locomotion primarily floating?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does this alien have a quadrupedal morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "I guess Aquarion.",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does this alien have a metallic morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is this alien's diet herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is this alien's locomotion primarily through swimming?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does this alien possess a winged morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Given the remaining possibilities and previous answers, I guess Selnelsha.",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Since I'm out of distinctive characteristics to inquire about, I'll make another guess: I guess Quizephvar.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Quizephvar",
+    "correct": true,
+    "questions_used": 14
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Terradon",
+      "Flosha",
+      "Lumven",
+      "Miraurzeph",
+      "Jansol",
+      "Selnelsha",
+      "Aquarion",
+      "Terkorzeph"
+    ],
+    "target": "Terkorzeph",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien inhabit a forest environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien exhibit bounding locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien inhabit an aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien consume a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a winged morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien consume a metallic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien inhabit a desert environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien exhibit sliding locomotion?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "I guess Miraurzeph.",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien's morphology described as armoured?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien associated with an aerial habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 18,
+        "question": "I guess Selnelsha.",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Lumven.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "I guess Jansol.",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Terkorzeph.",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Aetherian",
+      "Quizysha",
+      "Tultha",
+      "Sylpho",
+      "Glimmeron",
+      "Floran",
+      "Mirzephpy",
+      "Flolum"
+    ],
+    "target": "Flolum",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a habitat that is forest?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's morphology quadrupedal?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "I guess Sylpho.",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "I guess Floran.",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "I guess Flolum.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Flolum",
+    "correct": true,
+    "questions_used": 8
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Janzy",
+      "Vapyx",
+      "Flosha",
+      "Janrax",
+      "Pyron",
+      "Crystar",
+      "Aetherian",
+      "Selnelsha"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a carnivorous diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's habitat in the desert?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's social structure communal?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess Pyron.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Tulzeph",
+      "Aquarion",
+      "Terithva",
+      "Jansol",
+      "Terradon",
+      "Terbelith",
+      "Venrin",
+      "Vorjan"
+    ],
+    "target": "Terithva",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien's habitat primarily aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's habitat primarily in the forest?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's locomotion method crawling?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien's diet consist of consuming metallic substances?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "I guess Terithva.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Terithva",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Janrax",
+      "Quizephvar",
+      "Terithva",
+      "Miraurzeph",
+      "Terbelith",
+      "Shavarcrys",
+      "Flolum",
+      "Glimmeron"
+    ],
+    "target": "Flolum",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's morphology gelatinous?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's diet phototrophic?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat desert?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's locomotion method floating?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien's morphology winged?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess Shavarcrys.",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien's habitat crystalline?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "I guess Quizephvar.",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien's diet metallic-eater?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien's diet herbivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "I guess Terbelith.",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien's habitat forest?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "I guess Flolum.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Flolum",
+    "correct": true,
+    "questions_used": 17
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Venrin",
+      "Zephyormor",
+      "Crystar",
+      "Pyron",
+      "Flolum",
+      "Aetherian",
+      "Froscrys",
+      "Jansol"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien's diet include phototrophy?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat aerial?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's morphology winged?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess Aetherian.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Lumvensyl",
+      "Zyqui",
+      "Froscrys",
+      "Aetherian",
+      "Glimmeron",
+      "Frosvadra",
+      "Floran",
+      "Zephyormor"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have a phototrophic diet?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is this alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is this alien's habitat aerial?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien's morphology winged?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "I guess Aetherian.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Venmorsha",
+      "Miraurzeph",
+      "Jansol",
+      "Tulzeph",
+      "Frostian",
+      "Sylpho",
+      "Janzeph",
+      "Quizysha"
+    ],
+    "target": "Quizysha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's morphology armoured?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's locomotion mode floating?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat a desert?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a solitary social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's morphology gelatinous?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "I guess Jansol.",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien's morphology quadrupedal?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "I guess Tulzeph.",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien's diet phototrophic?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien's locomotion mode crawling?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien's morphology winged?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "I guess Venmorsha.",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "I guess Quizysha.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Quizysha",
+    "correct": true,
+    "questions_used": 16
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Shavarcrys",
+      "Zyqui",
+      "Lumvensyl",
+      "Sylpho",
+      "Terithva",
+      "Miraurzeph",
+      "Flolum",
+      "Flosha"
+    ],
+    "target": "Shavarcrys",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a diet that is phototrophic?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's habitat aerial?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's habitat crystal?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a metallic morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien have a crystalline morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a morphology that is winged?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien have a quadrupedal morphology? ",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien's social structure communal?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien's social structure solitary?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Based on the process of elimination, I guess Lumvensyl.",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien belong to the species Zyqui?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien's locomotion floating?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Terithva.",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Miraurzeph.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "I guess Shavarcrys.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Shavarcrys.",
+    "correct": true,
+    "questions_used": 18
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Lumven",
+      "Selnelsha",
+      "Shavarcrys",
+      "Flolum",
+      "Lumvensyl",
+      "Terkorzeph",
+      "Zephpho",
+      "Glimmeron"
+    ],
+    "target": "Lumvensyl",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's diet phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's habitat aerial?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's locomotion floating?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien's social structure communal?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien\u2019s habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "I guess Zephpho.",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien's habitat forest?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "I guess Flolum.",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien's diet herbivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien's social structure solitary?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 14,
+        "question": "I guess Shavarcrys.",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "I guess Lumven.",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "I guess Selnelsha.",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Lumvensyl.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Lumvensyl.",
+    "correct": true,
+    "questions_used": 17
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Frostian",
+      "Shavarcrys",
+      "Vorvenvor",
+      "Seldra",
+      "Terkorzeph",
+      "Terithva",
+      "Zephyormor",
+      "Sylnar"
+    ],
+    "target": "Zephyormor",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's diet phototrophic?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien's habitat forest?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien's habitat aerial?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien have a metallic morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien's diet herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien's habitat cold or icy environments?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Terithva.",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien's locomotion involve bounding?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien's social structure involve any cooperative behavior?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien belong to a crystalline habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 17,
+        "question": "I guess Vorvenvor.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "I guess Sylnar.",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "I guess Shavarcrys.",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "I guess Terkorzeph.",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Zephyormor",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Vorvenvor",
+      "Seldra",
+      "Terradon",
+      "Janzeph",
+      "Selnelsha",
+      "Vorven",
+      "Quizysha",
+      "Sylnar"
+    ],
+    "target": "Seldra",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a morphology that allows it to float?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's diet herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's morphology armoured?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien live in a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien's diet carnivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien inhabit a desert environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien's habitat a forest?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien's morphology quadrupedal?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien have a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien's morphology gelatinous?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien have a metallic morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien use bounding for locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien's locomotion method sliding?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien use a bipedal form of locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien's method of locomotion climbing?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien use slithering for locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien use walking as its method of locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien's method of locomotion gliding?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Does the alien use burrowing for locomotion?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Selnelsha",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Selnelsha",
+      "Terkorzeph",
+      "Zephpho",
+      "Seltha",
+      "Frostian",
+      "Narzephva",
+      "Crystar",
+      "Terradon"
+    ],
+    "target": "Zephpho",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a diet that is phototrophic?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien's habitat desert?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a solitary social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's morphology metallic?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a herbivorous diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien's locomotion bounding?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "I guess Seltha.",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien's habitat forest?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess Selnelsha.",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "I guess Terkorzeph.",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "I guess Zephpho.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zephpho",
+    "correct": true,
+    "questions_used": 11
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Quizysha",
+      "Xpy",
+      "Janzeph",
+      "Flolum",
+      "Seldra",
+      "Jansol",
+      "Vorjan",
+      "Terradon"
+    ],
+    "target": "Quizysha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have a communal social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien have a desert habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien have an armoured morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien have a carnivorous diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien have a solitary social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess Janzeph.",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "I guess Vorjan.",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "I guess Seldra.",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "I guess Xpy.",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "I guess Quizysha.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Quizysha",
+    "correct": true,
+    "questions_used": 10
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Glimmeron",
+      "Shavarcrys",
+      "Seldra",
+      "Zephyormor",
+      "Miraurzeph",
+      "Zephpho",
+      "Janzy",
+      "Tultha"
+    ],
+    "target": "Tultha",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien inhabit an aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien have an armoured morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Does this alien live in a communal social structure?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien have a metallic morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 7,
+        "question": "Does this alien have a winged morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "Does this alien have a quadrupedal morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Does this alien have a crawling locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does this alien inhabit a desert environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does this alien inhabit an aerial environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Does this alien have a forest habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Does this alien eat a metallic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is this alien's diet herbivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 15,
+        "question": "Does this alien have a solitary social structure?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 16,
+        "question": "Does this alien have a sliding locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "Is this alien's morphology gelatinous?",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Does this alien have a forest or crystal habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 19,
+        "question": "Does this alien have a crystal habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 20,
+        "question": "Is this alien's species Shavarcrys?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Seldra",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Froscrys",
+      "Quizephvar",
+      "Aetherian",
+      "Selnelsha",
+      "Janzy",
+      "Terithva",
+      "Narzephva",
+      "Frosvadra"
+    ],
+    "target": "Froscrys",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien have a phototrophic diet?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is this alien's habitat aquatic?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Is this alien's social structure solitary?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien's morphology armoured?",
+        "answer": "No."
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien's diet carnivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 6,
+        "question": "Does this alien's habitat include the desert?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "Is this alien's diet herbivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 8,
+        "question": "I guess Quizephvar.",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is this alien's diet metallic-eater?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 10,
+        "question": "I guess Frosvadra.",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "I guess Narzephva.",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "I guess Froscrys.",
+        "answer": "Correct."
+      }
+    ],
+    "final_guess": "Froscrys.",
+    "correct": true,
+    "questions_used": 12
+  }
+]

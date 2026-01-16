@@ -1,0 +1,312 @@
+{
+  "Test 1": {
+    "Loflo": {
+      "habitat": "aquatic",
+      "diet": "metallic-eater",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Vorven": {
+      "habitat": "desert",
+      "diet": "metallic minerals",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Sylpho": {
+      "habitat": "crystal caverns",
+      "diet": "herbivorous",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Venrin": {
+      "habitat": "skies",
+      "diet": "phototrophic",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Seltha": {
+      "habitat": "forest",
+      "diet": "trace metals",
+      "movement": "crawl",
+      "behavior": "communal"
+    },
+    "Seldra": {
+      "habitat": "forest canopy",
+      "diet": "predator",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Xpy": {
+      "habitat": "desert",
+      "diet": "metallic sands",
+      "movement": "slide",
+      "behavior": "communal"
+    },
+    "Shavarcrys": {
+      "habitat": "crystal habitats",
+      "diet": "phototrophic",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Janzeph": {
+      "habitat": "upper atmosphere",
+      "diet": "carnivore",
+      "movement": "slide",
+      "behavior": "solitary"
+    },
+    "Vapyx": {
+      "habitat": "aquatic",
+      "diet": "vegetation",
+      "movement": "crawl",
+      "behavior": "communal"
+    }
+  },
+  "Test 2": {
+    "Loflo": {
+      "habitat": "aquatic",
+      "diet": "metallic-eater",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Vorven": {
+      "habitat": "desert",
+      "diet": "metallic minerals",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Sylpho": {
+      "habitat": "crystal caverns",
+      "diet": "herbivorous",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Venrin": {
+      "habitat": "skies",
+      "diet": "phototrophic",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Seltha": {
+      "habitat": "forest",
+      "diet": "trace metals",
+      "movement": "crawl",
+      "behavior": "communal"
+    },
+    "Seldra": {
+      "habitat": "forest canopy",
+      "diet": "predator",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Xpy": {
+      "habitat": "desert",
+      "diet": "metallic sands",
+      "movement": "slide",
+      "behavior": "communal"
+    },
+    "Shavarcrys": {
+      "habitat": "crystal habitats",
+      "diet": "phototrophic",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Janzeph": {
+      "habitat": "upper atmosphere",
+      "diet": "carnivore",
+      "movement": "slide",
+      "behavior": "solitary"
+    },
+    "Vapyx": {
+      "habitat": "aquatic",
+      "diet": "vegetation",
+      "movement": "crawl",
+      "behavior": "communal"
+    }
+  },
+  "Test 3": {
+    "Loflo": {
+      "habitat": "aquatic",
+      "diet": "metallic-eater",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Vorven": {
+      "habitat": "desert",
+      "diet": "metallic minerals",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Sylpho": {
+      "habitat": "crystal caverns",
+      "diet": "herbivorous",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Venrin": {
+      "habitat": "skies",
+      "diet": "phototrophic",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Seltha": {
+      "habitat": "forest",
+      "diet": "trace metals",
+      "movement": "crawl",
+      "behavior": "communal"
+    },
+    "Seldra": {
+      "habitat": "forest canopy",
+      "diet": "predator",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Xpy": {
+      "habitat": "desert",
+      "diet": "metallic sands",
+      "movement": "slide",
+      "behavior": "communal"
+    },
+    "Shavarcrys": {
+      "habitat": "crystal habitats",
+      "diet": "phototrophic",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Janzeph": {
+      "habitat": "upper atmosphere",
+      "diet": "carnivore",
+      "movement": "slide",
+      "behavior": "solitary"
+    },
+    "Vapyx": {
+      "habitat": "aquatic",
+      "diet": "vegetation",
+      "movement": "crawl",
+      "behavior": "communal"
+    }
+  },
+  "Test 4": {
+    "Loflo": {
+      "habitat": "aquatic",
+      "diet": "metallic-eater",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Vorven": {
+      "habitat": "desert",
+      "diet": "metallic minerals",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Sylpho": {
+      "habitat": "crystal caverns",
+      "diet": "herbivorous",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Venrin": {
+      "habitat": "skies",
+      "diet": "phototrophic",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Seltha": {
+      "habitat": "forest",
+      "diet": "trace metals",
+      "movement": "crawl",
+      "behavior": "communal"
+    },
+    "Seldra": {
+      "habitat": "forest canopy",
+      "diet": "predator",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Xpy": {
+      "habitat": "desert",
+      "diet": "metallic sands",
+      "movement": "slide",
+      "behavior": "communal"
+    },
+    "Shavarcrys": {
+      "habitat": "crystal habitats",
+      "diet": "phototrophic",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Janzeph": {
+      "habitat": "upper atmosphere",
+      "diet": "carnivore",
+      "movement": "slide",
+      "behavior": "solitary"
+    },
+    "Vapyx": {
+      "habitat": "aquatic",
+      "diet": "vegetation",
+      "movement": "crawl",
+      "behavior": "communal"
+    }
+  },
+  "Test 5": {
+    "Loflo": {
+      "habitat": "aquatic",
+      "diet": "metallic-eater",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Vorven": {
+      "habitat": "desert",
+      "diet": "metallic minerals",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Sylpho": {
+      "habitat": "crystal caverns",
+      "diet": "herbivorous",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Venrin": {
+      "habitat": "skies",
+      "diet": "phototrophic",
+      "movement": "bounding",
+      "behavior": "communal"
+    },
+    "Seltha": {
+      "habitat": "forest",
+      "diet": "trace metals",
+      "movement": "crawl",
+      "behavior": "communal"
+    },
+    "Seldra": {
+      "habitat": "forest canopy",
+      "diet": "predator",
+      "movement": "flutter",
+      "behavior": "solitary"
+    },
+    "Xpy": {
+      "habitat": "desert",
+      "diet": "metallic sands",
+      "movement": "slide",
+      "behavior": "communal"
+    },
+    "Shavarcrys": {
+      "habitat": "crystal habitats",
+      "diet": "phototrophic",
+      "movement": "swim",
+      "behavior": "solitary"
+    },
+    "Janzeph": {
+      "habitat": "upper atmosphere",
+      "diet": "carnivore",
+      "movement": "slide",
+      "behavior": "solitary"
+    },
+    "Vapyx": {
+      "habitat": "aquatic",
+      "diet": "vegetation",
+      "movement": "crawl",
+      "behavior": "communal"
+    }
+  }
+}

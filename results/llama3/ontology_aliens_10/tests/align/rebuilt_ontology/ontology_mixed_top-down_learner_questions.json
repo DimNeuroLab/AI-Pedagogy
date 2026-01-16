@@ -1,0 +1,229 @@
+{
+  "Test 1": {
+    "Electrix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for electromagnetic frequency manipulation",
+      "Locomotion": "Moves through the energetic landscape",
+      "Social Structure": "Frequency-based"
+    },
+    "Chronix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for temporal pattern recognition",
+      "Locomotion": "Moves through the temporal landscape",
+      "Social Structure": "Time-based"
+    },
+    "Fractalix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for fractal geometry navigation",
+      "Locomotion": "Moves through the spatial landscape",
+      "Social Structure": "Fractal-based"
+    },
+    "Symmetron": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for symmetrical arrangement creation",
+      "Locomotion": "Moves through the spatial landscape",
+      "Social Structure": "Symmetry-based"
+    },
+    "Compressix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for data compression and processing",
+      "Locomotion": "Moves through the informational landscape",
+      "Social Structure": "Compression-based"
+    },
+    "Algorithmix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for algorithmic processing",
+      "Locomotion": "Moves through the informational landscape",
+      "Social Structure": "Algorithm-based"
+    }
+  },
+  "Test 2": {
+    "Electrix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Specialized organs for electromagnetic frequency manipulation",
+      "Locomotion": "Movement through electromagnetic frequencies",
+      "Social Structure": "Frequency-based"
+    },
+    "Chronix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Flexible body for time structure navigation",
+      "Locomotion": "Navigation through complex time structures",
+      "Social Structure": "Time-based"
+    },
+    "Resonix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Specialized organs for resonance frequency manipulation",
+      "Locomotion": "Movement through resonance frequencies",
+      "Social Structure": "Resonance-based"
+    },
+    "Fractalix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Branched limbs for fractal geometry navigation",
+      "Locomotion": "Movement through fractal geometries",
+      "Social Structure": "Compression-based"
+    },
+    "Symmetron": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Reflective surfaces for symmetrical arrangement creation",
+      "Locomotion": "Movement through symmetrical arrangements",
+      "Social Structure": "Symmetry-based"
+    },
+    "Compressix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Compacted organs for data compression",
+      "Locomotion": "Movement through compressed information",
+      "Social Structure": "Compression-based"
+    },
+    "Algorithmix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Flexible body for algorithmic processing",
+      "Locomotion": "Movement through algorithmic processes",
+      "Social Structure": "Algorithm-based"
+    }
+  },
+  "Test 3": {
+    "Electrix": {
+      "diet": "omnivorous",
+      "habitat": "terrestrial",
+      "morphology": "body adapted for electromagnetic frequency manipulation",
+      "locomotion": "moves through energetic landscape using electromagnetic frequency manipulation",
+      "social structure": "frequency-based"
+    },
+    "Chronix": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "morphology": "body adapted for temporal pattern recognition",
+      "locomotion": "moves through temporal landscape using complex time structures",
+      "social structure": "time-based"
+    },
+    "Fractalix": {
+      "diet": "omnivorous",
+      "habitat": "terrestrial",
+      "morphology": "body adapted for fractal geometry navigation",
+      "locomotion": "moves through spatial landscape using branched limbs",
+      "social structure": "fractal-based"
+    },
+    "Symmetron": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "morphology": "body adapted for symmetrical arrangement creation",
+      "locomotion": "moves through spatial landscape using reflective surfaces",
+      "social structure": "symmetry-based"
+    },
+    "Compressix": {
+      "diet": "omnivorous",
+      "habitat": "terrestrial",
+      "morphology": "body adapted for data compression",
+      "locomotion": "moves through informational landscape using compacted organs",
+      "social structure": "compression-based"
+    },
+    "Algorithmix": {
+      "diet": "herbivorous",
+      "habitat": "aquatic",
+      "morphology": "body adapted for algorithmic processing",
+      "locomotion": "moves through informational landscape using flexible and adaptive organs",
+      "social structure": "algorithm-based"
+    }
+  },
+  "Test 4": {
+    "Electrix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for electromagnetic manipulation",
+      "Locomotion": "Moves through energetic landscape using electromagnetic frequencies",
+      "Social Structure": "Frequency-based"
+    },
+    "Chronix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for temporal navigation",
+      "Locomotion": "Moves through temporal landscape using complex time structures",
+      "Social Structure": "Time-based"
+    },
+    "Fractalix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for fractal navigation",
+      "Locomotion": "Moves through spatial landscape using branched limbs",
+      "Social Structure": "Fractal-based"
+    },
+    "Symmetron": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for symmetrical arrangements",
+      "Locomotion": "Moves through spatial landscape using reflective surfaces",
+      "Social Structure": "Symmetry-based"
+    },
+    "Compressix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for data compression",
+      "Locomotion": "Moves through informational landscape using compacted organs",
+      "Social Structure": "Compression-based"
+    },
+    "Algorithmix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for algorithmic processing",
+      "Locomotion": "Moves through informational landscape using flexible bodies",
+      "Social Structure": "Algorithm-based"
+    }
+  },
+  "Test 5": {
+    "Electrix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for electromagnetic frequency manipulation",
+      "Locomotion": "Moves through the energetic landscape",
+      "Social Structure": "Frequency-based"
+    },
+    "Chronix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for time structure navigation",
+      "Locomotion": "Moves through the temporal landscape",
+      "Social Structure": "Time-based"
+    },
+    "Fractalix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for fractal geometry navigation",
+      "Locomotion": "Moves through the spatial landscape",
+      "Social Structure": "Fractal-based"
+    },
+    "Symmetron": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for symmetrical arrangement creation",
+      "Locomotion": "Moves through the spatial landscape",
+      "Social Structure": "Symmetry-based"
+    },
+    "Compressix": {
+      "Diet": "Omnivorous",
+      "Habitat": "Terrestrial",
+      "Morphology": "Body adapted for data compression and processing",
+      "Locomotion": "Moves through the informational landscape",
+      "Social Structure": "Compression-based"
+    },
+    "Algorithmix": {
+      "Diet": "Herbivorous",
+      "Habitat": "Aquatic",
+      "Morphology": "Body adapted for algorithmic processing",
+      "Locomotion": "Moves through the informational landscape",
+      "Social Structure": "Algorithm-based"
+    }
+  }
+}

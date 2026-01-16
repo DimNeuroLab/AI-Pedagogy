@@ -1,0 +1,357 @@
+{
+    "0": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.4838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Morphology": "Morphology",
+            "Locomotion": "Locomotion",
+            "Habitat": "Habitat",
+            "Diet": "Diet"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 4,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 4,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.4838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Morphology": "Morphology",
+            "Locomotion": "Locomotion",
+            "Habitat": "Habitat",
+            "Diet": "Diet"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 5,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.4838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Morphology": "Morphology",
+            "Locomotion": "Locomotion",
+            "Habitat": "Habitat",
+            "Diet": "Diet"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 5,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.4838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Morphology": "Morphology",
+            "Locomotion": "Locomotion",
+            "Habitat": "Habitat",
+            "Diet": "Diet"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 4,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 4,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "SocialStructure": {
+                "feature_a": "SocialStructure",
+                "feature_b": "Social Structure",
+                "average_similarity": 0.0,
+                "name_similarity": 0.967741935483871,
+                "blended_score": 0.4838709677419355,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Morphology": {
+                "feature_a": "Morphology",
+                "feature_b": "Morphology",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Locomotion": {
+                "feature_a": "Locomotion",
+                "feature_b": "Locomotion",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Habitat": {
+                "feature_a": "Habitat",
+                "feature_b": "Habitat",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            },
+            "Diet": {
+                "feature_a": "Diet",
+                "feature_b": "Diet",
+                "average_similarity": 0.0,
+                "name_similarity": 1.0,
+                "blended_score": 0.5,
+                "is_equivalent": true,
+                "num_comparisons": 0,
+                "skipped_comparisons": 0
+            }
+        },
+        "mapping": {
+            "Social Structure": "SocialStructure",
+            "Morphology": "Morphology",
+            "Locomotion": "Locomotion",
+            "Habitat": "Habitat",
+            "Diet": "Diet"
+        },
+        "mismatches": 1,
+        "comparison_results": {
+            "only_in_true_ontology": 10,
+            "only_in_agent_ontology": 5,
+            "species_with_feature_differences": {},
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 5,
+            "num_common_species": 0,
+            "num_species_with_diff_features": 0
+        }
+    }
+}

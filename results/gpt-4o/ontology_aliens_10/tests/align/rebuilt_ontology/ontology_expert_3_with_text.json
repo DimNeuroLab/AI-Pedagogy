@@ -1,0 +1,352 @@
+{
+  "Test 1": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "body": "metallic",
+      "diet": "herbivorous",
+      "behavior": "solitary",
+      "energy": "energetic",
+      "movement": "bound across underwater terrain"
+    },
+    "Vorvenvor": {
+      "habitat": "sky",
+      "body": "gelatinous",
+      "energy_source": "phototrophic",
+      "behavior": "communal",
+      "appearance": "translucent"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "body": "winged",
+      "diet": "predator",
+      "behavior": "solitary",
+      "camouflage": "elusive"
+    },
+    "Selnelsha": {
+      "habitat": "desert oases",
+      "body": "armored",
+      "diet": "metallic-eater",
+      "behavior": "communal",
+      "movement": "swim through sands"
+    },
+    "Lumven": {
+      "habitat": "crystal biomes",
+      "body": "tentacled",
+      "energy_source": "phototrophic",
+      "behavior": "communal"
+    },
+    "Tultha": {
+      "habitat": "luminous caverns",
+      "body": "furry",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    },
+    "Janrax": {
+      "habitat": "aerial",
+      "body": "petal-like",
+      "diet": "carnivore",
+      "behavior": "solitary",
+      "movement": "crawl along wind currents"
+    },
+    "Narzephva": {
+      "habitat": "forest",
+      "body": "gelatinous",
+      "diet": "metal eater",
+      "behavior": "communal",
+      "movement": "slide beneath the canopy"
+    },
+    "Jansol": {
+      "habitat": "aquatic",
+      "body": "winged",
+      "energy_source": "light energy",
+      "behavior": "communal",
+      "appearance": "glimmering"
+    },
+    "Janpho": {
+      "habitat": "desert",
+      "body": "tentacled",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    }
+  },
+  "Test 2": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "body": "metallic",
+      "diet": "herbivorous",
+      "behavior": "solitary",
+      "energy": "energetic",
+      "movement": "bound across underwater terrain"
+    },
+    "Vorvenvor": {
+      "habitat": "sky",
+      "body": "gelatinous",
+      "energy_source": "phototrophic",
+      "behavior": "communal",
+      "appearance": "translucent"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "body": "winged",
+      "diet": "predator",
+      "behavior": "solitary",
+      "camouflage": "elusive"
+    },
+    "Selnelsha": {
+      "habitat": "desert oases",
+      "body": "armored",
+      "diet": "metallic-eater",
+      "behavior": "communal",
+      "movement": "swim through sands"
+    },
+    "Lumven": {
+      "habitat": "crystal biomes",
+      "body": "tentacled",
+      "energy_source": "phototrophic",
+      "behavior": "communal"
+    },
+    "Tultha": {
+      "habitat": "luminous caverns",
+      "body": "furry",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    },
+    "Janrax": {
+      "habitat": "aerial",
+      "body": "petal-like",
+      "diet": "carnivore",
+      "behavior": "solitary",
+      "movement": "crawl along wind currents"
+    },
+    "Narzephva": {
+      "habitat": "forest",
+      "body": "gelatinous",
+      "diet": "metal eater",
+      "behavior": "communal",
+      "movement": "slide beneath the canopy"
+    },
+    "Jansol": {
+      "habitat": "aquatic",
+      "body": "winged",
+      "energy_source": "light energy",
+      "behavior": "communal",
+      "appearance": "glimmering"
+    },
+    "Janpho": {
+      "habitat": "desert",
+      "body": "tentacled",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    }
+  },
+  "Test 3": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "body": "metallic",
+      "diet": "herbivorous",
+      "behavior": "solitary",
+      "energy": "energetic",
+      "movement": "bound across underwater terrain"
+    },
+    "Vorvenvor": {
+      "habitat": "sky",
+      "body": "gelatinous",
+      "energy_source": "phototrophic",
+      "behavior": "communal",
+      "appearance": "translucent"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "body": "winged",
+      "diet": "predator",
+      "behavior": "solitary",
+      "camouflage": "elusive"
+    },
+    "Selnelsha": {
+      "habitat": "desert oases",
+      "body": "armored",
+      "diet": "metallic-eater",
+      "behavior": "communal",
+      "movement": "swim through sands"
+    },
+    "Lumven": {
+      "habitat": "crystal biomes",
+      "body": "tentacled",
+      "energy_source": "phototrophic",
+      "behavior": "communal"
+    },
+    "Tultha": {
+      "habitat": "luminous caverns",
+      "body": "furry",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    },
+    "Janrax": {
+      "habitat": "aerial",
+      "body": "petal-like",
+      "diet": "carnivore",
+      "behavior": "solitary",
+      "movement": "crawl along wind currents"
+    },
+    "Narzephva": {
+      "habitat": "forest",
+      "body": "gelatinous",
+      "diet": "metal eater",
+      "behavior": "communal",
+      "movement": "slide beneath the canopy"
+    },
+    "Jansol": {
+      "habitat": "aquatic",
+      "body": "winged",
+      "energy_source": "light energy",
+      "behavior": "communal",
+      "appearance": "glimmering"
+    },
+    "Janpho": {
+      "habitat": "desert",
+      "body": "tentacled",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    }
+  },
+  "Test 4": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "body": "metallic",
+      "diet": "herbivorous",
+      "behavior": "solitary",
+      "energy": "energetic",
+      "movement": "bound across underwater terrain"
+    },
+    "Vorvenvor": {
+      "habitat": "sky",
+      "body": "gelatinous",
+      "energy_source": "phototrophic",
+      "behavior": "communal",
+      "appearance": "translucent"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "body": "winged",
+      "diet": "predator",
+      "behavior": "solitary",
+      "camouflage": "elusive"
+    },
+    "Selnelsha": {
+      "habitat": "desert oases",
+      "body": "armored",
+      "diet": "metallic-eater",
+      "behavior": "communal",
+      "movement": "swim through sands"
+    },
+    "Lumven": {
+      "habitat": "crystal biomes",
+      "body": "tentacled",
+      "energy_source": "phototrophic",
+      "behavior": "communal"
+    },
+    "Tultha": {
+      "habitat": "luminous caverns",
+      "body": "furry",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    },
+    "Janrax": {
+      "habitat": "aerial",
+      "body": "petal-like",
+      "diet": "carnivore",
+      "behavior": "solitary",
+      "movement": "crawl along wind currents"
+    },
+    "Narzephva": {
+      "habitat": "forest",
+      "body": "gelatinous",
+      "diet": "metal eater",
+      "behavior": "communal",
+      "movement": "slide beneath the canopy"
+    },
+    "Jansol": {
+      "habitat": "aquatic",
+      "body": "winged",
+      "energy_source": "light energy",
+      "behavior": "communal",
+      "appearance": "glimmering"
+    },
+    "Janpho": {
+      "habitat": "desert",
+      "body": "tentacled",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    }
+  },
+  "Test 5": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "body": "metallic",
+      "diet": "herbivorous",
+      "behavior": "solitary",
+      "energy": "energetic",
+      "movement": "bound across underwater terrain"
+    },
+    "Vorvenvor": {
+      "habitat": "sky",
+      "body": "gelatinous",
+      "energy_source": "phototrophic",
+      "behavior": "communal",
+      "appearance": "translucent"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "body": "winged",
+      "diet": "predator",
+      "behavior": "solitary",
+      "camouflage": "elusive"
+    },
+    "Selnelsha": {
+      "habitat": "desert oases",
+      "body": "armored",
+      "diet": "metallic-eater",
+      "behavior": "communal",
+      "movement": "swim through sands"
+    },
+    "Lumven": {
+      "habitat": "crystal biomes",
+      "body": "tentacled",
+      "energy_source": "phototrophic",
+      "behavior": "communal"
+    },
+    "Tultha": {
+      "habitat": "luminous caverns",
+      "body": "furry",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    },
+    "Janrax": {
+      "habitat": "aerial",
+      "body": "petal-like",
+      "diet": "carnivore",
+      "behavior": "solitary",
+      "movement": "crawl along wind currents"
+    },
+    "Narzephva": {
+      "habitat": "forest",
+      "body": "gelatinous",
+      "diet": "metal eater",
+      "behavior": "communal",
+      "movement": "slide beneath the canopy"
+    },
+    "Jansol": {
+      "habitat": "aquatic",
+      "body": "winged",
+      "energy_source": "light energy",
+      "behavior": "communal",
+      "appearance": "glimmering"
+    },
+    "Janpho": {
+      "habitat": "desert",
+      "body": "tentacled",
+      "diet": "herbivorous",
+      "behavior": "solitary"
+    }
+  }
+}

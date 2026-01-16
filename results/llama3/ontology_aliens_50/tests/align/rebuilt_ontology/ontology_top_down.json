@@ -1,0 +1,46 @@
+{
+  "Test 1": {
+    "species": {
+      "diet": {
+        "carnivorous": true,
+        "herbivorous": false,
+        "phototrophic": false,
+        "metallic-eater": false
+      },
+      "habitat": {
+        "aerial": false,
+        "aquatic": false,
+        "crystal": false,
+        "desert": false,
+        "forest": false
+      },
+      "morphology": {
+        "armoured": false,
+        "feathered": false,
+        "furry": false,
+        "gelatinous": false,
+        "metallic": false,
+        "petal-like": false,
+        "quadrupedal": false,
+        "tentacled": false,
+        "winged": false
+      },
+      "locomotion": {
+        "bounding": false,
+        "crawling": false,
+        "floating": false,
+        "fluttering": false,
+        "sliding": false,
+        "swimming": false
+      },
+      "socialStructure": {
+        "communal": false,
+        "solitary": false
+      }
+    }
+  },
+  "Test 2": {},
+  "Test 3": {},
+  "Test 4": {},
+  "Test 5": {}
+}

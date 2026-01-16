@@ -1,0 +1,187 @@
+{
+  "Test 1": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Body Type": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Glimmeron": {
+      "Diet": "phototrophic",
+      "Habitat": "aquatic",
+      "Body Type": "gelatinous",
+      "Locomotion": "floating",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystalline",
+      "Body Type": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    },
+    "Aetherian": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Body Type": "wings",
+      "Locomotion": "floating",
+      "Social Structure": "communal"
+    },
+    "Terradon": {
+      "Diet": "herbivore",
+      "Habitat": "forest",
+      "Body Type": "quadrupedal",
+      "Locomotion": "bounding",
+      "Social Structure": "communal"
+    }
+  },
+  "Test 2": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body_type": "armoured",
+      "locomotion": "crawling",
+      "social_structure": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body_type": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Crystar": {
+      "diet": "metallic-eater",
+      "habitat": "crystalline",
+      "body_type": "metallic",
+      "locomotion": "sliding",
+      "social_structure": "solitary"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body_type": "winged",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body_type": "quadrupedal",
+      "locomotion": "bounding",
+      "social_structure": "communal"
+    }
+  },
+  "Test 3": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body_type": "armoured",
+      "locomotion": "crawling",
+      "social_structure": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body_type": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Crystar": {
+      "diet": "metallic-eater",
+      "habitat": "crystalline",
+      "body_type": "metallic",
+      "locomotion": "sliding",
+      "social_structure": "solitary"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body_type": "winged",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body_type": "quadrupedal",
+      "locomotion": "bounding",
+      "social_structure": "communal"
+    }
+  },
+  "Test 4": {
+    "Zyloxian": {
+      "Diet": "carnivorous",
+      "Habitat": "desert",
+      "Morphology": "armoured",
+      "Locomotion": "crawling",
+      "Social Structure": "solitary"
+    },
+    "Glimmeron": {
+      "Diet": "phototrophic",
+      "Habitat": "aquatic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "Social Structure": "communal"
+    },
+    "Crystar": {
+      "Diet": "metallic-eater",
+      "Habitat": "crystalline",
+      "Morphology": "metallic",
+      "Locomotion": "sliding",
+      "Social Structure": "solitary"
+    },
+    "Aetherian": {
+      "Diet": "phototrophic",
+      "Habitat": "aerial",
+      "Morphology": "wings",
+      "Locomotion": "floating",
+      "Social Structure": "communal"
+    },
+    "Terradon": {
+      "Diet": "herbivore",
+      "Habitat": "forest",
+      "Morphology": "four legs",
+      "Locomotion": "bounding",
+      "Social Structure": "communal"
+    }
+  },
+  "Test 5": {
+    "Zyloxian": {
+      "diet": "carnivorous",
+      "habitat": "desert",
+      "body": "armoured",
+      "locomotion": "crawling",
+      "social_structure": "solitary"
+    },
+    "Glimmeron": {
+      "diet": "phototrophic",
+      "habitat": "aquatic",
+      "body": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Crystar": {
+      "diet": "metallic-eater",
+      "habitat": "crystalline",
+      "body": "metallic",
+      "locomotion": "sliding",
+      "social_structure": "solitary"
+    },
+    "Aetherian": {
+      "diet": "phototrophic",
+      "habitat": "aerial",
+      "body": "winged",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Terradon": {
+      "diet": "herbivorous",
+      "habitat": "forest",
+      "body": "quadrupedal",
+      "locomotion": "bounding",
+      "social_structure": "communal"
+    }
+  }
+}

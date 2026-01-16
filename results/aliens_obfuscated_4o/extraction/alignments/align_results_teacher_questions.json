@@ -1,0 +1,562 @@
+{
+    "0": {
+        "alignment_results": {
+            "Nuzzala": {
+                "feature_a": "Nuzzala",
+                "feature_b": "Nuzzala",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Glimacule": {
+                "feature_a": "Glimacule",
+                "feature_b": "Glimacule",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Chanderon": {
+                "feature_a": "Chanderon",
+                "feature_b": "Chanderon",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Prandiglot": {
+                "feature_a": "Prandiglot",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.2777777777777778,
+                "name_similarity": 0.42105263157894735,
+                "blended_score": 0.34941520467836257,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Umberflow": {
+                "feature_a": "Umberflow",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.3356643356643357,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.3344988344988345,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            }
+        },
+        "mapping": {
+            "Nuzzala": "Nuzzala",
+            "Glimacule": "Glimacule",
+            "Chanderon": "Chanderon"
+        },
+        "mismatches": 2,
+        "comparison_results": {
+            "only_in_true_ontology": 7,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Notizi": {
+                    "Prandiglot": {
+                        "true_ontology": "flarn",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "plenth",
+                        "agent_ontology": null
+                    }
+                },
+                "Zeyeqo": {
+                    "Chanderon": {
+                        "true_ontology": "blava",
+                        "agent_ontology": null
+                    },
+                    "Prandiglot": {
+                        "true_ontology": "plingo",
+                        "agent_ontology": null
+                    },
+                    "Glimacule": {
+                        "true_ontology": "vorka",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    }
+                },
+                "Gokixi": {
+                    "Prandiglot": {
+                        "true_ontology": "vork",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    },
+                    "Nuzzala": {
+                        "true_ontology": "quintel",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 3,
+            "num_common_species": 3,
+            "num_species_with_diff_features": 3
+        }
+    },
+    "1": {
+        "alignment_results": {
+            "Nuzzala": {
+                "feature_a": "Nuzzala",
+                "feature_b": "Nuzzala",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Glimacule": {
+                "feature_a": "Glimacule",
+                "feature_b": "Glimacule",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Chanderon": {
+                "feature_a": "Chanderon",
+                "feature_b": "Chanderon",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Prandiglot": {
+                "feature_a": "Prandiglot",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.2777777777777778,
+                "name_similarity": 0.42105263157894735,
+                "blended_score": 0.34941520467836257,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Umberflow": {
+                "feature_a": "Umberflow",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.3356643356643357,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.3344988344988345,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            }
+        },
+        "mapping": {
+            "Nuzzala": "Nuzzala",
+            "Glimacule": "Glimacule",
+            "Chanderon": "Chanderon"
+        },
+        "mismatches": 2,
+        "comparison_results": {
+            "only_in_true_ontology": 7,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Notizi": {
+                    "Prandiglot": {
+                        "true_ontology": "flarn",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "plenth",
+                        "agent_ontology": null
+                    }
+                },
+                "Zeyeqo": {
+                    "Chanderon": {
+                        "true_ontology": "blava",
+                        "agent_ontology": null
+                    },
+                    "Prandiglot": {
+                        "true_ontology": "plingo",
+                        "agent_ontology": null
+                    },
+                    "Glimacule": {
+                        "true_ontology": "vorka",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    }
+                },
+                "Gokixi": {
+                    "Prandiglot": {
+                        "true_ontology": "vork",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    },
+                    "Nuzzala": {
+                        "true_ontology": "quintel",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 3,
+            "num_common_species": 3,
+            "num_species_with_diff_features": 3
+        }
+    },
+    "2": {
+        "alignment_results": {
+            "Nuzzala": {
+                "feature_a": "Nuzzala",
+                "feature_b": "Nuzzala",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Glimacule": {
+                "feature_a": "Glimacule",
+                "feature_b": "Glimacule",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Chanderon": {
+                "feature_a": "Chanderon",
+                "feature_b": "Chanderon",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Prandiglot": {
+                "feature_a": "Prandiglot",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.2777777777777778,
+                "name_similarity": 0.42105263157894735,
+                "blended_score": 0.34941520467836257,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Umberflow": {
+                "feature_a": "Umberflow",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.3356643356643357,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.3344988344988345,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            }
+        },
+        "mapping": {
+            "Nuzzala": "Nuzzala",
+            "Glimacule": "Glimacule",
+            "Chanderon": "Chanderon"
+        },
+        "mismatches": 2,
+        "comparison_results": {
+            "only_in_true_ontology": 7,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Notizi": {
+                    "Prandiglot": {
+                        "true_ontology": "flarn",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "plenth",
+                        "agent_ontology": null
+                    }
+                },
+                "Zeyeqo": {
+                    "Chanderon": {
+                        "true_ontology": "blava",
+                        "agent_ontology": null
+                    },
+                    "Prandiglot": {
+                        "true_ontology": "plingo",
+                        "agent_ontology": null
+                    },
+                    "Glimacule": {
+                        "true_ontology": "vorka",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    }
+                },
+                "Gokixi": {
+                    "Prandiglot": {
+                        "true_ontology": "vork",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    },
+                    "Nuzzala": {
+                        "true_ontology": "quintel",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 3,
+            "num_common_species": 3,
+            "num_species_with_diff_features": 3
+        }
+    },
+    "3": {
+        "alignment_results": {
+            "Nuzzala": {
+                "feature_a": "Nuzzala",
+                "feature_b": "Nuzzala",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Glimacule": {
+                "feature_a": "Glimacule",
+                "feature_b": "Glimacule",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Chanderon": {
+                "feature_a": "Chanderon",
+                "feature_b": "Chanderon",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Prandiglot": {
+                "feature_a": "Prandiglot",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.2777777777777778,
+                "name_similarity": 0.42105263157894735,
+                "blended_score": 0.34941520467836257,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Umberflow": {
+                "feature_a": "Umberflow",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.3356643356643357,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.3344988344988345,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            }
+        },
+        "mapping": {
+            "Nuzzala": "Nuzzala",
+            "Glimacule": "Glimacule",
+            "Chanderon": "Chanderon"
+        },
+        "mismatches": 2,
+        "comparison_results": {
+            "only_in_true_ontology": 7,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Notizi": {
+                    "Prandiglot": {
+                        "true_ontology": "flarn",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "plenth",
+                        "agent_ontology": null
+                    }
+                },
+                "Zeyeqo": {
+                    "Chanderon": {
+                        "true_ontology": "blava",
+                        "agent_ontology": null
+                    },
+                    "Prandiglot": {
+                        "true_ontology": "plingo",
+                        "agent_ontology": null
+                    },
+                    "Glimacule": {
+                        "true_ontology": "vorka",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    }
+                },
+                "Gokixi": {
+                    "Prandiglot": {
+                        "true_ontology": "vork",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    },
+                    "Nuzzala": {
+                        "true_ontology": "quintel",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 3,
+            "num_common_species": 3,
+            "num_species_with_diff_features": 3
+        }
+    },
+    "4": {
+        "alignment_results": {
+            "Nuzzala": {
+                "feature_a": "Nuzzala",
+                "feature_b": "Nuzzala",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Glimacule": {
+                "feature_a": "Glimacule",
+                "feature_b": "Glimacule",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Chanderon": {
+                "feature_a": "Chanderon",
+                "feature_b": "Chanderon",
+                "average_similarity": 1.0,
+                "name_similarity": 1.0,
+                "blended_score": 1.0,
+                "is_equivalent": true,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Prandiglot": {
+                "feature_a": "Prandiglot",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.2777777777777778,
+                "name_similarity": 0.42105263157894735,
+                "blended_score": 0.34941520467836257,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            },
+            "Umberflow": {
+                "feature_a": "Umberflow",
+                "feature_b": "Chanderon",
+                "average_similarity": 0.3356643356643357,
+                "name_similarity": 0.3333333333333333,
+                "blended_score": 0.3344988344988345,
+                "is_equivalent": false,
+                "num_comparisons": 2,
+                "skipped_comparisons": 1
+            }
+        },
+        "mapping": {
+            "Nuzzala": "Nuzzala",
+            "Glimacule": "Glimacule",
+            "Chanderon": "Chanderon"
+        },
+        "mismatches": 2,
+        "comparison_results": {
+            "only_in_true_ontology": 7,
+            "only_in_agent_ontology": 0,
+            "species_with_feature_differences": {
+                "Notizi": {
+                    "Prandiglot": {
+                        "true_ontology": "flarn",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "plenth",
+                        "agent_ontology": null
+                    }
+                },
+                "Zeyeqo": {
+                    "Chanderon": {
+                        "true_ontology": "blava",
+                        "agent_ontology": null
+                    },
+                    "Prandiglot": {
+                        "true_ontology": "plingo",
+                        "agent_ontology": null
+                    },
+                    "Glimacule": {
+                        "true_ontology": "vorka",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    }
+                },
+                "Gokixi": {
+                    "Prandiglot": {
+                        "true_ontology": "vork",
+                        "agent_ontology": null
+                    },
+                    "Umberflow": {
+                        "true_ontology": "santai",
+                        "agent_ontology": null
+                    },
+                    "Nuzzala": {
+                        "true_ontology": "quintel",
+                        "agent_ontology": null
+                    }
+                }
+            },
+            "num_species_in_true_ontology": 10,
+            "num_species_in_agent_ontology": 3,
+            "num_common_species": 3,
+            "num_species_with_diff_features": 3
+        }
+    }
+}

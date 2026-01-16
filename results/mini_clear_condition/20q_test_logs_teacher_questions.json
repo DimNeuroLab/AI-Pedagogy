@@ -1,0 +1,2137 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Frostian",
+      "Zyloxian",
+      "Zephyrian",
+      "Aetherian",
+      "Terradon",
+      "Floran",
+      "Aquarion",
+      "Pyron"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily thrive in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species primarily a plant-eater (herbivorous)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a quadrupedal morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species primarily found in a cold environment, such as a tundra or icy habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for its ability to fly or glide?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species associated with a forest habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species known for having a plant-like or botanical appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a unique adaptive characteristic related to temperature regulation?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for its armored or protective morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species primarily characterized by having a tentacled or similar appendage morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have a distinctive coloration that provides camouflage in its forest habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species known for having a strong and muscular physique adapted for powerful movement?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species primarily have a herbivorous diet that relies on consuming leaves and other plant materials?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known for having a quadrupedal form and utilizing bounding locomotion?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "I guess **Terradon**!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Since we have already established the previous guessing game, are we starting over with the same set of alien species? If so, please confirm! \n\nIf we are starting afresh, I would like to ask: Does the alien species thrive in cold, icy habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species primarily thrive in a forest habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species primarily a plant-eater (herbivorous)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have a quadrupedal morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known for its ability to bound or leap as its primary mode of locomotion?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "I guess **Terradon**.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Aquarion",
+      "Glimmeron",
+      "Pyron",
+      "Frostian",
+      "Crystar",
+      "Zephyrian",
+      "Aetherian",
+      "Zyloxian"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a fluid or gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily inhabit a terrestrial environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a unique ability to derive energy from light?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species a carnivore?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have an armored morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species known for its ability to fly or has aerial adaptations?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a tentacled morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species primarily adapted to a desert habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species found in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a crystalline or metallic morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species known for its ability to thrive in cold or icy environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species exhibit a quadrupedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species primarily a bipedal organism?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species characterized by a gelatinous or flexible body structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species have a slim and elongated body shape?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species exhibit features such as scales or a rough exterior?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species characterized by a robust, stocky physique?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species known for having multiple appendages or limbs?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have a hard or protective outer shell?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species characterized by bioluminescence or light-emitting features?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Glimmeron",
+      "Pyron",
+      "Terradon",
+      "Aetherian",
+      "Floran",
+      "Crystar",
+      "Aquarion",
+      "Frostian"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you are thinking of possess cooperative behaviors within its social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species primarily aquatic in nature?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have a primary diet that includes plant material?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species capable of flight?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for its phototropic nature, deriving energy from light?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species the **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species typically found in an aquatic habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a crystalline morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species known for living in forest habitats?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species the **Terradon**?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species have unique characteristics or features that allow it to blend into its forest environment, such as camouflage?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species the **Floran**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species the **Glimmeron**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known for its ability to generate heat or thrive in high-temperature environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species the **Frostian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species the **Aquarion**?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species the **Pyron**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species the **Crystar**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species the **Terradon**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species the **Glimmeron**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Crystar",
+      "Glimmeron",
+      "Aquarion",
+      "Zyloxian",
+      "Floran",
+      "Pyron",
+      "Terradon",
+      "Frostian"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a cooperative social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a terrestrial habitat, such as forests or deserts?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily herbivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien carnivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien come from a desert habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess **Pyron**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Pyron",
+      "Terradon",
+      "Crystar",
+      "Glimmeron",
+      "Aquarion",
+      "Frostian",
+      "Floran",
+      "Aetherian"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a cooperative social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien species primarily aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species have abilities that allow it to manipulate plant life or has strong connections to vegetation?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a mountainous or rocky habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species primarily adapted to a desert environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species have a strong affinity for cold or icy environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species predominantly herbivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for its ability to communicate or perform complex social interactions?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species primarily found in forest habitats?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a quadrupedal morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "I guess **Terradon**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "It seems we have already identified **Terradon** as the species. If you're looking for further exploration or want to continue with other species, please let me know! Or, if you meant to refer to another candidate or aspect, feel free to clarify!",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species capable of photosynthesis or deriving energy from light?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species known for its ability to manipulate or interact with crystals?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species carnivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species characterized by a plant-like appearance or features?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species have a gelatinous or soft body structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species possess a unique method of locomotion, such as flying or gliding?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species capable of living in a cold environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species primarily terrestrial and known for being a ground-dwelling creature?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "I guess **Floran**.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Frostian",
+      "Crystar",
+      "Aetherian",
+      "Glimmeron",
+      "Floran",
+      "Aquarion",
+      "Zephyrian",
+      "Terradon"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien species primarily inhabit aquatic environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is this alien species capable of photosynthesis?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien species have a gelatinous morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien species known for its bioluminescent features?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien species primarily known for its floating locomotion?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is this alien species the **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does this alien species primarily inhabit cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is this alien species known for its vibrant, colorful appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does this alien species have tentacles or similar appendages?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is this alien species primarily herbivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is this alien species the **Aquarion**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is this alien species the **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is this alien species the **Glimmeron**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 14,
+        "question": "Is this alien species primarily known for its bioluminescent properties?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does this alien species have a crystalline structure or form?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is this alien species characterized by a predominantly plant-like morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does this alien species possess wings or similar structures for aerial movement?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is this alien species primarily terrestrial rather than aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does this alien species have tentacle-like appendages used for movement or feeding?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is this alien species known to be colorful or exhibit a variety of vibrant colors?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Pyron",
+      "Aetherian",
+      "Zephyrian",
+      "Floran",
+      "Glimmeron",
+      "Crystar",
+      "Terradon",
+      "Aquarion"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have the ability to derive energy from light?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien primarily inhabit an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien capable of flight?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien a plant-based organism?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a crystalline or mineral-like appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien characterized by having tentacles or appendages that assist in movement?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien predominantly terrestrial, meaning it primarily lives on land?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for its ability to manipulate or control temperature or fire in some manner?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a gelatinous or flowing body structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien a type of amphibious creature that can live both in water and on land?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien have a unique ability to produce bioluminescence?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien characterized by having a sleek or streamlined body shape?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien have a hard, protective shell or armor?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien capable of photosynthesis?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien primarily found in terrestrial environments, such as forests or grasslands?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien primarily found in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien have feather-like or wing-like structures?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien primarily an aerial species, adapted for flight?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien have a morphology that is primarily arboreal, meaning it is adapted to living in trees?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien characterized by a predominantly amphibious lifestyle, capable of thriving in both land and water environments?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Terradon",
+      "Crystar",
+      "Zyloxian",
+      "Aquarion",
+      "Aetherian",
+      "Pyron",
+      "Frostian",
+      "Zephyrian"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have a primarily herbivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species primarily carnivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have an armored morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known to inhabit a desert environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species possess the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species have a fiery or heat-based adaptation, such as the ability to withstand extreme heat?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species the **Pyron**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species primarily inhabit a forest environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species the **Frostian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species have a crystalline or metallic morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species the **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien species primarily have a terrestrial habitat, such as dry land or mountains?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species the **Terradon**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species the **Zephyrian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species the **Crystar**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species the **Zyloxian**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "**Frostian**",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Zephyrian",
+      "Aquarion",
+      "Crystar",
+      "Floran",
+      "Glimmeron",
+      "Pyron",
+      "Aetherian",
+      "Terradon"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a feature related to aquatic environments or habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a feature related to flight or aerial locomotion?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien primarily a plant or vegetation-based organism?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien capable of photosynthesis?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a predatory diet, meaning it primarily consumes other organisms?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien primarily herbivorous, meaning it consumes plants or plant-based matter?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien a terrestrial species rather than an aquatic one?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess **Terradon**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Terradon.",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Frostian",
+      "Floran",
+      "Zyloxian",
+      "Crystar",
+      "Aquarion",
+      "Aetherian",
+      "Glimmeron",
+      "Pyron"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a primarily aquatic habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien a carnivorous species?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien primarily derive energy from sunlight or light sources (phototrophic)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien a gelatinous being?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien known for its ability to float in water?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for its vibrant bioluminescence?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien have tentacles as a prominent feature?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien notably characterized by its ability to absorb nutrients directly from its aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a primarily plant-like morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien associated with colder climates or ice?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien capable of photosynthesis?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien the **Glimmeron**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Since we've already identified the **Glimmeron**, would you like to continue with questions about another alien species or explore a new topic?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien have a crystalline morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien predominantly found in a forest or terrestrial habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien capable of living in high-temperature environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien primarily associated with aquatic environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien known for having a tentacled body structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien have the ability to float in the water?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien known for its gelatinous body structure?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Frostian",
+      "Aquarion",
+      "Zyloxian",
+      "Zephyrian",
+      "Glimmeron",
+      "Crystar",
+      "Pyron",
+      "Aetherian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you are thinking of have the ability to thrive in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species you are thinking of primarily inhabit a desert environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species you are thinking of have a body covered in an armor-like structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species you are thinking of more commonly known for its predatory behavior?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species you are thinking of primarily adapted to cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien species you are thinking of possess the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species you are thinking of primarily found in aquatic environments rather than terrestrial ones?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species you are thinking of known for having a crystalline or metallic morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species you are thinking of primarily feed on metallic substances?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "I guess **Crystar**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "It seems there might have been a misunderstanding. We've already identified the **Crystar** as the alien species you were thinking of. If you meant to ask about a new set of aliens or question about a different topic, please clarify, and I'll be glad to assist!",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species you are thinking of have a gelatinous or non-solid form?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Does the alien species you are thinking of possess the ability to conduct photosynthesis?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species you are thinking of have a body covered in feathers?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien species you are thinking of have a body adapted for cold, icy environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species you are thinking of characterized by a fiery or volcanic environment adaptation?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species you are thinking of primarily have a robotic or mechanical appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "I guess **Pyron**.",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species you are thinking of primarily have a crystalline structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "I guess **Crystar**.",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Zyloxian",
+      "Pyron",
+      "Crystar",
+      "Aetherian",
+      "Floran",
+      "Zephyrian",
+      "Frostian",
+      "Glimmeron"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a cooperative social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily adapted to a carnivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a primarily plant-based diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien capable of photosynthesis?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a crystalline morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien capable of flight?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien characterized by an armored morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien primarily adapted to a desert habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien capable of thriving in cold environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species you are thinking of the **Frostian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien characterized by a feathered morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species you are thinking of the **Zephyrian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species you are thinking of the **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species you are thinking of the **Crystar**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species you are thinking of the **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species you are thinking of the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species you are thinking of the **Pyron**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species you are thinking of the **Glimmeron**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "**Frostian**",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Aquarion",
+      "Zyloxian",
+      "Pyron",
+      "Terradon",
+      "Glimmeron",
+      "Aetherian",
+      "Crystar",
+      "Frostian"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species primarily inhabit an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species primarily have a terrestrial habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily have a carnivorous diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species known for its armored morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien species have the ability to fly or glide?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species known for living in desert habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species have a plant-eating or herbivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species known for its cold or icy habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species characterized by having a crystalline morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien species have a fiery or heat-based characteristic, such as being adapted to high temperatures?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species known to inhabit forest environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species primarily adapted to rocky or mountainous terrains?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species adapted to high-altitude environments or aerial habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have a unique characteristic that enables it to camouflage effectively in its environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species primarily known for being a predator or a hunter within its ecosystem?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species known for having a sleek or streamlined body morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species characterized by having an armored or heavily fortified body?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species possess tentacles or similar appendages to assist in hunting?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species primarily known for displaying vibrant colors or patterns in its appearance?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species known for having a robust or powerful physique that aids in hunting?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "I guess the species is **Zyloxian**.",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Aetherian",
+      "Aquarion",
+      "Pyron",
+      "Terradon",
+      "Floran",
+      "Frostian",
+      "Crystar",
+      "Zephyrian"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have a primarily aquatic lifestyle?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species exhibit a strong ability to generate or manipulate heat or flames?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species primarily terrestrial and adapted for living in forested or wooded environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species have a crystalline or mineral-like morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species characterized by having wings or the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species primarily adapted to cold, icy environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species characterized by having plant-like features or characteristics?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species primarily a herbivore?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien species have a quadrupedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species capable of locomotion through tentacles or similar appendages?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien species primarily have a bipedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien species characterized by the ability to photosynthesize?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known as **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien species have a dominant feature of foliage or plant-like structures integrated into its body?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species known for its ability to float or glide in the air?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species **Zephyrian**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien species primarily thrive in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species known for having traits or features that are primarily plant-like?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species **Floran**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Zephyrian",
+      "Zyloxian",
+      "Terradon",
+      "Aetherian",
+      "Pyron",
+      "Aquarion",
+      "Floran",
+      "Glimmeron"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily a carnivore?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien primarily inhabit an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily a herbivore?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a predominantly flying or aerial mode of locomotion?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien primarily found in a forest habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien characterized by a gelatinous or flexible morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have an armored morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien a plant-based species?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien possess a tentacled morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien primarily a ground-dwelling species?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien characterized by a leaf-like morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien capable of photosynthesis?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien capable of floating or thriving in an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien primarily live in terrestrial habitats, such as fields or grasslands?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien predominantly an aerial dweller?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien distinguished by having wings?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien have a feathered morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "I guess **Zephyrian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Aquarion",
+      "Zyloxian",
+      "Floran",
+      "Crystar",
+      "Terradon",
+      "Frostian",
+      "Glimmeron",
+      "Zephyrian"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species have aquatic features or adaptations?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species have any kind of symbiotic relationship with its environment or other species?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien species primarily inhabit land environments rather than aerial or aquatic habitats?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien species predominantly herbivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species known for having a plant-like or botanical appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species the **Floran**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien species primarily inhabit aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species adapted to live in cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species more commonly found in desert or arid environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species characterized by having wings or the ability to fly?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species the **Zephyrian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species have any bioluminescent features?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species known for its gelatinous or amorphous body structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species characterized by having a hard, armored exoskeleton?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species predominantly terrestrial and capable of walking on land?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien species primarily aquatic and adapted to living in water?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien species known for having tentacle-like appendages?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species the **Crystar**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien species have a plant-like appearance that includes leaves or similar structures?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species the **Terradon**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Frostian",
+      "Glimmeron",
+      "Zyloxian",
+      "Pyron",
+      "Aquarion",
+      "Terradon",
+      "Zephyrian",
+      "Aetherian"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you have in mind possess a form of cooperative breeding?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species you have in mind primarily inhabit aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species you have in mind primarily a carnivore?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species you have in mind have the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species you have in mind primarily a herbivore?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species you have in mind known for living in forest habitats?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess the alien species is the **Terradon**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien species you have in mind primarily inhabit icy or cold environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien species you have in mind capable of surviving in desert environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien species you have in mind primarily an aquatic creature?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien species you have in mind known for its ability to float or glide through the air?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien species you have in mind have an armored morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien species you have in mind characterized by having tentacles?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien species you have in mind known for having a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien species you have in mind characterized by a quadrupedal morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "I guess the alien species is the **Terradon**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien species you have in mind have a cold adaptation characteristic, such as surviving in icy environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien species you have in mind primarily characterized by a bright or iridescent coloration?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien species you have in mind adapted to living in desert environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien species you have in mind known for having wings or the ability to fly?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Zephyrian",
+      "Frostian",
+      "Terradon",
+      "Floran",
+      "Zyloxian",
+      "Aquarion",
+      "Crystar",
+      "Aetherian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien you are thinking of have aquatic features, such as a need for water or an environment associated with water?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien adapted to a cold environment or icy conditions?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien possess plant-like features or characteristics, such as the ability to photosynthesize?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien predominantly a terrestrial species, meaning it primarily lives on land rather than in aquatic or aerial environments?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have an armored or protective exterior?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for being carnivorous or predominantly feeding on other living organisms?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien primarily feed on plant matter?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for having a crystalline or mineral-based structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien specifically known as a metallic eater?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "I guess **Crystar**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 10
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Aetherian",
+      "Pyron",
+      "Zyloxian",
+      "Zephyrian",
+      "Terradon",
+      "Floran",
+      "Glimmeron",
+      "Crystar"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien species you are thinking of have the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species you are thinking of have a primarily herbivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species you are thinking of primarily carnivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species you are thinking of have a desert habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species you are thinking of the **Pyron**?",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Crystar",
+      "Floran",
+      "Zyloxian",
+      "Zephyrian",
+      "Aquarion",
+      "Terradon",
+      "Pyron",
+      "Aetherian"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien species have a primarily aquatic habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does this alien species primarily have a cooperative social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is this alien species primarily herbivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does this alien species have the ability to fly?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien species known for its carnivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is this alien species characterized by a plant-based diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is this alien species primarily found in forested habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is this alien species primarily found in aquatic environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is this alien species adapted to a desert habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is this alien species associated with mountainous or elevated terrains?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is this alien species known for its ability to thrive in a temperate or grassland environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is this alien species primarily adapted to volcanic or hot environments?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is this alien species primarily found in swamps or marshy areas?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is this alien species known to have a metallic morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is this alien species characterized by a green, plant-like appearance?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is this alien species the **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is this alien species known for having a quadrupedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Does this alien species have a flying or gliding ability?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Is this alien species the **Zephyrian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is this alien species characterized by an affinity for light (phototrophic)?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 20
+  }
+]

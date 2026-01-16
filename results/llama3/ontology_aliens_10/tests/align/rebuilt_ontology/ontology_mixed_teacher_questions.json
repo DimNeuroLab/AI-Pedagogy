@@ -1,0 +1,102 @@
+{
+  "Test 1": {
+    "The Luminari": {
+      "Culture": "Cosmic Philosophy",
+      "Conflict": "Rivalry with The Abyssals",
+      "Cooperation": "Alliance with The Kelpweavers",
+      "Ultimate Fate": "Collective Transcendence"
+    },
+    "The Abyssals": {
+      "Culture": "Ambitious Expansionism",
+      "Conflict": "War with The Kelpweavers",
+      "Cooperation": "Temporary Alliance with The Luminari",
+      "Ultimate Fate": "Downfall due to Unchecked Ambition"
+    },
+    "The Kelpweavers": {
+      "Culture": "Environmental Harmony",
+      "Conflict": "War with The Abyssals",
+      "Cooperation": "Alliance with The Luminari",
+      "Ultimate Fate": "Collective Transcendence"
+    }
+  },
+  "Test 2": {
+    "The Luminari": {
+      "Culture": "Cosmic philosophy",
+      "Conflict": "With The Abyssals",
+      "Cooperation": "With The Kelpweavers",
+      "Ultimate Fate": "Collective transcendence"
+    },
+    "The Abyssals": {
+      "Culture": "Advanced technology",
+      "Conflict": "With The Kelpweavers and The Luminari",
+      "Cooperation": "Limited alliance with The Luminari",
+      "Ultimate Fate": "Downfall due to conflict"
+    },
+    "The Kelpweavers": {
+      "Culture": "Harmonious ecosystem",
+      "Conflict": "With The Abyssals",
+      "Cooperation": "Alliance with The Luminari",
+      "Ultimate Fate": "Collective transcendence with The Luminari"
+    }
+  },
+  "Test 3": {
+    "The Luminari": {
+      "Culture": "Cosmic Philosophy",
+      "Conflict Resolution": "Collective Meditation",
+      "Cooperation": "Interconnected Ecosystem",
+      "Fate": "Merged Cosmic Entity"
+    },
+    "The Abyssals": {
+      "Culture": "Advanced Technology",
+      "Conflict Resolution": "Warfare and Defense",
+      "Cooperation": "Tentative Alliance",
+      "Fate": "Downfall due to Unchecked Ambition"
+    },
+    "The Kelpweavers": {
+      "Culture": "Environmental Harmony",
+      "Conflict Resolution": "Diplomacy and Negotiation",
+      "Cooperation": "Mutual Benefit",
+      "Fate": "Downfall due to Unchecked Rivalry"
+    }
+  },
+  "Test 4": {
+    "The Luminari": {
+      "Culture": "Cosmic Philosophy",
+      "Conflict": "War with The Abyssals",
+      "Cooperation": "Alliance with The Kelpweavers",
+      "Ultimate Fate": "Merged into a cosmic entity"
+    },
+    "The Abyssals": {
+      "Culture": "Technological Advancements",
+      "Conflict": "War with The Luminari and The Kelpweavers",
+      "Cooperation": "Initial Alliance with The Luminari",
+      "Ultimate Fate": "Downfall due to environmental disasters"
+    },
+    "The Kelpweavers": {
+      "Culture": "Ecological Harmony",
+      "Conflict": "War with The Abyssals",
+      "Cooperation": "Alliance with The Luminari and The Abyssals",
+      "Ultimate Fate": "Merged into a cosmic entity"
+    }
+  },
+  "Test 5": {
+    "The Luminari": {
+      "culture": "cosmic philosophy",
+      "conflict": "war with The Abyssals",
+      "cooperation": "alliance with The Kelpweavers",
+      "ultimate fate": "merged, cosmic entity"
+    },
+    "The Abyssals": {
+      "culture": "technological advancement",
+      "conflict": "war with The Luminari and The Kelpweavers",
+      "cooperation": "temporary alliance with The Kelpweavers",
+      "ultimate fate": "downfall due to environmental disasters"
+    },
+    "The Kelpweavers": {
+      "culture": "harmonious, interconnected ecosystem",
+      "conflict": "war with The Abyssals",
+      "cooperation": "alliance with The Luminari and temporary alliance with The Abyssals",
+      "ultimate fate": "merged, cosmic entity"
+    }
+  }
+}

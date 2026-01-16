@@ -1,0 +1,1547 @@
+[
+  {
+    "set_index": 1,
+    "candidate_set": [
+      "Frostian",
+      "Zyloxian",
+      "Pyron",
+      "Aetherian",
+      "Aquarion",
+      "Terradon",
+      "Floran",
+      "Glimmeron"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a **carnivorous** diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily found in an **aquatic** habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a **solitary** social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien characterized by an **armoured** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a **winged** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien a **herbivore**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien primarily found in a **forest** habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "I guess the species is the **Terradon**.",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien have a **petal-like** morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "I guess the species is the **Floran**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien have a **furry** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien primarily found in a **desert** habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien primarily found in an **aquatic** habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien have an **armoured** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien have a **gelatinous** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien characterized by a **tentacled** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Does the alien primarily have a **winged** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien a **Frostian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien a **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien a **Glimmeron**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 2,
+    "candidate_set": [
+      "Pyron",
+      "Terradon",
+      "Glimmeron",
+      "Aetherian",
+      "Aquarion",
+      "Frostian",
+      "Zyloxian",
+      "Zephyrian"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily inhabit an aquatic environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien carnivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien known for having an armoured morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien primarily live in a desert habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien known for having a solitary social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known to have a communal social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess the species is **Pyron**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 3,
+    "candidate_set": [
+      "Floran",
+      "Aquarion",
+      "Crystar",
+      "Zyloxian",
+      "Frostian",
+      "Pyron",
+      "Aetherian",
+      "Zephyrian"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a **tentacled morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien **carnivorous**?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien **herbivorous**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien reside in a **forest habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a **petal-like morphology**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess **Floran**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Floran",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 4,
+    "candidate_set": [
+      "Glimmeron",
+      "Floran",
+      "Aquarion",
+      "Frostian",
+      "Terradon",
+      "Pyron",
+      "Aetherian",
+      "Crystar"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily inhabit an aquatic environment?",
+        "answer": "No."
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien a carnivorous species?",
+        "answer": "No."
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a tentacled morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily herbivorous?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily found in a forest habitat?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "Yes."
+      },
+      {
+        "turn": 7,
+        "question": "I guess the species is **Terradon**.",
+        "answer": "Yes."
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien primarily obtain energy from light (phototrophic)?",
+        "answer": "No."
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien primarily carnivorous?",
+        "answer": "No."
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien have a furry morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien a vegetation-based species, such as a plant-like organism?",
+        "answer": "No."
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien primarily associated with a crystal habitat?",
+        "answer": "No."
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien capable of swimming as its primary mode of locomotion?",
+        "answer": "No."
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien capable of floating as its primary method of movement?",
+        "answer": "No."
+      },
+      {
+        "turn": 16,
+        "question": "Does the alien have a petal-like morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 17,
+        "question": "I guess the species is **Floran**.",
+        "answer": "No."
+      },
+      {
+        "turn": 18,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No."
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien primarily a crystalline species?",
+        "answer": "No."
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien known for its unique appearance and ability to manipulate light?",
+        "answer": "No."
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 5,
+    "candidate_set": [
+      "Pyron",
+      "Terradon",
+      "Aetherian",
+      "Glimmeron",
+      "Zyloxian",
+      "Crystar",
+      "Floran",
+      "Frostian"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien you’re thinking of have a **winged morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien you’re thinking of **carnivorous**?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien you’re thinking of **herbivorous**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien you’re thinking of have an **aquatic habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien you’re thinking of have a **forest habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien you’re thinking of characterized by a **quadrupedal morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien you’re thinking of have a **petal-like morphology**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "I guess the alien species is the **Floran**!",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Does the alien you’re thinking of have a **gelatinous morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien you’re thinking of **carnivorous**?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien you’re thinking of have an **armoured morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien you’re thinking of an **aerial dweller**?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien you’re thinking of characterized by a **furry morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Does the alien you’re thinking of have a **tentacled morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien you’re thinking of the **Crystar**?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien you’re thinking of the **Terradon**?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien you’re thinking of the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien you’re thinking of the **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien you’re thinking of the **Glimmeron**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "I guess the alien species is the **Frostian**!",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Pyron",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 6,
+    "candidate_set": [
+      "Terradon",
+      "Zephyrian",
+      "Frostian",
+      "Glimmeron",
+      "Aetherian",
+      "Crystar",
+      "Aquarion",
+      "Zyloxian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien you are thinking of have a **communal social structure**?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien you are thinking of **armoured** in morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien you are thinking of primarily a **herbivore**?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien you are thinking of have a **tentacled morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien you are thinking of capable of **floating** as its primary means of locomotion?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien you are thinking of a **solitary** creature?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Does the alien you are thinking of have a **carnivorous diet**?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien you are thinking of characterized by a **furry morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien you are thinking of primarily **aquatic** in habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien you are thinking of a **forest-dweller**?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien you are thinking of a **desert dweller**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien you are thinking of characterized by a **crystalline morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien you are thinking of primarily **aerial** in habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "I guess the alien species is **Crystar**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 15,
+        "question": "Does the alien you are thinking of have a **furry morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien you are thinking of capable of **floating** as its primary means of locomotion?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien you are thinking of **carnivorous**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien you are thinking of primarily a **herbivore**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien you are thinking of characterized by having **tentacles**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien you are thinking of primarily an **aquatic** creature?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 7,
+    "candidate_set": [
+      "Frostian",
+      "Aetherian",
+      "Crystar",
+      "Glimmeron",
+      "Pyron",
+      "Floran",
+      "Terradon",
+      "Aquarion"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a **solitary** social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily adapted to an **aquatic** habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a **tentacled** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien **gelatinous** in morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a **phototrophic** diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess **Glimmeron**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 8,
+    "candidate_set": [
+      "Crystar",
+      "Terradon",
+      "Aetherian",
+      "Glimmeron",
+      "Aquarion",
+      "Frostian",
+      "Zyloxian",
+      "Zephyrian"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does this alien species have a **communal social structure**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is this alien species **herbivorous**?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does this alien species have a **phototrophic diet**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is this alien species found in an **aerial habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is this alien species **winged**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess the alien species is the **Aetherian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 9,
+    "candidate_set": [
+      "Aquarion",
+      "Frostian",
+      "Crystar",
+      "Zephyrian",
+      "Pyron",
+      "Glimmeron",
+      "Floran",
+      "Terradon"
+    ],
+    "target": "Aquarion",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien you're thinking of inhabit an aquatic habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien carnivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a tentacled morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien solitary in its social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess the alien species is **Aquarion**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aquarion",
+    "correct": true,
+    "questions_used": 6
+  },
+  {
+    "set_index": 10,
+    "candidate_set": [
+      "Zephyrian",
+      "Glimmeron",
+      "Zyloxian",
+      "Floran",
+      "Frostian",
+      "Pyron",
+      "Aquarion",
+      "Terradon"
+    ],
+    "target": "Frostian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Is the alien species you're thinking of primarily carnivorous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien species you have in mind primarily inhabit a desert environment?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien species you’re thinking of primarily aquatic?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien species you’re thinking of have an armoured morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien species you have in mind primarily forest-dwelling?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien species you’re thinking of characterized by a tentacled morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien species you have in mind primarily associated with a crystal habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien species you’re thinking of characterized by a furry morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "I guess the alien species is the **Frostian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Frostian",
+    "correct": true,
+    "questions_used": 9
+  },
+  {
+    "set_index": 11,
+    "candidate_set": [
+      "Aetherian",
+      "Frostian",
+      "Terradon",
+      "Glimmeron",
+      "Floran",
+      "Pyron",
+      "Zyloxian",
+      "Aquarion"
+    ],
+    "target": "Terradon",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a **winged morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien **herbivorous**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit a **forest habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's **morphology quadrupedal**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess the species is **Terradon**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Terradon",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 12,
+    "candidate_set": [
+      "Aetherian",
+      "Pyron",
+      "Frostian",
+      "Floran",
+      "Zephyrian",
+      "Aquarion",
+      "Zyloxian",
+      "Glimmeron"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien you're thinking of have a **communally living social structure**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien you're thinking of **phototrophic**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Is the alien you're thinking of primarily found in an **aquatic habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a **gelatinous morphology**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess **Glimmeron**!",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 13,
+    "candidate_set": [
+      "Zyloxian",
+      "Floran",
+      "Aquarion",
+      "Pyron",
+      "Zephyrian",
+      "Terradon",
+      "Glimmeron",
+      "Frostian"
+    ],
+    "target": "Glimmeron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a carnivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien a communal creature that lives in groups?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit an aquatic environment?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien's morphology gelatinous?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess **Glimmeron**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Glimmeron",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 14,
+    "candidate_set": [
+      "Pyron",
+      "Crystar",
+      "Terradon",
+      "Frostian",
+      "Floran",
+      "Aquarion",
+      "Zephyrian",
+      "Zyloxian"
+    ],
+    "target": "Pyron",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a communal social structure?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien an aquatic creature?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a herbivorous diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily characterized by an armoured morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien a desert-dwelling creature?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien solitary in its social structure?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien referred to as the **Pyron**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for having a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien characterized by a tentacled morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Does the alien have a social structure that allows for group living and cooperation in resource gathering?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien primarily a forest-dwelling creature?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien known for its crystal-like habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien referred to as the **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien known for having a furry morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien characterized by a **quadrupedal** morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien known for living in a **desert environment**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien referred to as the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien known for being **armoured**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien the **Pyron**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien known for its **tentacled morphology**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 15,
+    "candidate_set": [
+      "Pyron",
+      "Zephyrian",
+      "Aquarion",
+      "Terradon",
+      "Frostian",
+      "Crystar",
+      "Glimmeron",
+      "Zyloxian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have an **armoured** morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily found in a **desert habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien belong to a **communal social structure**?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien primarily **herbivorous**?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a **solitary social structure**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien primarily found in an **aquatic habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien a **carnivorous** species?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Does the alien have a **furry morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien a **crystalline** species?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien characterized by a **gelatinous morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 11,
+        "question": "Is the alien a **winged species**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien primarily found in a **forest habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien the **Pyron**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien the **Crystar**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien a **carnivorous** species?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien primarily found in an **aquatic habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien characterized by a **winged morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien the **Frostian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien the **Terradon**?",
+        "answer": "No"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": false,
+    "questions_used": 20
+  },
+  {
+    "set_index": 16,
+    "candidate_set": [
+      "Crystar",
+      "Floran",
+      "Glimmeron",
+      "Terradon",
+      "Zyloxian",
+      "Pyron",
+      "Aetherian",
+      "Zephyrian"
+    ],
+    "target": "Crystar",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily live in an aquatic habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily carnivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a gelatinous morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily herbivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have an armoured morphology?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien primarily a desert dweller?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien known for its crystalline habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien known for having a furry morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 10,
+        "question": "I guess the species is **Crystar**.",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien primarily thrive in forest habitats?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Is the alien primarily an aerial creature?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien primarily carnivorous?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien known for having tentacles?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien an herbivorous species?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien known for its unique morphology that resembles petals?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien primarily found in a desert habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien primarily known for its aerodynamic features that aid in gliding or flying?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Does the alien have an armoured body?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 20,
+        "question": "Is the alien primarily known to inhabit crystal environments?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Crystar",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 17,
+    "candidate_set": [
+      "Pyron",
+      "Zyloxian",
+      "Aetherian",
+      "Frostian",
+      "Zephyrian",
+      "Aquarion",
+      "Floran",
+      "Crystar"
+    ],
+    "target": "Zephyrian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a **carnivorous** diet?",
+        "answer": "No"
+      },
+      {
+        "turn": 2,
+        "question": "Does the alien have a **phototrophic** diet?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit an **aquatic habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a **winged morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Does the alien have a **furry morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 6,
+        "question": "Does the alien have a **tentacled morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 7,
+        "question": "Is the alien characterized by an **armoured morphology**?",
+        "answer": "No"
+      },
+      {
+        "turn": 8,
+        "question": "Is the alien the **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 9,
+        "question": "Is the alien the **Zephyrian**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 10,
+        "question": "Is the alien characterized by having a **herbivorous diet**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 11,
+        "question": "Does the alien inhabit a **forest habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 12,
+        "question": "Does the alien inhabit a **crystal habitat**?",
+        "answer": "No"
+      },
+      {
+        "turn": 13,
+        "question": "Is the alien the **Aquarion**?",
+        "answer": "No"
+      },
+      {
+        "turn": 14,
+        "question": "Is the alien the **Frostian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 15,
+        "question": "Is the alien the **Crystar**?",
+        "answer": "No"
+      },
+      {
+        "turn": 16,
+        "question": "Is the alien the **Aetherian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 17,
+        "question": "Is the alien the **Zyloxian**?",
+        "answer": "No"
+      },
+      {
+        "turn": 18,
+        "question": "Is the alien the **Pyron**?",
+        "answer": "No"
+      },
+      {
+        "turn": 19,
+        "question": "Is the alien the **Floran**?",
+        "answer": "No"
+      },
+      {
+        "turn": 20,
+        "question": "Are all the remaining candidates **herbivorous** creatures?",
+        "answer": "Yes"
+      }
+    ],
+    "final_guess": "Zephyrian",
+    "correct": true,
+    "questions_used": 20
+  },
+  {
+    "set_index": 18,
+    "candidate_set": [
+      "Floran",
+      "Zephyrian",
+      "Crystar",
+      "Terradon",
+      "Frostian",
+      "Pyron",
+      "Glimmeron",
+      "Aetherian"
+    ],
+    "target": "Floran",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien primarily consume plant material (herbivorous)?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily found in an aquatic habitat?",
+        "answer": "No"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien have a quadrupedal morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a winged morphology?",
+        "answer": "No"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily found in a forest habitat?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "Is the alien known for having petal-like features?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 7,
+        "question": "I guess **Floran**!",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Floran",
+    "correct": true,
+    "questions_used": 7
+  },
+  {
+    "set_index": 19,
+    "candidate_set": [
+      "Crystar",
+      "Zyloxian",
+      "Frostian",
+      "Pyron",
+      "Terradon",
+      "Aquarion",
+      "Glimmeron",
+      "Zephyrian"
+    ],
+    "target": "Zyloxian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have an **armoured morphology**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien **carnivorous**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien reside in a **desert habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 4,
+        "question": "Is the alien known to have a **solitary social structure**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "I guess the species is **Zyloxian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Zyloxian",
+    "correct": true,
+    "questions_used": 5
+  },
+  {
+    "set_index": 20,
+    "candidate_set": [
+      "Floran",
+      "Zyloxian",
+      "Pyron",
+      "Aetherian",
+      "Glimmeron",
+      "Frostian",
+      "Terradon",
+      "Aquarion"
+    ],
+    "target": "Aetherian",
+    "qa_log": [
+      {
+        "turn": 1,
+        "question": "Does the alien have a **communal social structure**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 2,
+        "question": "Is the alien primarily **phototrophic**, obtaining its energy from light?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 3,
+        "question": "Does the alien inhabit an **aquatic environment**?",
+        "answer": "No"
+      },
+      {
+        "turn": 4,
+        "question": "Does the alien have a **winged morphology**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 5,
+        "question": "Is the alien primarily found in an **aerial habitat**?",
+        "answer": "Yes"
+      },
+      {
+        "turn": 6,
+        "question": "I guess the species is the **Aetherian**.",
+        "answer": "Correct"
+      }
+    ],
+    "final_guess": "Aetherian",
+    "correct": true,
+    "questions_used": 6
+  }
+]

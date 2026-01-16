@@ -1,0 +1,190 @@
+{
+  "Test 1": {
+    "Silicscale Dweller": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Lava tubes and caves on a volcanically active planet",
+      "Morphology": "Scaled body with reflective, metallic-like skin",
+      "Locomotion": "Sliding through rocky terrains",
+      "Social Structure": "Solitary but gathers during nutrient-rich mineral blooms for mating rituals"
+    },
+    "Umbravire Swimmer": {
+      "Diet": "Carnivorous",
+      "Habitat": "Deep oceanic trenches on a dark, high-pressure world",
+      "Morphology": "Elongated, flexible body with luminescent spots",
+      "Locomotion": "Swimming with agility and speed",
+      "Social Structure": "Communal; forms schools based on food availability"
+    },
+    "Aerial Bloomcaster": {
+      "Diet": "Phototrophic, with nutrient absorption from air",
+      "Habitat": "High-altitude cloud layers on a gas giant",
+      "Morphology": "Petal-like structures resembling flowers",
+      "Locomotion": "Floating using gas bladders and aerial wing-like extensions",
+      "Social Structure": "Communal; forms large groups to maximize resources"
+    },
+    "Armoured Crystarial": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal caves on a mineral-rich planet",
+      "Morphology": "Armoured with a reflective shell",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary, with seasonal gatherings for mating rituals"
+    }
+  },
+  "Test 2": {
+    "Silicscale Dweller": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Lava tubes and volcanic regions",
+      "Morphology": "Scaled body with reflective, metallic-like skin",
+      "Locomotion": "Sliding over rocky terrains",
+      "Social Structure": "Solitary, with seasonal gatherings for mating rituals"
+    },
+    "Umbravire Swimmer": {
+      "Diet": "Carnivorous",
+      "Habitat": "Deep ocean trenches",
+      "Morphology": "Elongated, flexible body with luminescent spots",
+      "Locomotion": "Swimming with agility and speed",
+      "Social Structure": "Communal, forming schools for hunting"
+    },
+    "Aerial Bloomcaster": {
+      "Diet": "Phototrophic and nutrient-rich particles",
+      "Habitat": "High-altitude cloud layers on a gas giant",
+      "Morphology": "Petal-like structures resembling flowers",
+      "Locomotion": "Floating using gas bladders",
+      "Social Structure": "Communal, engaging in cooperative breeding"
+    },
+    "Armoured Crystarial": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal caves and mineral-rich environments",
+      "Morphology": "Armoured shell with reflective surface",
+      "Locomotion": "Crawling using muscular appendages",
+      "Social Structure": "Solitary, with seasonal rituals for mating"
+    },
+    "Biomoss Recycler": {
+      "Diet": "Decaying organic matter and mineral particles",
+      "Habitat": "Nutrient-rich soils created by volcanic ash",
+      "Morphology": "Large, colorful mats with superficial bioluminescence",
+      "Locomotion": "Stationary, anchored in the soil",
+      "Social Structure": "N/A"
+    }
+  },
+  "Test 3": {
+    "Silicscale Dweller": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Lava tubes and caves on a volcanically active planet",
+      "Morphology": "Scaled body with reflective, metallic-like skin",
+      "Locomotion": "Sliding over rocky terrains",
+      "Social Structure": "Solitary with seasonal gatherings for mating"
+    },
+    "Umbravire Swimmer": {
+      "Diet": "Carnivorous",
+      "Habitat": "Deep oceanic trenches on a dark, high-pressure oceanic world",
+      "Morphology": "Elongated, flexible body resembling a serpent with luminescent spots",
+      "Locomotion": "Swimming using undulations of its body",
+      "Social Structure": "Communal, forming schools based on food availability"
+    },
+    "Aerial Bloomcaster": {
+      "Diet": "Phototrophic and nutrient-rich particle consumer",
+      "Habitat": "High-altitude cloud layers on a gas giant",
+      "Morphology": "Petal-like structures resembling flowers",
+      "Locomotion": "Floating using gas bladders",
+      "Social Structure": "Communal, with complex hierarchies and cooperative breeding"
+    },
+    "Armoured Crystarial": {
+      "Diet": "Mineral and metallic eater",
+      "Habitat": "Crystal caves on a mineral-rich planet",
+      "Morphology": "Armoured shell for protection",
+      "Locomotion": "Crawling",
+      "Social Structure": "Solitary, with markings on cave walls for territorial communication"
+    },
+    "Biomoss Recycler": {
+      "Diet": "Filter feeder on organic matter and minerals",
+      "Habitat": "Nutrient-rich soils created from volcanic ash",
+      "Morphology": "Colorful mats resembling moss with bioluminescent features",
+      "Locomotion": "Stationary, with potential spreading through spores",
+      "Social Structure": "Grows in patches, creating habitats for other organisms"
+    }
+  },
+  "Test 4": {
+    "Silicscale Dweller": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Lava tubes and caves on a volcanically active planet",
+      "Morphology": {
+        "Body": "Scaled body covered in reflective, metallic-like skin",
+        "Adaptations": "Withstands extreme temperatures and harsh environments"
+      },
+      "Locomotion": "Sliding through rocky terrains using muscle contractions",
+      "Social Structure": "Solitary with seasonal gatherings during mineral blooms for mating rituals"
+    },
+    "Umbravire Swimmer": {
+      "Diet": "Carnivorous",
+      "Habitat": "Deep ocean trenches on a dark, high-pressure oceanic world",
+      "Morphology": {
+        "Body": "Elongated, flexible body resembling a serpent",
+        "Features": "Luminescent spots along its sides for attracting prey"
+      },
+      "Locomotion": "Swimming with agility and speed, using undulations of its body",
+      "Social Structure": "Communal, forming schools based on food availability"
+    },
+    "Aerial Bloomcaster": {
+      "Diet": "Phototrophic",
+      "Habitat": "High-altitude cloud layers on a gas giant",
+      "Morphology": {
+        "Appearance": "Petal-like structures resembling flowers",
+        "Adaptations": "Gas bladders for buoyancy"
+      },
+      "Locomotion": "Floating using wings or fins to navigate",
+      "Social Structure": "Communal, forming large groups to maximize access to sunlight"
+    },
+    "Armoured Crystarial": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal caves on a mineral-rich planet",
+      "Morphology": {
+        "Body": "Armoured shell with reflective properties",
+        "Features": "Hard and shiny exterior providing camouflage"
+      },
+      "Locomotion": "Crawling using muscular limbs",
+      "Social Structure": "Solitary, with territorial markings"
+    }
+  },
+  "Test 5": {
+    "Silicscale Dweller": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Lava tubes and caves on a volcanic planet",
+      "Morphology": "Scaled body covered in reflective, metallic-like skin",
+      "Locomotion": "Sliding through rocky terrains",
+      "Social Structure": "Solitary, with seasonal gatherings for mating rituals",
+      "Behavioral Traits": "Creates complex markings in caves to communicate territory health"
+    },
+    "Umbravire Swimmer": {
+      "Diet": "Carnivorous",
+      "Habitat": "Deep ocean trenches on a high-pressure oceanic world",
+      "Morphology": "Elongated, flexible body with luminescent spots",
+      "Locomotion": "Swimming with agility and speed",
+      "Social Structure": "Communal, forming schools for cooperative hunting",
+      "Behavioral Traits": "Uses bioluminescence to attract prey and communicate"
+    },
+    "Aerial Bloomcaster": {
+      "Diet": "Phototrophic (with nutrient absorption from air)",
+      "Habitat": "High-altitude cloud layers on a gas giant",
+      "Morphology": "Petal-like structures resembling flowers",
+      "Locomotion": "Floating using gas bladders and wing-like extensions",
+      "Social Structure": "Communal, with complex social interactions for foraging",
+      "Behavioral Traits": "Engages in cooperative breeding and uses color changes for communication"
+    },
+    "Armoured Crystarial": {
+      "Diet": "Metallic-eater",
+      "Habitat": "Crystal caves on mineral-rich planets",
+      "Morphology": "Armoured with a hard reflective shell",
+      "Locomotion": "Crawling with muscular appendages",
+      "Social Structure": "Solitary, with markings to communicate during mating seasons",
+      "Behavioral Traits": "Uses reflective surfaces to blend in and confuse predators"
+    },
+    "Biomoss Recycler": {
+      "Diet": "Feeder on decaying organic matter and mineral particles",
+      "Habitat": "Nutrient-rich soils created by volcanic activity",
+      "Morphology": "Large, colorful mats of moss with bioluminescence",
+      "Locomotion": "Stationary, rooted in the substrate",
+      "Social Structure": "Collaborative relationships with other organisms in the ecosystem",
+      "Behavioral Traits": "Helps recycle nutrients back into the soil, fostering plant growth"
+    }
+  }
+}

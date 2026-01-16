@@ -1,0 +1,117 @@
+{
+  "Test 1": {
+    "Terbelith": {
+      "Habitat": "aquatic",
+      "Diet": "herbivorous",
+      "Morphology": "metallic",
+      "Locomotion": "bounding",
+      "Social Structure": "solitary"
+    },
+    "Vorvenvor": {
+      "Habitat": "aerial",
+      "Diet": "phototrophic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "Social Structure": "communal"
+    },
+    "Vamir": {
+      "Habitat": "forest",
+      "Diet": "carnivorous",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "Social Structure": "solitary"
+    }
+  },
+  "Test 2": {
+    "Terbelith": {
+      "Habitat": "aquatic",
+      "Diet": "herbivorous",
+      "Morphology": "metallic",
+      "Locomotion": "bounding",
+      "Social Structure": "solitary"
+    },
+    "Vorvenvor": {
+      "Habitat": "aerial",
+      "Diet": "phototrophic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "Social Structure": "communal"
+    },
+    "Vamir": {
+      "Habitat": "forest",
+      "Diet": "carnivorous",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "Social Structure": "solitary"
+    }
+  },
+  "Test 3": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "diet": "herbivorous",
+      "morphology": "metallic",
+      "locomotion": "bounding",
+      "social_structure": "solitary"
+    },
+    "Vorvenvor": {
+      "habitat": "aerial",
+      "diet": "phototrophic",
+      "morphology": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "diet": "carnivorous",
+      "morphology": "winged",
+      "locomotion": "fluttering",
+      "social_structure": "solitary"
+    }
+  },
+  "Test 4": {
+    "Terbelith": {
+      "habitat": "aquatic",
+      "diet": "herbivorous",
+      "morphology": "metallic",
+      "locomotion": "bounding",
+      "social_structure": "solitary"
+    },
+    "Vorvenvor": {
+      "habitat": "aerial",
+      "diet": "phototrophic",
+      "morphology": "gelatinous",
+      "locomotion": "floating",
+      "social_structure": "communal"
+    },
+    "Vamir": {
+      "habitat": "forest",
+      "diet": "carnivorous",
+      "morphology": "winged",
+      "locomotion": "fluttering",
+      "social_structure": "solitary"
+    }
+  },
+  "Test 5": {
+    "Terbelith": {
+      "Habitat": "aquatic",
+      "Diet": "herbivorous",
+      "Morphology": "metallic",
+      "Locomotion": "bounding",
+      "SocialStructure": "solitary"
+    },
+    "Vorvenvor": {
+      "Habitat": "aerial",
+      "Diet": "phototrophic",
+      "Morphology": "gelatinous",
+      "Locomotion": "floating",
+      "SocialStructure": "communal"
+    },
+    "Vamir": {
+      "Habitat": "forest",
+      "Diet": "carnivorous",
+      "Morphology": "winged",
+      "Locomotion": "fluttering",
+      "SocialStructure": "solitary"
+    }
+  }
+}

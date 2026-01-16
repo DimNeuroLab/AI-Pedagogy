@@ -1,0 +1,201 @@
+{
+  "Test 1": {
+    "Xalorians": {
+      "Habitat": "Dense Forest Canopies",
+      "Diet": "Herbivorous",
+      "Social Structure": "Small Family Units",
+      "Morphology": "Grasping Limbs, Prehensile Tail",
+      "Locomotion": "Climbing, Swinging"
+    },
+    "Aquarids": {
+      "Habitat": "Oceans and Lakes",
+      "Diet": "Omnivorous",
+      "Social Structure": "Schools",
+      "Morphology": "Streamlined Body, Fins",
+      "Locomotion": "Swimming"
+    },
+    "Pyronids": {
+      "Habitat": "Volcanic Plains",
+      "Diet": "Thermophilic Diet",
+      "Social Structure": "Clan-Based Systems",
+      "Morphology": "Heat-Resistant Exoskeleton",
+      "Locomotion": "Burrowing, Gliding"
+    },
+    "Glimmerons": {
+      "Habitat": "Bioluminescent Forests",
+      "Diet": "Omnivorous",
+      "Social Structure": "Small Groups",
+      "Morphology": "Iridescent Scales",
+      "Locomotion": "Agile Climbing"
+    },
+    "Crystar": {
+      "Habitat": "Crystalline Caves",
+      "Diet": "Mineralivores",
+      "Social Structure": "Loose Social Groups",
+      "Morphology": "Crystalline Armor",
+      "Locomotion": "Burrowing"
+    },
+    "Techsarians": {
+      "Habitat": "Resource-Rich Planet",
+      "Diet": "Varied, Sustainable",
+      "Social Structure": "Technologically Advanced Society",
+      "Morphology": "Adaptive Based on Technology",
+      "Locomotion": "Technologically Enhanced"
+    }
+  },
+  "Test 2": {
+    "Xalorians": {
+      "Diet": "Herbivorous",
+      "SocialStructure": "Family Units",
+      "Habitat": "Forest Canopies",
+      "Morphology": "Grasping Limbs, Prehensile Tails",
+      "Locomotion": "Climbing and Swinging"
+    },
+    "Aquarids": {
+      "Diet": "Omnivorous",
+      "SocialStructure": "Schools",
+      "Habitat": "Oceans and Lakes",
+      "Morphology": "Streamlined Body, Fins",
+      "Locomotion": "Swimming"
+    },
+    "Pyronids": {
+      "Diet": "Thermophilic",
+      "SocialStructure": "Clan-Based",
+      "Habitat": "Volcanic Plains",
+      "Morphology": "Heat-Resistant Exoskeleton",
+      "Locomotion": "Burrowing and Gliding"
+    },
+    "Glimmerons": {
+      "Diet": "Omnivorous",
+      "SocialStructure": "Social Groups",
+      "Habitat": "Bioluminescent Forests",
+      "Morphology": "Iridescent Scales",
+      "Locomotion": "Climbing"
+    },
+    "Crystar": {
+      "Diet": "Mineralivores",
+      "SocialStructure": "Solitary",
+      "Habitat": "Crystalline Caves",
+      "Morphology": "Crystalline Armor",
+      "Locomotion": "Burrowing"
+    },
+    "Techsarians": {
+      "TechnologicalAdvancement": "High",
+      "CulturalPractic": "Ecological Stewardship",
+      "Habitat": "Resource-Rich Planets",
+      "SocialStructure": "Advanced Societies",
+      "Interactions": "Inter-Species Alliances"
+    }
+  },
+  "Test 3": {
+    "Xalorians": {
+      "Habitat": "Forest canopies",
+      "Diet": "Herbivorous with occasional insects",
+      "SocialStructure": "Small family units",
+      "Morphology": "Grasping limbs with prehensile tails",
+      "Locomotion": "Climbing and swinging"
+    },
+    "Aquarids": {
+      "Habitat": "Oceans and freshwater lakes",
+      "Diet": "Omnivorous",
+      "SocialStructure": "Schools or social groups",
+      "Morphology": "Streamlined, hydrodynamic shape with fins",
+      "Locomotion": "Fin propulsion and body undulation"
+    },
+    "Pyronids": {
+      "Habitat": "Volcanic plains and geothermal environments",
+      "Diet": "Thermophilic diet consuming extremophiles and minerals",
+      "SocialStructure": "Clan-based systems",
+      "Morphology": "Heat-resistant exoskeleton",
+      "Locomotion": "Burrowing and gliding using thermal updrafts"
+    },
+    "Techsarians": {
+      "Habitat": "Resource-rich planets",
+      "Diet": "Varied, technologically managed",
+      "SocialStructure": "Advanced societies with ecological stewardship",
+      "Morphology": "Varies with technological integration",
+      "Locomotion": "Technologically assisted"
+    }
+  },
+  "Test 4": {
+    "Xalorians": {
+      "Diet": "Herbivorous",
+      "SocialStructure": "Social, family units",
+      "Habitat": "Canopies of lush forests",
+      "Morphology": "Grasping limbs, flexible joints, prehensile tails",
+      "Locomotion": "Climbing and swinging"
+    },
+    "Aquarids": {
+      "Diet": "Omnivorous",
+      "SocialStructure": "Schools or social groups",
+      "Habitat": "Oceans and freshwater lakes",
+      "Morphology": "Streamlined body, fins, lateral lines",
+      "Locomotion": "Swimming, body undulation"
+    },
+    "Pyronids": {
+      "Diet": "Thermophilic, chemosynthetic",
+      "SocialStructure": "Clan-based systems",
+      "Habitat": "Volcanic plains, geothermal environments",
+      "Morphology": "Heat-resistant exoskeleton, specialized breathing",
+      "Locomotion": "Burrowing and gliding"
+    },
+    "Techsarians": {
+      "Diet": "Varied, omnivorous",
+      "SocialStructure": "Highly social, cooperative",
+      "Habitat": "Resource-rich environments",
+      "Morphology": "Advanced technological integration",
+      "Locomotion": "Varied, technology-assisted"
+    },
+    "Biogardeners": {
+      "Diet": "Herbivorous",
+      "SocialStructure": "Collaborative cultivators",
+      "Habitat": "Cultivated and natural habitats",
+      "Morphology": "Adaptive for cultivation tasks",
+      "Locomotion": "Efficient, terrain-adaptive"
+    }
+  },
+  "Test 5": {
+    "Xalorians": {
+      "Diet": "Herbivorous",
+      "SocialStructure": "Family Units",
+      "Habitat": "Dense Forest Canopy",
+      "Morphology": "Grasping Limbs, Prehensile Tail",
+      "Locomotion": "Climbing and Swinging"
+    },
+    "Aquarids": {
+      "Diet": "Omnivorous",
+      "SocialStructure": "Schools",
+      "Habitat": "Oceans and Lakes",
+      "Morphology": "Streamlined Body, Fins",
+      "Locomotion": "Swimming"
+    },
+    "Pyronids": {
+      "Diet": "Thermophilic",
+      "SocialStructure": "Clans",
+      "Habitat": "Volcanic Plains",
+      "Morphology": "Heat-Resistant Exoskeleton",
+      "Locomotion": "Burrowing and Gliding"
+    },
+    "Techsarians": {
+      "Diet": "Omnivorous",
+      "SocialStructure": "Cooperative",
+      "Habitat": "Resource-Rich Environments",
+      "Morphology": "Adaptive Technology Use",
+      "Locomotion": "Varied"
+    },
+    "Glimmerons": {
+      "Diet": "Omnivorous",
+      "SocialStructure": "Family Units",
+      "Habitat": "Bioluminescent Forests",
+      "Morphology": "Iridescent Scales",
+      "Locomotion": "Agile Climbing"
+    },
+    "Crystar": {
+      "Diet": "Mineralivores",
+      "SocialStructure": "Solitary or Small Groups",
+      "Habitat": "Crystalline Caves",
+      "Morphology": "Crystalline Armor",
+      "Locomotion": "Burrowing"
+    }
+  }
+}
