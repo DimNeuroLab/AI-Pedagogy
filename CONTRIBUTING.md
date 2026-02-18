@@ -1,4 +1,4 @@
-# Contributing to AIP
+# Contributing to AI-Pedagogy
 
 Thank you for your interest in contributing to AIP (Artificial Intelligence Pedagogy)!
 
@@ -10,7 +10,8 @@ This is a research prototype developed for academic purposes. The project explor
 
 This repository is primarily maintained for research purposes and reproducibility of the findings published in:
 
-**Patania et al. (2025)** – *AI Pedagogy: Dialogic Social Learning for Artificial Agents*, ICSR 2025.
+- **Patania et al. (2025)** – *AI Pedagogy: Dialogic Social Learning for Artificial Agents*, ICSR 2025.
+- **Patania et al. (2026)** – *Teaching LLMs Naturally: Pedagogical Strategies for Interactive Knowledge Acquisition*, accepted at AAMAS 2026.
 
 ## How to Use This Code
 
