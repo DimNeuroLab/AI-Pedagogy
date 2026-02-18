@@ -7,9 +7,9 @@
 AIP (Artificial Intelligence Pedagogy) is a research platform for simulating pedagogical interactions between artificial agents using Large Language Models (LLMs). Inspired by Vygotskian theories of social learning, this project explores how structured dialogues between a knowledgeable **Teacher LLM** and a naïve **Learner LLM** can facilitate ontology acquisition in a controlled setting.
 
 This work supports the findings presented in the papers:  
-**Patania et al. (2025)** – *AI Pedagogy: Dialogic Social Learning for Artificial Agents*, accepted at ICSR 2025.
 
-**Patania et al. (2026)** – *Teaching LLMs Naturally: Pedagogical Strategies for Interactive Knowledge Acquisition*, accepted at AAMAS 2026.
+- **Patania et al. (2025)** – *AI Pedagogy: Dialogic Social Learning for Artificial Agents*, accepted at ICSR 2025.
+- **Patania et al. (2026)** – *Teaching LLMs Naturally: Pedagogical Strategies for Interactive Knowledge Acquisition*, accepted at AAMAS 2026.
 
 ---
 
