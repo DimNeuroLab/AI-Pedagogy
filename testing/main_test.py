@@ -34,7 +34,7 @@ import json
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from ontology_tester import OntologyTester, transform_alien_structure_oneliner, convert_conversation, extract_json_from_agent_output
+from .ontology_tester import OntologyTester, transform_alien_structure_oneliner, convert_conversation, extract_json_from_agent_output
 from agents.learner_agent import LearnerAgent
 from agents.expert import ExpertAgent
 from utils.config_loader import load_config

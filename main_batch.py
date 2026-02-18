@@ -11,7 +11,7 @@ ScaffAliens Orchestrator: Batch Mode
     b. Testing phase
 3. Aggregates and saves results.
 
-Author: Sab & ChatGPT
+Author: Sab & Luca
 Date: updated
 """
 

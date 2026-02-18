@@ -6,7 +6,7 @@ ScaffAliens – Base Agent
 This module defines a base Agent class shared by TeacherAgent, LearnerAgent, and OracleAgent.
 It handles prompt loading, dialogue history, and API calls.
 
-Author: Sab
+Author: Sab & Luca
 Created: 2nd May
 """
 

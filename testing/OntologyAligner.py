@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from difflib import SequenceMatcher
 from typing import Dict, List, Tuple, Callable, Optional
-from functions import get_facts
+from .functions import get_facts
 
 
 class OntologyAligner:

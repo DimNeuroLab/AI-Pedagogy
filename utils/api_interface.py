@@ -6,7 +6,7 @@ API Interface for ScaffAliens.
 This module routes prompt-based calls to GPT (OpenAI) or other providers
 like Jamba. It is controlled by the YAML config file.
 
-Author: Sab
+Author: Sab & Luca
 Created: 2nd May
 """
 

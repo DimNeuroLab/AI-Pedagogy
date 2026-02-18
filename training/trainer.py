@@ -12,7 +12,7 @@ Implements the Training phase for ScaffAliens, in which:
 - Each training session (trial) consists of a fixed number of back‐and‐forth turns.
 - All dialogues are logged for subsequent analysis.
 
-Author: Sab
+Author: Sab & Luca
 Date: 2nd May
 """
 
@@ -55,9 +55,9 @@ class Trainer:
         os.makedirs(self.out_path, exist_ok=True)
 
         # 5) Instantiate Teacher and Learner agents
-        Teacher_strategy = self.config["Teacher"]["strategy"]
+        teacher_strategy = self.config["Teacher"]["strategy"]
         self.teacher = TeacherAgent(
-            strategy_name=Teacher_strategy,
+            strategy_name=teacher_strategy,
             model_name=model_name,
             prompt_file_path=prompt_file,
             ontology=self.ontology

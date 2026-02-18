@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
-TODO: CHECK, PROBABLY WRONG
 testing/test_20q.py
 
 Test phase for ScaffAliens: the trained LearnerAgent plays 20 Questions
 against an OracleAgent. We record number of questions to success and accuracy.
 
-Author: Sab
+Author: Sab & Luca
 Date: 2nd May
 """
 
@@ -80,8 +79,11 @@ class Tester:
             print(f"Target: {target}")
             # Reset conversations
             self.oracle.reset_conversation()
-            #self.learner.reset_conversation()
-            self.learner.reset_context()
+            # Reset learner context if available, otherwise reset conversation
+            if hasattr(self.learner, 'reset_context') and self.learner.context is not None:
+                self.learner.reset_context()
+            else:
+                self.learner.reset_conversation()
             # Tell oracle who the target is
             self.oracle.set_target(target)
             qa_log = []
@@ -124,8 +126,21 @@ class Tester:
             })
             print(f"[Test] Set {set_idx}/{self.num_sets}, Target '{target}' → "
                   f"{'✔' if correct else '✘'} in {questions_used} questions")
-        # Save results
-        out_path = os.path.join(self.save_dir, "20q_test_logs_"+ self.config["Teacher"]["strategy"] +".json")
+        # Save results with proper structured path
+        ontology_name = os.path.splitext(os.path.basename(self.config["ontology"]["file"]))[0]
+        strategy = self.config["Teacher"]["strategy"]
+        model_name = self.config["model"]["name"]
+        
+        out_path = os.path.join(
+            self.save_dir,
+            model_name,
+            ontology_name,
+            "tests",
+            "20q_game",
+            f"{strategy}_test.json"
+        )
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(logs, f, indent=2, ensure_ascii=False)
 

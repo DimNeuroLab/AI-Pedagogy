@@ -3,7 +3,7 @@ import os
 from networkx import efficiency
 import numpy as np
 import matplotlib.pyplot as plt
-from config_loader import load_config
+from .config_loader import load_config
 
 groups = {
         "Instructions": ["top_down", "bottom_up"],

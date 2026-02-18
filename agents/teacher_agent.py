@@ -1,6 +1,6 @@
-# agents/Teacher_agent.py
+# agents/teacher_agent.py
 
-from agents.base_agent import Agent
+from .base_agent import Agent
 import json
 
 class TeacherAgent(Agent):

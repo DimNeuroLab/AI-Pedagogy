@@ -13,7 +13,7 @@ ScaffAliens Orchestrator
 Usage:
     python main.py
 
-Author: Sab
+Author: Sab & Luca
 Date: 2nd May
 """
 

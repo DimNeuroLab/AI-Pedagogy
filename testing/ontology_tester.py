@@ -1,6 +1,6 @@
 import json
 import random
-from ontology_querier import OntologyQuerier
+from .ontology_querier import OntologyQuerier
 import os
 import sys
 import re

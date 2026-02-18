@@ -6,7 +6,7 @@ ScaffAliens Prompt Loader
 This module provides a utility function to load all system/user prompts used
 in the ScaffAliens framework, from a central JSON file.
 
-Author: Sab
+Author: Sab & Luca
 Created: 2nd May
 """
 

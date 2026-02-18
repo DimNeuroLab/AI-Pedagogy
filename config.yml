@@ -1,5 +1,5 @@
 Teacher:
-  strategy: mixed_learner_questions
+  strategy: mixed_learner_questions 
 child:
   architecture: transformer
 evaluation:
@@ -8,8 +8,8 @@ evaluation:
 experiment_name: geenral_ontologies_TD_run_001
 model:
   max_tokens: 10000
-  name: llama4
-  provider: ollama
+  name: gpt-oss-large
+  provider: openai
   temperature: 0.3
 ontology:
   file: data/ontologies/ontology_aliens_10.json

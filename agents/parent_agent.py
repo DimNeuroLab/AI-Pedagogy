@@ -1,6 +1,6 @@
 # agents/parent_agent.py
 
-from agents.base_agent import Agent
+from .base_agent import Agent
 import json
 from utils.prompts_loader import PromptLoader
 

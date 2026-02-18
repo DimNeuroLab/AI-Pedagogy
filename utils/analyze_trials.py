@@ -7,7 +7,7 @@ matplotlib.use('Agg')  # To avoid display issues when running headless
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
-from config_loader import load_config
+from .config_loader import load_config
 import numpy as np
 import statsmodels.stats.multitest as smm
 import matplotlib.transforms as mtransforms

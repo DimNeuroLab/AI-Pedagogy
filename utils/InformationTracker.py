@@ -2,10 +2,12 @@ import os
 from collections import Counter
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from api_interface import call_model_api
+from .api_interface import call_model_api
 import json
 from copy import deepcopy
 import re
+import numpy as np
+import pandas as pd
 
 
 
@@ -601,7 +603,7 @@ def main_bunch():
             tracker.reset()
     tracker.plot_metrics(
         input_folder=os.path.join(OUTPUT_PATH, "track_info"),
-        output_path=os.path.join(OUTPUT_PATH, "track_info", f"tracking_plot_{os.path.splitext(os.path.basename(config["ontology"]["file"]))[0]}.pdf")
+        output_path=os.path.join(OUTPUT_PATH, "track_info", f"tracking_plot_{os.path.splitext(os.path.basename(config['ontology']['file']))[0]}.pdf")
     )
 
 def main_single():
@@ -634,138 +636,140 @@ def main_single():
 
     tracker.plot_metrics(
         input_folder=os.path.join(OUTPUT_PATH, "track_info"),
-        output_path=os.path.join(OUTPUT_PATH, "track_info", f"tracking_plot_{os.path.splitext(os.path.basename(config["ontology"]["file"]))[0]}.pdf")
+        output_path=os.path.join(OUTPUT_PATH, "track_info", f"tracking_plot_{os.path.splitext(os.path.basename(config['ontology']['file']))[0]}.pdf")
     )
 
+def compute_refined_dynamics(cumulative_facts_list):
+    """
+    Computes Effective Rate and Saturation metrics.
+    
+    Args:
+        cumulative_facts_list (list[int]): E.g., [0, 10, 50, 90, 100, 100, 100...]
+    """
+    F = np.array(cumulative_facts_list)
+    N = len(F)
+    
+    if N < 2: return {}
 
-def classifier_dialogue(dialogue, step, model, ontology, num_samples = 5):
-        
-    system_prompt = """
-                    You are an expert linguist specializing in Speech Act Theory and Educational Dialogue Analysis. 
-                    Your task is to classify the function of a specific turn in a dialogue.
+    # 1. Determine the "Ceiling" (Final Knowledge State)
+    final_facts = F[-1]
+    if final_facts == 0:
+        return {
+            "Total_Facts": 0,
+            "Effective_Rate": 0.0,
+            "Turns_to_Saturation": 0,
+            "Saturation_Index": 0.0
+        }
 
-                    You will receive the dialogue history and the current turn.
-                    1. First, analyze the linguistic structure and intent of the turn inside your thought process.
-                    2. Then, output a single Valid JSON object containing the classification tag.
-                    3. Do NOT output Markdown formatting (like ```json). Output raw JSON only.
-                    """
-    user_prompt = f"""
-                    ### Task
-                    Classify the **Current Turn** into exactly one of the following tags based on its primary communicative function.
+    # 2. Find Time to Saturation (T_sat)
+    # The first turn where we reach >= 95% of the final count
+    threshold = 1 * final_facts
+    # np.argmax returns the *first* index where condition is true
+    t_sat = np.argmax(F >= threshold)
+    
+    # Safety: if t_sat is 0 (started with facts), set to 1 to avoid div/0
+    t_sat_safe = max(1, t_sat)
 
-                    ### The Rubric
-                    1. **Informing**: Conveying facts, answers, explanations, or evaluative feedback (e.g., "The answer is 5", "That is correct").
-                    2. **Inquiring**: Asking questions or probing for information (e.g., "Why?", "Is it X?").
-                    3. **Acknowledging**: Confirming receipt or simple agreement without adding new content (e.g., "Okay", "Right", "I see").
-                    4. **Phatic**: Social pleasantries or channel management (e.g., "Hello", "Can you hear me?").
+    # 3. Compute Metrics
+    
+    # Effective Rate: Facts per turn during the active phase
+    effective_rate = final_facts / t_sat_safe
+    
+    # Saturation Index (Shape): Still useful for Front vs Back loading
+    # (Same formulation as before, just kept for context)
+    auc = np.sum(F)
+    max_area = N * final_facts
+    saturation_idx = auc / max_area
 
-                    ### The Input
-                    **Conversation History:**
-                    {dialogue}
+    return {
+        "Total_Facts": int(final_facts),
+        "Effective_Rate": round(effective_rate, 2),  # <--- The metric you want
+        "Turns_to_Saturation": int(t_sat),           # <--- When the "real" conversation ended
+        "Saturation_Index": round(saturation_idx, 2)
+    }
 
-                    **Current Turn to Classify:**
-                    {step}
-
-                    ### Output Format
-                    Return ONLY this JSON object:
-                    {{
-                    "tag": "Your_Choice_Here"
-                    }}
-                    """
-                    
-    message = [{"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}]
+def main_analysis():
+    from config_loader import load_config
+    # 1. Load Configuration
+    config = load_config("config.yml")
+    save_dir = config.get("save_dir", "results")
+    model_name = config["model"]["name"]
+    ontology_file = config["ontology"]["file"]
+    
+    # Construct Paths based on your structure
+    # Path: results\gpt-4o\ontology_aliens_10\tests\track_info
+    base_output_path = os.path.join(save_dir, model_name, os.path.splitext(os.path.basename(ontology_file))[0], "tests")
+    tracking_dir = os.path.join(base_output_path, "track_info")
+    
+    print(f"[Main] Reading tracking files from: {tracking_dir}")
     
     results = []
 
-    for _ in range(num_samples):
-        response = call_model_api(message, model)
-        # Look for which tag appears in the LLM response
-        found_tag = None
-        for tag in [
-            "Teacher Introduction",
-            "Teacher Explanation",
-            "Learner Inquiry",
-            "Learner Confirmation/Summary",
-            "Not Related"
-        ]:
-            if tag in response:
-                found_tag = tag
-                break  # stop at the first match
+    # 2. Iterate through Strategies
+    for group_name, strategies in groups.items():
+        for strategy in strategies:
+            # Skip baselines if they are not relevant to turn-by-turn analysis, 
+            # or keep them if you treat sentences as turns (assuming existing logic handles it).
+            # For this script, we assume tracking files exist for them.
+            
+            filename = f"tracking_{strategy}.json"
+            file_path = os.path.join(tracking_dir, filename)
+            
+            if os.path.isfile(file_path):
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    
+                    # 3. Extract Cumulative Fact Counts
+                    # The 'triplets' key contains a list of lists (one list of facts per turn)
+                    # We need the length of that list per turn.
+                    if 'metrics' in data and 'total_known_facts' in data['metrics']:
+                        cumulative_facts = [167 if turn_facts > 167 else turn_facts for turn_facts in data['metrics']['total_known_facts']]
+                        
+                        # 4. Compute Metrics
+                        metrics = compute_refined_dynamics(cumulative_facts)
+                        
+                        # Add metadata
+                        metrics['Strategy'] = strategy
+                        metrics['Group'] = group_name
+                        results.append(metrics)
+                    else:
+                        print(f"[Warn] No 'triplets' key found in {filename}")
 
-        # Default to "Not Related" if nothing matches
-        results.append(found_tag or "Not Related")
+                except Exception as e:
+                    print(f"[Error] Failed processing {filename}: {e}")
+            else:
+                print(f"[Warn] File not found: {file_path}")
 
-    response = Counter(results).most_common(1)[0][0]
-    #print(f"Most common response: {response}, {type(response)}")
-    return response
-
-
-def start_classifier(dialogue, model_name, ontology):
-
-    if not dialogue:
-        raise ValueError("Dialogue cannot be empty or None")
-
-    res = {}
-    for i, step in enumerate(dialogue):
-        print(f"[Classifier] Processing dialogue turn {i+1}/{len(dialogue)}")
+    # 3. Output and Save
+    if results:
+        df = pd.DataFrame(results)
         
-        classification = classifier_dialogue(
-            dialogue=dialogue[:i],
-            step=step,
-            model=model_name,
-            ontology=ontology,
-            num_samples=5
-        )
+        # Reorder columns for clarity
+        cols = ["Group", "Strategy", "Total_Facts", "Effective_Rate", "Turns_to_Saturation", "Saturation_Index"]
+        df = df[cols]
+        
+        # Sort by Effective Rate descending to see the "fastest" first
+        df = df.sort_values(by="Effective_Rate", ascending=False)
 
-        print(f"[Classifier] Classification for turn {i+1}: {classification}")
-        res[i] = classification
-    return res
-
-def main_classfier():
-    from config_loader import load_config
-
-    config = load_config("config.yml")
-    ontology_file = config["ontology"]["file"]
-    save_dir = config.get("save_dir", "results")
-    model_name = config["model"]["name"]
-    strategy = config["Teacher"]["strategy"]
-    with open(ontology_file, 'r', encoding='utf-8') as f:
-        ontology = json.load(f)
-        print("[Main] Loaded ontology from ", ontology_file)
-    OUTPUT_PATH = os.path.join(save_dir, model_name, os.path.splitext(os.path.basename(config["ontology"]["file"]))[0], "tests")
-
-    TRAINING_LOGS_DIR = os.path.join(save_dir, "gpt-4o", os.path.splitext(os.path.basename(config["ontology"]["file"]))[0], "dialogue")
-    print(f"[Main] Output path set to: {OUTPUT_PATH}")
-    print(f"[Main] Training logs path set to: {TRAINING_LOGS_DIR}")
-    os.makedirs(os.path.join(OUTPUT_PATH, "track_info"), exist_ok=True)
-
-    res = {}
-    for _, agent_keys in groups.items():
-        for agent_key in agent_keys:
-            if agent_key == "bottom_up" or agent_key == "top_down":
-                continue  # Skip these strategies
-            print(f"[Main] Processing strategy: {agent_key}")
-            strategy = agent_key
-            filename = os.path.join(TRAINING_LOGS_DIR, f"{strategy}_train.json")
-            if os.path.isfile(filename) and filename.endswith("_train.json"):
-                print(f"[Main] Processing file: {filename}")
-                conversation = load_trials(filename)[0]["conversation"]
-                print(f"[Main] Converted conversation with {len(conversation)} turns.")
-                print(f"[Main] Starting tracking for {filename}")
-                res[strategy] = start_classifier(conversation, model_name, ontology)
-    
-
-    # Plot per strategy
-    with open(os.path.join(OUTPUT_PATH, "track_info", f"classifier_results.json"), 'w', encoding='utf-8') as f:
-        json.dump(res, f, indent=4)
-
+        print("\n" + "="*80)
+        print("RAPIDITY ANALYSIS: DYNAMICS OF EXCHANGE")
+        print("="*80)
+        print(df.to_string(index=False))
+        print("="*80)
+        
+        # Save to CSV
+        output_csv = os.path.join(tracking_dir, "rapidity_dynamics_results.csv")
+        df.to_csv(output_csv, index=False)
+        print(f"\n[Main] Results saved to: {output_csv}")
+    else:
+        print("[Main] No valid data found.")
 
 
 if __name__ == "__main__":
     #main_bunch()
     #main_single()
-    main_classfier()
+    main_analysis()
 
 
 

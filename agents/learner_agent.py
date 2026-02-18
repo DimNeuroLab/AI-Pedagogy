@@ -1,6 +1,6 @@
 # agents/learner_agent.py
 import copy
-from agents.base_agent import Agent
+from .base_agent import Agent
 
 class LearnerAgent(Agent):
     """
@@ -24,7 +24,12 @@ class LearnerAgent(Agent):
         self.context = context
 
     def reset_context(self):
-        self.conversation_history = copy.deepcopy(self.context)
+        """Reset conversation history to saved context."""
+        if self.context is not None:
+            self.conversation_history = copy.deepcopy(self.context)
+        else:
+            # If no context set, just reset to initial state
+            self.reset_conversation()
 
     def ask_question(self, candidate_set_description=None):
         """
