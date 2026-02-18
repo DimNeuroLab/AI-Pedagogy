@@ -8,6 +8,7 @@ AIP (Artificial Intelligence Pedagogy) is a research platform for simulating ped
 
 This work supports the findings presented in the papers:  
 **Patania et al. (2025)** – *AI Pedagogy: Dialogic Social Learning for Artificial Agents*, accepted at ICSR 2025.
+
 **Patania et al. (2026)** – *Teaching LLMs Naturally: Pedagogical Strategies for Interactive Knowledge Acquisition*, accepted at AAMAS 2026.
 
 ---
